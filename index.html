@@ -10,98 +10,130 @@
   <div class="app-shell">
     <header class="hero">
       <div>
-        <p class="eyebrow">N5 · N4 · 추가 · 20개씩 회독</p>
+        <p class="eyebrow">누적 회독 · 단계별 단어장 · 모르는 단어</p>
         <h1>JLPT 회독 단어장</h1>
-        <p class="hero-copy">한자/일본어를 먼저 보고, 발음·뜻·부수 분석을 단계적으로 확인합니다.</p>
+        <p class="hero-copy">급수와 단계를 고르면 선택한 단계까지의 단어가 섞여 회독됩니다.</p>
       </div>
       <div class="stats" aria-label="데이터 요약">
         <div><strong id="totalWords">0</strong><span>단어</span></div>
-        <div><strong id="savedWords">0</strong><span>저장</span></div>
+        <div><strong id="savedWords">0</strong><span>모르는 단어</span></div>
+        <div><strong id="completedWords">0/0</strong><span>회독 완료</span></div>
       </div>
     </header>
 
-    <section class="panel controls" aria-label="학습 설정">
-      <div class="level-tabs" role="tablist" aria-label="JLPT 급수">
-        <button class="level-btn active" type="button" data-level="N5">N5</button>
-        <button class="level-btn" type="button" data-level="N4">N4</button>
-        <button class="level-btn" type="button" data-level="추가">추가</button>
-      </div>
+    <main aria-live="polite">
+      <section id="homeView" class="view-stack">
+        <div id="levelCards" class="level-grid" aria-label="급수 선택"></div>
 
-      <label class="select-label">
-        <span>20개 단위</span>
-        <select id="deckSelect"></select>
-      </label>
-
-      <button id="normalModeBtn" class="mode-btn active" type="button">일반 회독</button>
-      <button id="reviewModeBtn" class="mode-btn" type="button">공부할 단어 회독</button>
-    </section>
-
-    <main class="panel card-panel" aria-live="polite">
-      <div id="completeView" class="complete hidden">
-        <p class="eyebrow" id="completeMeta">완료</p>
-        <h2 id="completeTitle">회독 완료</h2>
-        <p id="completeMessage"></p>
-        <div class="complete-actions">
-          <button id="repeatBtn" type="button">같은 묶음 다시</button>
-          <button id="nextDeckBtn" type="button">다음 20개</button>
-          <button id="reviewSavedBtn" type="button">저장 단어 회독</button>
-        </div>
-      </div>
-
-      <article id="cardView" class="word-card">
-        <div class="card-top">
-          <span id="cardMeta" class="badge">N5 1장</span>
-          <span id="savedBadge" class="badge saved hidden">공부할 단어</span>
-        </div>
-
-        <div class="progress-wrap" aria-label="진행률">
-          <div class="progress-bar"><span id="progressFill"></span></div>
-          <p id="progressText">1 / 20</p>
-        </div>
-
-        <section class="front">
-          <p class="front-label">먼저 보고 떠올리기</p>
-          <h2 id="japaneseWord">図書館</h2>
-        </section>
-
-        <section class="reveals" aria-label="정답 확인">
-          <div class="answer-box" id="readingBox">
-            <span>일본어 발음</span>
-            <strong id="readingValue">일본어 버튼을 누르면 표시됩니다.</strong>
+        <section class="panel review-panel" aria-label="모르는 단어 회독">
+          <div>
+            <p class="eyebrow">저장 단어</p>
+            <h2>모르는 단어 회독</h2>
+            <p>회독 중 ‘공부하겠음’을 누른 단어만 모아서 다시 봅니다.</p>
           </div>
-          <div class="answer-box" id="meaningBox">
-            <span>한국어 뜻</span>
-            <strong id="meaningValue">한국어 버튼을 누르면 표시됩니다.</strong>
+          <div class="review-panel-actions">
+            <strong id="reviewCount">0개</strong>
+            <button id="reviewAllBtn" type="button">시작</button>
           </div>
         </section>
+      </section>
 
-        <section id="extraInfo" class="extra-info hidden">
-          <p id="kanjiNote"></p>
-          <div id="radicalAnalysis" class="radical-analysis"></div>
-          <p id="exampleText"></p>
-          <p id="exampleKo"></p>
-        </section>
+      <section id="stageView" class="panel stage-view hidden">
+        <div class="view-header">
+          <button id="backHomeBtn" class="text-btn" type="button">홈</button>
+          <div>
+            <p class="eyebrow" id="stageMeta">단계 선택</p>
+            <h2 id="stageTitle">N5 회독 단계</h2>
+          </div>
+        </div>
+        <div id="stageGrid" class="stage-grid"></div>
+      </section>
 
-        <div class="primary-actions">
-          <button id="showReadingBtn" class="secondary" type="button">일본어</button>
-          <button id="showMeaningBtn" class="secondary" type="button">한국어</button>
+      <section id="listView" class="panel word-list-view hidden">
+        <div class="view-header">
+          <button id="backStageBtn" class="text-btn" type="button">단계</button>
+          <div>
+            <p class="eyebrow" id="listMeta">단어장</p>
+            <h2 id="listTitle">단어장</h2>
+          </div>
+          <button id="startListDeckBtn" class="header-action" type="button">이 단계 회독</button>
+        </div>
+        <div id="wordList" class="word-list"></div>
+      </section>
+
+      <section id="studyView" class="panel card-panel hidden">
+        <div class="study-topbar">
+          <button id="studyHomeBtn" class="text-btn" type="button">홈</button>
+          <button id="studyStageBtn" class="text-btn" type="button">단계 선택</button>
         </div>
 
-        <div class="decision-actions">
-          <button id="saveStudyBtn" class="study" type="button">공부하겠음</button>
-          <button id="knownBtn" class="known" type="button">알고있음</button>
+        <div id="completeView" class="complete hidden">
+          <p class="eyebrow" id="completeMeta">완료</p>
+          <h2 id="completeTitle">회독 완료</h2>
+          <p id="completeMessage"></p>
+          <div class="complete-actions">
+            <button id="repeatBtn" type="button">다시 회독</button>
+            <button id="nextDeckBtn" type="button">다음 단계</button>
+            <button id="stageSelectBtn" type="button">단계 선택</button>
+            <button id="homeBtn" type="button">홈</button>
+          </div>
         </div>
 
-        <div class="nav-actions">
-          <button id="prevBtn" type="button">이전</button>
-          <button id="resetBtn" type="button">처음부터</button>
-          <button id="nextBtn" type="button">다음</button>
-        </div>
-      </article>
+        <article id="cardView" class="word-card">
+          <div class="card-top">
+            <span id="cardMeta" class="badge">N5 1단계</span>
+            <span id="savedBadge" class="badge saved hidden">모르는 단어</span>
+          </div>
+
+          <div class="progress-wrap" aria-label="진행률">
+            <div class="progress-bar"><span id="progressFill"></span></div>
+            <p id="progressText">1 / 20</p>
+          </div>
+
+          <section class="front">
+            <p class="front-label">먼저 보고 떠올리기</p>
+            <h2 id="japaneseWord">図書館</h2>
+          </section>
+
+          <section class="reveals" aria-label="정답 확인">
+            <div class="answer-box" id="readingBox">
+              <span>일본어 발음</span>
+              <strong id="readingValue">일본어 버튼을 누르면 표시됩니다.</strong>
+            </div>
+            <div class="answer-box" id="meaningBox">
+              <span>한국어 뜻</span>
+              <strong id="meaningValue">한국어 버튼을 누르면 표시됩니다.</strong>
+            </div>
+          </section>
+
+          <section id="extraInfo" class="extra-info hidden">
+            <p id="kanjiNote"></p>
+            <div id="radicalAnalysis" class="radical-analysis"></div>
+            <p id="exampleText"></p>
+            <p id="exampleKo"></p>
+          </section>
+
+          <div class="primary-actions">
+            <button id="showReadingBtn" class="secondary" type="button">일본어</button>
+            <button id="showMeaningBtn" class="secondary" type="button">한국어</button>
+          </div>
+
+          <div class="decision-actions">
+            <button id="saveStudyBtn" class="study" type="button">공부하겠음</button>
+            <button id="knownBtn" class="known" type="button">알고있음</button>
+          </div>
+
+          <div class="nav-actions">
+            <button id="prevBtn" type="button">이전</button>
+            <button id="resetBtn" type="button">처음부터</button>
+            <button id="nextBtn" type="button">다음</button>
+          </div>
+        </article>
+      </section>
     </main>
 
     <footer class="footer">
-      <p>데이터: markdown bundle → CSV 변환, 부수/획수는 Unicode Unihan, 구성요소는 EDRDG KRADFILE 기반. 저장 단어는 이 브라우저의 localStorage에만 저장됩니다.</p>
+      <p>저장 단어와 회독 상태는 이 브라우저의 localStorage에만 저장됩니다.</p>
       <p class="shortcut">단축키: <kbd>J</kbd> 발음 · <kbd>K</kbd> 뜻 · <kbd>S</kbd> 공부하겠음 · <kbd>Enter</kbd> 알고있음</p>
     </footer>
   </div>
