@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JLPT 회독 단어장</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">N5 · N4 · 추가 · 20개씩 회독</p>
+        <h1>JLPT 회독 단어장</h1>
+        <p class="hero-copy">한자/일본어를 먼저 보고, 발음·뜻·부수 분석을 단계적으로 확인합니다.</p>
+      </div>
+      <div class="stats" aria-label="데이터 요약">
+        <div><strong id="totalWords">0</strong><span>단어</span></div>
+        <div><strong id="savedWords">0</strong><span>저장</span></div>
+      </div>
+    </header>
+
+    <section class="panel controls" aria-label="학습 설정">
+      <div class="level-tabs" role="tablist" aria-label="JLPT 급수">
+        <button class="level-btn active" type="button" data-level="N5">N5</button>
+        <button class="level-btn" type="button" data-level="N4">N4</button>
+        <button class="level-btn" type="button" data-level="추가">추가</button>
+      </div>
+
+      <label class="select-label">
+        <span>20개 단위</span>
+        <select id="deckSelect"></select>
+      </label>
+
+      <button id="normalModeBtn" class="mode-btn active" type="button">일반 회독</button>
+      <button id="reviewModeBtn" class="mode-btn" type="button">공부할 단어 회독</button>
+    </section>
+
+    <main class="panel card-panel" aria-live="polite">
+      <div id="completeView" class="complete hidden">
+        <p class="eyebrow" id="completeMeta">완료</p>
+        <h2 id="completeTitle">회독 완료</h2>
+        <p id="completeMessage"></p>
+        <div class="complete-actions">
+          <button id="repeatBtn" type="button">같은 묶음 다시</button>
+          <button id="nextDeckBtn" type="button">다음 20개</button>
+          <button id="reviewSavedBtn" type="button">저장 단어 회독</button>
+        </div>
+      </div>
+
+      <article id="cardView" class="word-card">
+        <div class="card-top">
+          <span id="cardMeta" class="badge">N5 1장</span>
+          <span id="savedBadge" class="badge saved hidden">공부할 단어</span>
+        </div>
+
+        <div class="progress-wrap" aria-label="진행률">
+          <div class="progress-bar"><span id="progressFill"></span></div>
+          <p id="progressText">1 / 20</p>
+        </div>
+
+        <section class="front">
+          <p class="front-label">먼저 보고 떠올리기</p>
+          <h2 id="japaneseWord">図書館</h2>
+        </section>
+
+        <section class="reveals" aria-label="정답 확인">
+          <div class="answer-box" id="readingBox">
+            <span>일본어 발음</span>
+            <strong id="readingValue">일본어 버튼을 누르면 표시됩니다.</strong>
+          </div>
+          <div class="answer-box" id="meaningBox">
+            <span>한국어 뜻</span>
+            <strong id="meaningValue">한국어 버튼을 누르면 표시됩니다.</strong>
+          </div>
+        </section>
+
+        <section id="extraInfo" class="extra-info hidden">
+          <p id="kanjiNote"></p>
+          <div id="radicalAnalysis" class="radical-analysis"></div>
+          <p id="exampleText"></p>
+          <p id="exampleKo"></p>
+        </section>
+
+        <div class="primary-actions">
+          <button id="showReadingBtn" class="secondary" type="button">일본어</button>
+          <button id="showMeaningBtn" class="secondary" type="button">한국어</button>
+        </div>
+
+        <div class="decision-actions">
+          <button id="saveStudyBtn" class="study" type="button">공부하겠음</button>
+          <button id="knownBtn" class="known" type="button">알고있음</button>
+        </div>
+
+        <div class="nav-actions">
+          <button id="prevBtn" type="button">이전</button>
+          <button id="resetBtn" type="button">처음부터</button>
+          <button id="nextBtn" type="button">다음</button>
+        </div>
+      </article>
+    </main>
+
+    <footer class="footer">
+      <p>데이터: markdown bundle → CSV 변환, 부수/획수는 Unicode Unihan, 구성요소는 EDRDG KRADFILE 기반. 저장 단어는 이 브라우저의 localStorage에만 저장됩니다.</p>
+      <p class="shortcut">단축키: <kbd>J</kbd> 발음 · <kbd>K</kbd> 뜻 · <kbd>S</kbd> 공부하겠음 · <kbd>Enter</kbd> 알고있음</p>
+    </footer>
+  </div>
+
+  <script src="data/jlpt_words_data.js"></script>
+  <script src="data/kanji_radical_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,183 @@
+﻿id,level,number,kanji,meaning_ko,included_words,source
+KANJI-001,N5,1,丁,고무래 정,丁寧だ,JLPT_N5_N4_kanji_collection.md
+KANJI-002,N5,2,丈,어른 장,大丈夫だ,JLPT_N5_N4_kanji_collection.md
+KANJI-003,N4,3,上,위 상,以上,JLPT_N5_N4_kanji_collection.md
+KANJI-004,N5,4,世,세상 세,世話,JLPT_N5_N4_kanji_collection.md
+KANJI-005,N5,5,両,두 량,両親,JLPT_N5_N4_kanji_collection.md
+KANJI-006,N4,6,中,가운데 중,途中,JLPT_N5_N4_kanji_collection.md
+KANJI-007,N5,7,予,미리 예,予約,JLPT_N5_N4_kanji_collection.md
+KANJI-008,N5,8,事,일 사,返事,JLPT_N5_N4_kanji_collection.md
+KANJI-009,N5,9,交,사귈 교,交番,JLPT_N5_N4_kanji_collection.md
+KANJI-010,N5,10,人,사람 인,人,JLPT_N5_N4_kanji_collection.md
+KANJI-011,N4,11,今,이제 금,今度,JLPT_N5_N4_kanji_collection.md
+KANJI-012,N4,12,介,낄 개,紹介する,JLPT_N5_N4_kanji_collection.md
+KANJI-013,N4,13,以,써 이,以上,JLPT_N5_N4_kanji_collection.md
+KANJI-014,N5,14,会,모일 회,"会話する, 会う, 会社, 会議, 都会",JLPT_N5_N4_kanji_collection.md
+KANJI-015,N5,15,伝,전할 전,手伝う,JLPT_N5_N4_kanji_collection.md
+KANJI-016,N4,16,似,닮을 사,似合う,JLPT_N5_N4_kanji_collection.md
+KANJI-017,N5,17,体,몸 체,体,JLPT_N5_N4_kanji_collection.md
+KANJI-018,N5,18,使,부릴 사,使う,JLPT_N5_N4_kanji_collection.md
+KANJI-019,N5,19,便,편할 편,便利だ,JLPT_N5_N4_kanji_collection.md
+KANJI-020,N5,20,係,맬 계,係,JLPT_N5_N4_kanji_collection.md
+KANJI-021,N5,21,借,빌릴 차,借りる,JLPT_N5_N4_kanji_collection.md
+KANJI-022,N5,22,優,뛰어날,優しい,JLPT_N5_N4_kanji_collection.md
+KANJI-023,N4,23,元,근본 원,元気だ,JLPT_N5_N4_kanji_collection.md
+KANJI-024,N5,24,八,여덟 팔,八百屋,JLPT_N5_N4_kanji_collection.md
+KANJI-025,N4,25,写,베낄 사,写真,JLPT_N5_N4_kanji_collection.md
+KANJI-026,N4,26,出,날 출,出席,JLPT_N5_N4_kanji_collection.md
+KANJI-027,N5,27,分,나눌 분,自分,JLPT_N5_N4_kanji_collection.md
+KANJI-028,N5,28,切,끊을 절,親切だ,JLPT_N5_N4_kanji_collection.md
+KANJI-029,N4,29,初,처음 초,最初,JLPT_N5_N4_kanji_collection.md
+KANJI-030,N5,30,別,다를 별,特別だ,JLPT_N5_N4_kanji_collection.md
+KANJI-031,N5,31,利,이로울 리,"便利だ, 利用",JLPT_N5_N4_kanji_collection.md
+KANJI-032,N4,32,割,나눌 할,割れる,JLPT_N5_N4_kanji_collection.md
+KANJI-033,N4,33,勉,힘쓸 면,勉強する,JLPT_N5_N4_kanji_collection.md
+KANJI-034,N5,34,勢,기세 세,大勢,JLPT_N5_N4_kanji_collection.md
+KANJI-035,N4,35,単,홑 단,簡単だ,JLPT_N5_N4_kanji_collection.md
+KANJI-036,N5,36,危,위태할 위,危険だ,JLPT_N5_N4_kanji_collection.md
+KANJI-037,N4,37,厳,엄할 엄,厳しい,JLPT_N5_N4_kanji_collection.md
+KANJI-038,N4,38,取,취할 취,取り替える,JLPT_N5_N4_kanji_collection.md
+KANJI-039,N5,39,台,대 대,台所,JLPT_N5_N4_kanji_collection.md
+KANJI-040,N4,40,合,합할 합,"間に合う, 都合, 似合う",JLPT_N5_N4_kanji_collection.md
+KANJI-041,N5,41,同,같을 동,同じ,JLPT_N5_N4_kanji_collection.md
+KANJI-042,N5,42,向,향할 향,向かい,JLPT_N5_N4_kanji_collection.md
+KANJI-043,N5,43,味,맛 미,意味,JLPT_N5_N4_kanji_collection.md
+KANJI-044,N5,44,員,인원 원,社員,JLPT_N5_N4_kanji_collection.md
+KANJI-045,N4,45,問,물을 문,問題,JLPT_N5_N4_kanji_collection.md
+KANJI-046,N4,46,営,경영할 영,営業,JLPT_N5_N4_kanji_collection.md
+KANJI-047,N5,47,困,곤할 곤,困る,JLPT_N5_N4_kanji_collection.md
+KANJI-048,N5,48,図,그림 도,図書館,JLPT_N5_N4_kanji_collection.md
+KANJI-049,N5,49,場,마당 장,"場所, 売り場",JLPT_N5_N4_kanji_collection.md
+KANJI-050,N5,50,増,더할 증,増える,JLPT_N5_N4_kanji_collection.md
+KANJI-051,N5,51,売,팔 매,"売る, 売り場",JLPT_N5_N4_kanji_collection.md
+KANJI-052,N4,52,夕,저녁 석,夕方,JLPT_N5_N4_kanji_collection.md
+KANJI-053,N5,53,大,클 대,"大丈夫だ, 大勢",JLPT_N5_N4_kanji_collection.md
+KANJI-054,N5,54,夫,지아비 부,大丈夫だ,JLPT_N5_N4_kanji_collection.md
+KANJI-055,N5,55,始,비로소 시,始まる,JLPT_N5_N4_kanji_collection.md
+KANJI-056,N4,56,字,글자 자,字,JLPT_N5_N4_kanji_collection.md
+KANJI-057,N5,57,寧,편안할 녕,丁寧だ,JLPT_N5_N4_kanji_collection.md
+KANJI-058,N4,58,将,장차 장,将来,JLPT_N5_N4_kanji_collection.md
+KANJI-059,N5,59,屋,집 옥,"薬屋, 八百屋, 部屋",JLPT_N5_N4_kanji_collection.md
+KANJI-060,N4,60,席,자리 석,出席,JLPT_N5_N4_kanji_collection.md
+KANJI-061,N5,61,帰,돌아갈 귀,帰る,JLPT_N5_N4_kanji_collection.md
+KANJI-062,N5,62,広,넓을 광,広い,JLPT_N5_N4_kanji_collection.md
+KANJI-063,N5,63,店,가게 점,店,JLPT_N5_N4_kanji_collection.md
+KANJI-064,N4,64,度,법도 도,今度,JLPT_N5_N4_kanji_collection.md
+KANJI-065,N4,65,建,세울 건,建つ,JLPT_N5_N4_kanji_collection.md
+KANJI-066,N5,66,引,끌 인,引く,JLPT_N5_N4_kanji_collection.md
+KANJI-067,N4,67,強,강할 강,勉強する,JLPT_N5_N4_kanji_collection.md
+KANJI-068,N5,68,待,기다릴 대,"待つ, 招待する",JLPT_N5_N4_kanji_collection.md
+KANJI-069,N4,69,心,마음 심,心配だ,JLPT_N5_N4_kanji_collection.md
+KANJI-070,N4,70,念,생각 념,残念だ,JLPT_N5_N4_kanji_collection.md
+KANJI-071,N5,71,急,급할 급,急ぐ,JLPT_N5_N4_kanji_collection.md
+KANJI-072,N5,72,性,성품 성,男性,JLPT_N5_N4_kanji_collection.md
+KANJI-073,N4/N5,73,意,뜻 의,"意味, 用意, 意見",JLPT_N5_N4_kanji_collection.md
+KANJI-074,N5,74,所,바 소,"場所, 台所",JLPT_N5_N4_kanji_collection.md
+KANJI-075,N4/N5,75,手,손 수,"手伝う, 手袋",JLPT_N5_N4_kanji_collection.md
+KANJI-076,N4,76,払,떨칠 불,払う,JLPT_N5_N4_kanji_collection.md
+KANJI-077,N5,77,押,누를 압,押す,JLPT_N5_N4_kanji_collection.md
+KANJI-078,N5,78,招,부를 초,招待する,JLPT_N5_N4_kanji_collection.md
+KANJI-079,N4,79,拶,다그칠 찰,挨拶する,JLPT_N5_N4_kanji_collection.md
+KANJI-080,N4,80,指,가리킬 지,"指, 指輪",JLPT_N5_N4_kanji_collection.md
+KANJI-081,N4,81,挨,밀칠 애,挨拶する,JLPT_N5_N4_kanji_collection.md
+KANJI-082,N4,82,授,줄 수,授業,JLPT_N5_N4_kanji_collection.md
+KANJI-083,N5,83,探,찾을 탐,探す,JLPT_N5_N4_kanji_collection.md
+KANJI-084,N5,84,料,재료 료,料理する,JLPT_N5_N4_kanji_collection.md
+KANJI-085,N4,85,方,방향 방,夕方,JLPT_N5_N4_kanji_collection.md
+KANJI-086,N5,86,旅,나그네 려,旅館,JLPT_N5_N4_kanji_collection.md
+KANJI-087,N4,87,早,이를 조,早い,JLPT_N5_N4_kanji_collection.md
+KANJI-088,N5,88,映,비칠 영,映画館,JLPT_N5_N4_kanji_collection.md
+KANJI-089,N4,89,昼,낮 주,昼,JLPT_N5_N4_kanji_collection.md
+KANJI-090,N5,90,景,경치 경,景色,JLPT_N5_N4_kanji_collection.md
+KANJI-091,N5,91,書,글 서,"図書館, 辞書",JLPT_N5_N4_kanji_collection.md
+KANJI-092,N4,92,替,바꿀 체,取り替える,JLPT_N5_N4_kanji_collection.md
+KANJI-093,N4,93,最,가장 최,最初,JLPT_N5_N4_kanji_collection.md
+KANJI-094,N5,94,束,묶을 속,約束,JLPT_N5_N4_kanji_collection.md
+KANJI-095,N4,95,来,올 래,将来,JLPT_N5_N4_kanji_collection.md
+KANJI-096,N5,96,果,열매 과,結果,JLPT_N5_N4_kanji_collection.md
+KANJI-097,N4,97,業,업 업,"授業, 営業",JLPT_N5_N4_kanji_collection.md
+KANJI-098,N5,98,止,그칠 지,"止む, 止まる",JLPT_N5_N4_kanji_collection.md
+KANJI-099,N4,99,残,남을 잔,残念だ,JLPT_N5_N4_kanji_collection.md
+KANJI-100,N4,100,気,기운 기,"病気, 元気だ",JLPT_N5_N4_kanji_collection.md
+KANJI-101,N4,101,決,정할 결,決まる,JLPT_N5_N4_kanji_collection.md
+KANJI-102,N4,102,泊,머무를 박,泊まる,JLPT_N5_N4_kanji_collection.md
+KANJI-103,N5,103,洗,씻을 세,洗う,JLPT_N5_N4_kanji_collection.md
+KANJI-104,N4,104,活,살 활,生活,JLPT_N5_N4_kanji_collection.md
+KANJI-105,N5,105,渡,건널 도,渡す,JLPT_N5_N4_kanji_collection.md
+KANJI-106,N5,106,温,따뜻할 온,ぬるい,JLPT_N5_N4_kanji_collection.md
+KANJI-107,N5,107,港,항구 항,港,JLPT_N5_N4_kanji_collection.md
+KANJI-108,N5,108,特,특별할 특,特別だ,JLPT_N5_N4_kanji_collection.md
+KANJI-109,N5,109,狭,좁을 협,狭い,JLPT_N5_N4_kanji_collection.md
+KANJI-110,N5,110,理,다스릴 리,"料理する, 理由",JLPT_N5_N4_kanji_collection.md
+KANJI-111,N5,111,甘,달 감,甘い,JLPT_N5_N4_kanji_collection.md
+KANJI-112,N4,112,生,날 생,生活,JLPT_N5_N4_kanji_collection.md
+KANJI-113,N5,113,用,쓸 용,"用意, 利用",JLPT_N5_N4_kanji_collection.md
+KANJI-114,N5,114,由,말미암을 유,理由,JLPT_N5_N4_kanji_collection.md
+KANJI-115,N5,115,男,사내 남,男性,JLPT_N5_N4_kanji_collection.md
+KANJI-116,N5,116,画,그림 화,"映画館, 計画",JLPT_N5_N4_kanji_collection.md
+KANJI-117,N5,117,番,차례 번,交番,JLPT_N5_N4_kanji_collection.md
+KANJI-118,N4/N5,118,病,병 병,"病院, 病気",JLPT_N5_N4_kanji_collection.md
+KANJI-119,N5,119,百,일백 백,八百屋,JLPT_N5_N4_kanji_collection.md
+KANJI-120,N4,120,相,서로 상,相談,JLPT_N5_N4_kanji_collection.md
+KANJI-121,N4,121,真,참 진,写真,JLPT_N5_N4_kanji_collection.md
+KANJI-122,N4,122,眠,잠잘 면,眠い,JLPT_N5_N4_kanji_collection.md
+KANJI-123,N4/N5,123,着,붙을,"着く, 着る",JLPT_N5_N4_kanji_collection.md
+KANJI-124,N5,124,短,짧을 단,短い,JLPT_N5_N4_kanji_collection.md
+KANJI-125,N4,125,研,갈 연,研究,JLPT_N5_N4_kanji_collection.md
+KANJI-126,N4,126,礼,예도 례,礼,JLPT_N5_N4_kanji_collection.md
+KANJI-127,N5,127,社,회사 사,"会社, 社員",JLPT_N5_N4_kanji_collection.md
+KANJI-128,N4,128,祝,빌 축,祝い,JLPT_N5_N4_kanji_collection.md
+KANJI-129,N4,129,究,궁구할 구,研究,JLPT_N5_N4_kanji_collection.md
+KANJI-130,N4,130,立,설 립,立つ,JLPT_N5_N4_kanji_collection.md
+KANJI-131,N5,131,答,대답 답,答える,JLPT_N5_N4_kanji_collection.md
+KANJI-132,N4,132,簡,대쪽 간,簡単だ,JLPT_N5_N4_kanji_collection.md
+KANJI-133,N5,133,約,맺을 약,"約束, 予約",JLPT_N5_N4_kanji_collection.md
+KANJI-134,N5,134,細,가늘 세,細かい,JLPT_N5_N4_kanji_collection.md
+KANJI-135,N4,135,紹,이을 소,紹介する,JLPT_N5_N4_kanji_collection.md
+KANJI-136,N4,136,経,지날 경,経験する,JLPT_N5_N4_kanji_collection.md
+KANJI-137,N5,137,結,맺을 결,結果,JLPT_N5_N4_kanji_collection.md
+KANJI-138,N5,138,習,익힐 습,習う,JLPT_N5_N4_kanji_collection.md
+KANJI-139,N5,139,自,스스로 자,自分,JLPT_N5_N4_kanji_collection.md
+KANJI-140,N4/N5,140,色,빛 색,"景色, 茶色",JLPT_N5_N4_kanji_collection.md
+KANJI-141,N4,141,茶,차 차,茶色,JLPT_N5_N4_kanji_collection.md
+KANJI-142,N5,142,菜,나물 채,野菜,JLPT_N5_N4_kanji_collection.md
+KANJI-143,N4,143,落,떨어질 락,落ちる,JLPT_N5_N4_kanji_collection.md
+KANJI-144,N5,144,薬,약 약,薬屋,JLPT_N5_N4_kanji_collection.md
+KANJI-145,N4,145,袋,자루 대,手袋,JLPT_N5_N4_kanji_collection.md
+KANJI-146,N5,146,要,요긴할 요,要る,JLPT_N5_N4_kanji_collection.md
+KANJI-147,N4,147,見,볼 견,意見,JLPT_N5_N4_kanji_collection.md
+KANJI-148,N5,148,親,친할 친,"親切だ, 両親",JLPT_N5_N4_kanji_collection.md
+KANJI-149,N5,149,計,셀 계,計画,JLPT_N5_N4_kanji_collection.md
+KANJI-150,N4,150,試,시험할 시,試験,JLPT_N5_N4_kanji_collection.md
+KANJI-151,N5,151,話,말씀 화,"会話する, 世話",JLPT_N5_N4_kanji_collection.md
+KANJI-152,N5,152,調,조사할 조,調べる,JLPT_N5_N4_kanji_collection.md
+KANJI-153,N4,153,談,말씀 담,相談,JLPT_N5_N4_kanji_collection.md
+KANJI-154,N5,154,議,의논할 의,会議,JLPT_N5_N4_kanji_collection.md
+KANJI-155,N5,155,貸,빌릴,貸す,JLPT_N5_N4_kanji_collection.md
+KANJI-156,N5,156,走,달릴 주,走る,JLPT_N5_N4_kanji_collection.md
+KANJI-157,N4,157,輪,바퀴 륜,指輪,JLPT_N5_N4_kanji_collection.md
+KANJI-158,N5,158,辞,말씀 사,辞書,JLPT_N5_N4_kanji_collection.md
+KANJI-159,N5,159,返,돌이킬 반,返事,JLPT_N5_N4_kanji_collection.md
+KANJI-160,N5,160,送,보낼 송,送る,JLPT_N5_N4_kanji_collection.md
+KANJI-161,N4,161,途,길 도,途中,JLPT_N5_N4_kanji_collection.md
+KANJI-162,N4,162,通,통할 통,通う,JLPT_N5_N4_kanji_collection.md
+KANJI-163,N4,163,遅,늦을 지,遅れる,JLPT_N5_N4_kanji_collection.md
+KANJI-164,N4,164,遊,놀 유,遊ぶ,JLPT_N5_N4_kanji_collection.md
+KANJI-165,N4,165,違,어긋날 위,違う,JLPT_N5_N4_kanji_collection.md
+KANJI-166,N4,166,選,가릴 선,選ぶ,JLPT_N5_N4_kanji_collection.md
+KANJI-167,N5,167,部,떼 부,部屋,JLPT_N5_N4_kanji_collection.md
+KANJI-168,N4/N5,168,都,도읍 도,"都会, 都合",JLPT_N5_N4_kanji_collection.md
+KANJI-169,N4,169,配,나눌 배,心配だ,JLPT_N5_N4_kanji_collection.md
+KANJI-170,N5,170,野,들 야,野菜,JLPT_N5_N4_kanji_collection.md
+KANJI-171,N4,171,間,사이 간,間に合う,JLPT_N5_N4_kanji_collection.md
+KANJI-172,N5,172,院,집 원,病院,JLPT_N5_N4_kanji_collection.md
+KANJI-173,N5,173,険,험할 험,危険だ,JLPT_N5_N4_kanji_collection.md
+KANJI-174,N4,174,集,모을 집,集まる,JLPT_N5_N4_kanji_collection.md
+KANJI-175,N4,175,難,어려울 난,難しい,JLPT_N5_N4_kanji_collection.md
+KANJI-176,N5,176,静,고요할 정,静かだ,JLPT_N5_N4_kanji_collection.md
+KANJI-177,N5,177,頼,의뢰할 뢰,頼む,JLPT_N5_N4_kanji_collection.md
+KANJI-178,N4,178,題,제목 제,問題,JLPT_N5_N4_kanji_collection.md
+KANJI-179,N5,179,飲,마실 음,飲む,JLPT_N5_N4_kanji_collection.md
+KANJI-180,N5,180,館,집 관,"図書館, 映画館, 旅館",JLPT_N5_N4_kanji_collection.md
+KANJI-181,N4,181,首,머리 수,首,JLPT_N5_N4_kanji_collection.md
+KANJI-182,N4,182,験,시험 험,"経験する, 試験",JLPT_N5_N4_kanji_collection.md
