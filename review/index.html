@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>모르는 단어 | JLPT 회독</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="site-header">
+      <a class="brand" href="../">JLPT 회독</a>
+      <nav class="site-nav" aria-label="급수 이동">
+        <a href="../N5/">N5</a><a href="../N4/">N4</a><a href="../N3/">N3</a><a class="active" href="../review/">모르는 단어</a>
+      </nav>
+    </header>
+    <main aria-live="polite">
+      <section class="page-intro level-intro">
+        <div><p class="eyebrow">SAVED WORDS</p><h1>모르는 단어</h1></div>
+        <div class="stats stats-two"><div><strong id="reviewCount">0</strong><span>저장 단어</span></div><div><strong id="reviewStudyCount">0</strong><span>공부 횟수</span></div></div>
+      </section>
+      <section id="reviewView">
+        <div class="section-heading"><div><p class="eyebrow">REVIEW</p><h2>저장 목록</h2></div><button id="startReviewBtn" class="test-button" type="button">회독 시작</button></div>
+        <div id="wordList" class="word-list"></div>
+      </section>
+      <section id="studyView" class="card-panel hidden"><div id="studyMount"></div></section>
+    </main>
+    <footer class="footer">저장 단어가 100개를 넘으면 한 번에 100개씩 회독합니다.</footer>
+  </div>
+  <script src="../data/jlpt_words_data.js"></script><script src="../data/kanji_radical_data.js"></script><script src="../scripts/core.js"></script><script src="../scripts/study.js"></script><script src="../scripts/review.js"></script>
+</body>
+</html>

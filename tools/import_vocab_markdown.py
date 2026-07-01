@@ -82,7 +82,6 @@ def import_rows(
     by_term = {(word["japanese"], word["reading"]): word for word in n3_words}
     next_number = max((int(word["number"]) for word in n3_words), default=0) + 1
     next_id = next_extra_id(words)
-    first_new_deck = max((int(word["deck"]) for word in n3_words), default=0) + 1
     imported = 0
     merged = 0
 
@@ -99,7 +98,7 @@ def import_rows(
         word = {
             "id": f"EXTRA-{next_id:03d}",
             "level": "추가",
-            "deck": str(first_new_deck + imported // 20),
+            "deck": str((next_number - 1) // 20 + 1),
             "number": str(next_number),
             "japanese": row["japanese"],
             "reading": row["reading"],
@@ -119,6 +118,10 @@ def import_rows(
 
 
 def write_data(words: list[dict[str, str]]) -> None:
+    for word in words:
+        if word["level"] == "추가":
+            word["deck"] = str((int(word["number"]) - 1) // 20 + 1)
+
     with CSV_PATH.open("w", encoding="utf-8-sig", newline="") as file:
         writer = csv.DictWriter(file, fieldnames=FIELDS, lineterminator="\n")
         writer.writeheader()

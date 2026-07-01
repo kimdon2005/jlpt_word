@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>N3 단어장 | JLPT 회독</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body data-level="N3">
+  <div class="app-shell">
+    <header class="site-header">
+      <a class="brand" href="../">JLPT 회독</a>
+      <nav class="site-nav" aria-label="급수 이동">
+        <a href="../N5/">N5</a><a href="../N4/">N4</a><a class="active" href="../N3/">N3</a><a href="../review/">모르는 단어</a>
+      </nav>
+    </header>
+    <main aria-live="polite">
+      <section class="page-intro level-intro">
+        <div><p id="levelEyebrow" class="eyebrow">N3 VOCABULARY</p><h1 id="levelTitle">N3 단어장</h1></div>
+        <div class="stats stats-four">
+          <div><strong id="levelWordCount">0</strong><span>단어</span></div><div><strong id="levelDeckCount">0</strong><span>전체 장</span></div><div><strong id="levelCompletedCount">0</strong><span>완료</span></div><div><strong id="levelStudyCount">0</strong><span>공부 횟수</span></div>
+        </div>
+      </section>
+      <section id="stageView">
+        <div class="section-heading"><div><p class="eyebrow">REVIEW</p><h2>회독 단계</h2></div><button id="randomTestBtn" class="test-button" type="button">랜덤 테스트 20문제</button></div>
+        <div id="stageGrid" class="stage-grid"></div>
+      </section>
+      <section id="listView" class="word-list-view hidden">
+        <div class="view-header"><button id="backStageBtn" class="text-btn" type="button">단계 목록</button><div><p id="listMeta" class="eyebrow"></p><h2 id="listTitle"></h2></div><button id="startListDeckBtn" class="header-action" type="button">이 장 회독</button></div>
+        <div id="wordList" class="word-list"></div>
+      </section>
+      <section id="studyView" class="card-panel hidden"><div id="studyMount"></div></section>
+    </main>
+    <footer class="footer">한 번의 회독은 최대 100단어입니다.</footer>
+  </div>
+  <script src="../data/jlpt_words_data.js"></script><script src="../data/kanji_radical_data.js"></script><script src="../scripts/core.js"></script><script src="../scripts/study.js"></script><script src="../scripts/level.js"></script>
+</body>
+</html>

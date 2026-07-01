@@ -2914,7 +2914,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-085",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "85",
     "japanese": "休日",
     "reading": "きゅうじつ",
@@ -2927,7 +2927,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-086",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "86",
     "japanese": "下線",
     "reading": "かせん",
@@ -2940,7 +2940,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-087",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "87",
     "japanese": "様々だ",
     "reading": "さまざまだ",
@@ -2953,7 +2953,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-088",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "88",
     "japanese": "様子",
     "reading": "ようす",
@@ -2966,7 +2966,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-089",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "89",
     "japanese": "大会",
     "reading": "たいかい",
@@ -2979,7 +2979,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-090",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "90",
     "japanese": "工業",
     "reading": "こうぎょう",
@@ -2992,7 +2992,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-091",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "91",
     "japanese": "重大だ",
     "reading": "じゅうだいだ",
@@ -3005,7 +3005,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-092",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "92",
     "japanese": "自然",
     "reading": "しぜん",
@@ -3018,7 +3018,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-093",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "93",
     "japanese": "加熱",
     "reading": "かねつ",
@@ -3031,7 +3031,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-094",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "94",
     "japanese": "参加",
     "reading": "さんか",
@@ -3044,7 +3044,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-095",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "95",
     "japanese": "支給",
     "reading": "しきゅう",
@@ -3057,7 +3057,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-096",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "96",
     "japanese": "卒業",
     "reading": "そつぎょう",
@@ -3070,7 +3070,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-097",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "97",
     "japanese": "料金",
     "reading": "りょうきん",
@@ -3083,7 +3083,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-098",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "98",
     "japanese": "検査",
     "reading": "けんさ",
@@ -3096,7 +3096,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-099",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "99",
     "japanese": "返事",
     "reading": "へんじ",
@@ -3109,7 +3109,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-100",
     "level": "추가",
-    "deck": "6",
+    "deck": "5",
     "number": "100",
     "japanese": "祝日",
     "reading": "しゅくじつ",
@@ -3174,7 +3174,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-105",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "105",
     "japanese": "商売",
     "reading": "しょうばい",
@@ -3187,7 +3187,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-106",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "106",
     "japanese": "方角",
     "reading": "ほうがく",
@@ -3200,7 +3200,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-107",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "107",
     "japanese": "輸出",
     "reading": "ゆしゅつ",
@@ -3213,7 +3213,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-108",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "108",
     "japanese": "実力",
     "reading": "じつりょく",
@@ -3226,7 +3226,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-109",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "109",
     "japanese": "疑う",
     "reading": "うたがう",
@@ -3239,7 +3239,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-110",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "110",
     "japanese": "拾う",
     "reading": "ひろう",
@@ -3252,7 +3252,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-111",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "111",
     "japanese": "払う",
     "reading": "はらう",
@@ -3265,7 +3265,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-112",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "112",
     "japanese": "怖がる",
     "reading": "こわがる",
@@ -3278,7 +3278,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-113",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "113",
     "japanese": "回す",
     "reading": "まわす",
@@ -3291,7 +3291,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-114",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "114",
     "japanese": "汚す",
     "reading": "よごす",
@@ -3304,7 +3304,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-115",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "115",
     "japanese": "転ぶ",
     "reading": "ころぶ",
@@ -3317,7 +3317,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-116",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "116",
     "japanese": "運ぶ",
     "reading": "はこぶ",
@@ -3330,7 +3330,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-117",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "117",
     "japanese": "結ぶ",
     "reading": "むすぶ",
@@ -3343,7 +3343,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-118",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "118",
     "japanese": "編む",
     "reading": "あむ",
@@ -3356,7 +3356,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-119",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "119",
     "japanese": "包む",
     "reading": "つつむ",
@@ -3369,7 +3369,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-120",
     "level": "추가",
-    "deck": "7",
+    "deck": "6",
     "number": "120",
     "japanese": "組む",
     "reading": "くむ",
@@ -3434,7 +3434,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-125",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "125",
     "japanese": "覚える",
     "reading": "おぼえる",
@@ -3447,7 +3447,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-126",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "126",
     "japanese": "換える／替える",
     "reading": "かえる",
@@ -3460,7 +3460,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-127",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "127",
     "japanese": "加える",
     "reading": "くわえる",
@@ -3473,7 +3473,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-128",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "128",
     "japanese": "伝える",
     "reading": "つたえる",
@@ -3486,7 +3486,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-129",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "129",
     "japanese": "冷える",
     "reading": "ひえる",
@@ -3499,7 +3499,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-130",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "130",
     "japanese": "燃える",
     "reading": "もえる",
@@ -3512,7 +3512,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-131",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "131",
     "japanese": "預ける",
     "reading": "あずける",
@@ -3525,7 +3525,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-132",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "132",
     "japanese": "助ける",
     "reading": "たすける",
@@ -3538,7 +3538,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-133",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "133",
     "japanese": "比べる",
     "reading": "くらべる",
@@ -3551,7 +3551,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-134",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "134",
     "japanese": "冷める",
     "reading": "さめる",
@@ -3564,7 +3564,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-135",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "135",
     "japanese": "現れる",
     "reading": "あらわれる",
@@ -3577,7 +3577,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-136",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "136",
     "japanese": "折れる",
     "reading": "おれる",
@@ -3590,7 +3590,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-137",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "137",
     "japanese": "倒れる",
     "reading": "たおれる",
@@ -3603,7 +3603,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-138",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "138",
     "japanese": "泊まる",
     "reading": "とまる",
@@ -3616,7 +3616,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-139",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "139",
     "japanese": "確かに",
     "reading": "たしかに",
@@ -3629,7 +3629,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-140",
     "level": "추가",
-    "deck": "8",
+    "deck": "7",
     "number": "140",
     "japanese": "羨ましい",
     "reading": "うらやましい",
@@ -3694,7 +3694,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-145",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "145",
     "japanese": "懐かしい",
     "reading": "なつかしい",
@@ -3707,7 +3707,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-146",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "146",
     "japanese": "眩しい",
     "reading": "まぶしい",
@@ -3720,7 +3720,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-147",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "147",
     "japanese": "難しい",
     "reading": "むずかしい",
@@ -3733,7 +3733,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-148",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "148",
     "japanese": "浅い",
     "reading": "あさい",
@@ -3746,7 +3746,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-149",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "149",
     "japanese": "厚い",
     "reading": "あつい",
@@ -3759,7 +3759,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-150",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "150",
     "japanese": "偉い",
     "reading": "えらい",
@@ -3772,7 +3772,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-151",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "151",
     "japanese": "遅い",
     "reading": "おそい",
@@ -3785,7 +3785,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-152",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "152",
     "japanese": "汚い",
     "reading": "きたない",
@@ -3798,7 +3798,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-153",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "153",
     "japanese": "細い",
     "reading": "ほそい",
@@ -3811,7 +3811,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-154",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "154",
     "japanese": "丸い",
     "reading": "まるい",
@@ -3824,7 +3824,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-155",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "155",
     "japanese": "若い",
     "reading": "わかい",
@@ -3837,7 +3837,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-156",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "156",
     "japanese": "上品だ",
     "reading": "じょうひんだ",
@@ -3850,7 +3850,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-157",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "157",
     "japanese": "適当だ",
     "reading": "てきとうだ",
@@ -3863,7 +3863,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-158",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "158",
     "japanese": "得意だ",
     "reading": "とくいだ",
@@ -3876,7 +3876,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-159",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "159",
     "japanese": "不安だ",
     "reading": "ふあんだ",
@@ -3889,7 +3889,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-160",
     "level": "추가",
-    "deck": "9",
+    "deck": "8",
     "number": "160",
     "japanese": "一般的だ",
     "reading": "いっぱんてきだ",
@@ -3954,7 +3954,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-165",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "165",
     "japanese": "積極的だ",
     "reading": "せっきょくてきだ",
@@ -3967,7 +3967,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-166",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "166",
     "japanese": "確かだ",
     "reading": "たしかだ",
@@ -3980,7 +3980,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-167",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "167",
     "japanese": "怪しい",
     "reading": "あやしい",
@@ -3993,7 +3993,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-168",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "168",
     "japanese": "嬉しい",
     "reading": "うれしい",
@@ -4006,7 +4006,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-169",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "169",
     "japanese": "寂しい",
     "reading": "さびしい",
@@ -4019,7 +4019,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-170",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "170",
     "japanese": "素直だ",
     "reading": "すなおだ",
@@ -4032,7 +4032,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-171",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "171",
     "japanese": "裏",
     "reading": "うら",
@@ -4045,7 +4045,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-172",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "172",
     "japanese": "小型",
     "reading": "こがた",
@@ -4058,7 +4058,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-173",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "173",
     "japanese": "荷物",
     "reading": "にもつ",
@@ -4071,7 +4071,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-174",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "174",
     "japanese": "残り",
     "reading": "のこり",
@@ -4084,7 +4084,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-175",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "175",
     "japanese": "包丁",
     "reading": "ほうちょう",
@@ -4097,7 +4097,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-176",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "176",
     "japanese": "横",
     "reading": "よこ",
@@ -4110,7 +4110,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-177",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "177",
     "japanese": "角",
     "reading": "かど",
@@ -4123,7 +4123,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-178",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "178",
     "japanese": "石油",
     "reading": "せきゆ",
@@ -4136,7 +4136,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-179",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "179",
     "japanese": "値段",
     "reading": "ねだん",
@@ -4149,7 +4149,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-180",
     "level": "추가",
-    "deck": "10",
+    "deck": "9",
     "number": "180",
     "japanese": "広場",
     "reading": "ひろば",
@@ -4214,7 +4214,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-185",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "185",
     "japanese": "波",
     "reading": "なみ",
@@ -4227,7 +4227,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-186",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "186",
     "japanese": "湖",
     "reading": "みずうみ",
@@ -4240,7 +4240,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-187",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "187",
     "japanese": "夕日／夕陽",
     "reading": "ゆうひ",
@@ -4253,7 +4253,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-188",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "188",
     "japanese": "裏切り者",
     "reading": "うらぎりもの",
@@ -4266,7 +4266,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-189",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "189",
     "japanese": "恋",
     "reading": "こい",
@@ -4279,7 +4279,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-190",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "190",
     "japanese": "型",
     "reading": "かた／がた",
@@ -4292,7 +4292,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-191",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "191",
     "japanese": "娘",
     "reading": "むすめ",
@@ -4305,7 +4305,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-192",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "192",
     "japanese": "貝",
     "reading": "かい",
@@ -4318,7 +4318,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-193",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "193",
     "japanese": "緑",
     "reading": "みどり",
@@ -4331,7 +4331,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-194",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "194",
     "japanese": "芋",
     "reading": "いも",
@@ -4344,7 +4344,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-195",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "195",
     "japanese": "粉",
     "reading": "こな",
@@ -4357,7 +4357,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-196",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "196",
     "japanese": "肩",
     "reading": "かた",
@@ -4370,7 +4370,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-197",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "197",
     "japanese": "首",
     "reading": "くび",
@@ -4383,7 +4383,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-198",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "198",
     "japanese": "腰",
     "reading": "こし",
@@ -4396,7 +4396,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-199",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "199",
     "japanese": "胸",
     "reading": "むね",
@@ -4409,7 +4409,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-200",
     "level": "추가",
-    "deck": "11",
+    "deck": "10",
     "number": "200",
     "japanese": "息子",
     "reading": "むすこ",
@@ -4474,7 +4474,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-205",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "205",
     "japanese": "常識",
     "reading": "じょうしき",
@@ -4487,7 +4487,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-206",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "206",
     "japanese": "提供",
     "reading": "ていきょう",
@@ -4500,7 +4500,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-207",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "207",
     "japanese": "退院",
     "reading": "たいいん",
@@ -4513,7 +4513,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-208",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "208",
     "japanese": "入院",
     "reading": "にゅういん",
@@ -4526,7 +4526,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-209",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "209",
     "japanese": "家庭",
     "reading": "かてい",
@@ -4539,7 +4539,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-210",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "210",
     "japanese": "仮定",
     "reading": "かてい",
@@ -4552,7 +4552,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-211",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "211",
     "japanese": "高価",
     "reading": "こうか",
@@ -4565,7 +4565,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-212",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "212",
     "japanese": "改札",
     "reading": "かいさつ",
@@ -4578,7 +4578,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-213",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "213",
     "japanese": "正解",
     "reading": "せいかい",
@@ -4591,7 +4591,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-214",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "214",
     "japanese": "観察",
     "reading": "かんさつ",
@@ -4604,7 +4604,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-215",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "215",
     "japanese": "関心",
     "reading": "かんしん",
@@ -4617,7 +4617,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-216",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "216",
     "japanese": "感覚",
     "reading": "かんかく",
@@ -4630,7 +4630,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-217",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "217",
     "japanese": "期待",
     "reading": "きたい",
@@ -4643,7 +4643,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-218",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "218",
     "japanese": "規則",
     "reading": "きそく",
@@ -4656,7 +4656,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-219",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "219",
     "japanese": "基本",
     "reading": "きほん",
@@ -4669,7 +4669,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-220",
     "level": "추가",
-    "deck": "12",
+    "deck": "11",
     "number": "220",
     "japanese": "決心",
     "reading": "けっしん",
@@ -4734,7 +4734,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-225",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "225",
     "japanese": "増減",
     "reading": "ぞうげん",
@@ -4747,7 +4747,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-226",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "226",
     "japanese": "最初",
     "reading": "さいしょ",
@@ -4760,7 +4760,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-227",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "227",
     "japanese": "雑誌",
     "reading": "ざっし",
@@ -4773,7 +4773,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-228",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "228",
     "japanese": "週刊誌",
     "reading": "しゅうかんし",
@@ -4786,7 +4786,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-229",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "229",
     "japanese": "正常",
     "reading": "せいじょう",
@@ -4799,7 +4799,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-230",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "230",
     "japanese": "競争",
     "reading": "きょうそう",
@@ -4812,7 +4812,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-231",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "231",
     "japanese": "感想",
     "reading": "かんそう",
@@ -4825,7 +4825,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-232",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "232",
     "japanese": "欠点",
     "reading": "けってん",
@@ -4838,7 +4838,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-233",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "233",
     "japanese": "満足",
     "reading": "まんぞく",
@@ -4851,7 +4851,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-234",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "234",
     "japanese": "反対",
     "reading": "はんたい",
@@ -4864,7 +4864,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-235",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "235",
     "japanese": "点数",
     "reading": "てんすう",
@@ -4877,7 +4877,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-236",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "236",
     "japanese": "情報",
     "reading": "じょうほう",
@@ -4890,7 +4890,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-237",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "237",
     "japanese": "規律",
     "reading": "きりつ",
@@ -4903,7 +4903,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-238",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "238",
     "japanese": "疲れ",
     "reading": "つかれ",
@@ -4916,7 +4916,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-239",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "239",
     "japanese": "疲れる",
     "reading": "つかれる",
@@ -4929,7 +4929,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-240",
     "level": "추가",
-    "deck": "13",
+    "deck": "12",
     "number": "240",
     "japanese": "健康",
     "reading": "けんこう",
@@ -4994,7 +4994,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-245",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "245",
     "japanese": "滞在",
     "reading": "たいざい",
@@ -5007,7 +5007,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-246",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "246",
     "japanese": "複数",
     "reading": "ふくすう",
@@ -5020,7 +5020,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-247",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "247",
     "japanese": "復讐",
     "reading": "ふくしゅう",
@@ -5033,7 +5033,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-248",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "248",
     "japanese": "報告",
     "reading": "ほうこく",
@@ -5046,7 +5046,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-249",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "249",
     "japanese": "資源",
     "reading": "しげん",
@@ -5059,7 +5059,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-250",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "250",
     "japanese": "比較",
     "reading": "ひかく",
@@ -5072,7 +5072,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-251",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "251",
     "japanese": "注射",
     "reading": "ちゅうしゃ",
@@ -5085,7 +5085,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-252",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "252",
     "japanese": "泣く",
     "reading": "なく",
@@ -5098,7 +5098,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-253",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "253",
     "japanese": "募集",
     "reading": "ぼしゅう",
@@ -5111,7 +5111,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-254",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "254",
     "japanese": "区役所",
     "reading": "くやくしょ",
@@ -5124,7 +5124,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-255",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "255",
     "japanese": "壁",
     "reading": "かべ",
@@ -5137,7 +5137,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-256",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "256",
     "japanese": "経済",
     "reading": "けいざい",
@@ -5150,7 +5150,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-257",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "257",
     "japanese": "表示",
     "reading": "ひょうじ",
@@ -5163,7 +5163,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-258",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "258",
     "japanese": "ごめんください",
     "reading": "ごめんください",
@@ -5176,7 +5176,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-259",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "259",
     "japanese": "ぴったり",
     "reading": "ぴったり",
@@ -5189,7 +5189,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-260",
     "level": "추가",
-    "deck": "14",
+    "deck": "13",
     "number": "260",
     "japanese": "どんぴしゃり",
     "reading": "どんぴしゃり",
@@ -5254,7 +5254,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-265",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "265",
     "japanese": "本当に",
     "reading": "ほんとうに",
@@ -5267,7 +5267,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-266",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "266",
     "japanese": "季節",
     "reading": "きせつ",
@@ -5280,7 +5280,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-267",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "267",
     "japanese": "登録",
     "reading": "とうろく",
@@ -5293,7 +5293,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-268",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "268",
     "japanese": "準備",
     "reading": "じゅんび",
@@ -5306,7 +5306,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-269",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "269",
     "japanese": "深い",
     "reading": "ふかい",
@@ -5319,7 +5319,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-270",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "270",
     "japanese": "泥棒",
     "reading": "どろぼう",
@@ -5332,7 +5332,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-271",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "271",
     "japanese": "面白い",
     "reading": "おもしろい",
@@ -5345,7 +5345,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-272",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "272",
     "japanese": "掃除",
     "reading": "そうじ",
@@ -5358,7 +5358,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-273",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "273",
     "japanese": "磨く",
     "reading": "みがく",
@@ -5371,7 +5371,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-274",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "274",
     "japanese": "飴",
     "reading": "あめ",
@@ -5384,7 +5384,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-275",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "275",
     "japanese": "ちょうどいい",
     "reading": "ちょうどいい",
@@ -5397,7 +5397,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-276",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "276",
     "japanese": "祈る",
     "reading": "いのる",
@@ -5410,7 +5410,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-277",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "277",
     "japanese": "謝る",
     "reading": "あやまる",
@@ -5423,7 +5423,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-278",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "278",
     "japanese": "壊れる",
     "reading": "こわれる",
@@ -5436,7 +5436,7 @@ window.JLPT_WORDS = [
   {
     "id": "EXTRA-279",
     "level": "추가",
-    "deck": "15",
+    "deck": "14",
     "number": "279",
     "japanese": "繰り返す",
     "reading": "くりかえす",
