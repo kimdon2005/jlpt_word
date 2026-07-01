@@ -8,7 +8,7 @@
     studyCounts: "jlpt-vocab-study-counts-v1",
     layout: "jlpt-vocab-layout-version",
   };
-  const LAYOUT_VERSION = "2";
+  const LAYOUT_VERSION = "3";
   const LEVELS = [
     { key: "N5", label: "N5", slug: "N5" },
     { key: "N4", label: "N4", slug: "N4" },
@@ -76,11 +76,9 @@
   function migrateLayout() {
     if (localStorage.getItem(STORAGE_KEYS.layout) === LAYOUT_VERSION) return;
 
-    progress.completed["추가"] = (progress.completed["추가"] || [])
-      .map(Number)
-      .filter((deck) => deck < 5);
-    if (Number(progress.inProgress["추가"]) >= 5) delete progress.inProgress["추가"];
-    if (activeSession?.level === "추가" && activeSession.deck >= 5) activeSession = null;
+    progress.completed = {};
+    progress.inProgress = {};
+    activeSession = null;
 
     persistProgress();
     persistSession();
@@ -122,7 +120,7 @@
   }
 
   function reviewWindowStartDeck(deck) {
-    return Math.floor((Number(deck) - 1) / 5) * 5 + 1;
+    return Math.floor((Number(deck) - 1) / 3) * 3 + 1;
   }
 
   function reviewWindowWords(level, deck) {

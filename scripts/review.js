@@ -44,7 +44,7 @@
   }
 
   function startReview() {
-    const queue = window.JLPT.shuffle(window.JLPT.reviewWords()).slice(0, 100);
+    const queue = window.JLPT.shuffle(window.JLPT.reviewWords()).slice(0, 150);
     showView("study");
     study.start({
       queue,
