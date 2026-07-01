@@ -1,4 +1,24 @@
 window.JLPT_KANJI_RADICALS = {
+  "一": {
+    "kanji": "一",
+    "meaning": "한 일",
+    "radicalNumber": 1,
+    "radical": "一",
+    "radicalBase": "一",
+    "radicalName": "한 일",
+    "radicalHint": "하나, 선, 기준선",
+    "radicalStrokes": 1,
+    "additionalStrokes": 0,
+    "totalStrokes": 1,
+    "components": [
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "丁": {
     "kanji": "丁",
     "meaning": "고무래 정",
@@ -79,6 +99,76 @@ window.JLPT_KANJI_RADICALS = {
         "component": "卜",
         "name": "점 복",
         "hint": "점침, 갈라진 금, 판단",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "下": {
+    "kanji": "下",
+    "meaning": "아래 하",
+    "radicalNumber": 1,
+    "radical": "一",
+    "radicalBase": "一",
+    "radicalName": "한 일",
+    "radicalHint": "하나, 선, 기준선",
+    "radicalStrokes": 1,
+    "additionalStrokes": 2,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "대표 부수"
+      },
+      {
+        "component": "卜",
+        "name": "점 복",
+        "hint": "점침, 갈라진 금, 판단",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "不": {
+    "kanji": "不",
+    "meaning": "아닐 불",
+    "radicalNumber": 1,
+    "radical": "一",
+    "radicalBase": "一",
+    "radicalName": "한 일",
+    "radicalHint": "하나, 선, 기준선",
+    "radicalStrokes": 1,
+    "additionalStrokes": 3,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "대표 부수"
+      },
+      {
+        "component": "丶",
+        "name": "점 주",
+        "hint": "작은 점이나 표시",
         "role": "구성요소"
       }
     ]
@@ -179,6 +269,32 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "丸": {
+    "kanji": "丸",
+    "meaning": "둥글 환",
+    "radicalNumber": 3,
+    "radical": "丶",
+    "radicalBase": "丶",
+    "radicalName": "점 주",
+    "radicalHint": "작은 점이나 표시",
+    "radicalStrokes": 1,
+    "additionalStrokes": 2,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "九",
+        "name": "아홉 구",
+        "hint": "아홉, 굽은 팔처럼 꺾인 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "丶",
+        "name": "점 주",
+        "hint": "작은 점이나 표시",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "主": {
     "kanji": "主",
     "meaning": "주인 주",
@@ -234,6 +350,44 @@ window.JLPT_KANJI_RADICALS = {
         "name": "갈고리 궐",
         "hint": "갈고리처럼 꺾이는 모양",
         "role": "대표 부수"
+      }
+    ]
+  },
+  "争": {
+    "kanji": "争",
+    "meaning": "다툴 쟁",
+    "radicalNumber": 6,
+    "radical": "亅",
+    "radicalBase": "亅",
+    "radicalName": "갈고리 궐",
+    "radicalHint": "갈고리처럼 꺾이는 모양",
+    "radicalStrokes": 1,
+    "additionalStrokes": 5,
+    "totalStrokes": 6,
+    "components": [
+      {
+        "component": "ヨ",
+        "name": "요",
+        "hint": "손이나 빗자루처럼 층이 있는 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "亅",
+        "name": "갈고리 궐",
+        "hint": "갈고리처럼 꺾이는 모양",
+        "role": "대표 부수"
+      },
+      {
+        "component": "勹",
+        "name": "쌀 포",
+        "hint": "감싸 안음, 둘러쌈",
+        "role": "구성요소"
       }
     ]
   },
@@ -315,6 +469,26 @@ window.JLPT_KANJI_RADICALS = {
     "components": [
       {
         "component": "人",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "亻": {
+    "kanji": "亻",
+    "meaning": "",
+    "radicalNumber": 9,
+    "radical": "人/亻",
+    "radicalBase": "人",
+    "radicalName": "사람 인",
+    "radicalHint": "사람, 인물, 사람의 행동",
+    "radicalStrokes": 2,
+    "additionalStrokes": 0,
+    "totalStrokes": 2,
+    "components": [
+      {
+        "component": "⺅",
         "name": "사람 인",
         "hint": "사람, 인물, 사람의 행동",
         "role": "대표 부수"
@@ -437,6 +611,64 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "仮": {
+    "kanji": "仮",
+    "meaning": "거짓 가(亻)",
+    "radicalNumber": 9,
+    "radical": "人/亻",
+    "radicalBase": "人",
+    "radicalName": "사람 인",
+    "radicalHint": "사람, 인물, 사람의 행동",
+    "radicalStrokes": 2,
+    "additionalStrokes": 4,
+    "totalStrokes": 6,
+    "components": [
+      {
+        "component": "⺅",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "대표 부수"
+      },
+      {
+        "component": "又",
+        "name": "또 우",
+        "hint": "손, 다시 잡는 동작",
+        "role": "구성요소"
+      },
+      {
+        "component": "厂",
+        "name": "언덕 엄",
+        "hint": "기슭, 절벽, 덮인 공간",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "休": {
+    "kanji": "休",
+    "meaning": "쉴 휴",
+    "radicalNumber": 9,
+    "radical": "人/亻",
+    "radicalBase": "人",
+    "radicalName": "사람 인",
+    "radicalHint": "사람, 인물, 사람의 행동",
+    "radicalStrokes": 2,
+    "additionalStrokes": 4,
+    "totalStrokes": 6,
+    "components": [
+      {
+        "component": "⺅",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "대표 부수"
+      },
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "구성요소"
+      }
+    ]
+  },
   "会": {
     "kanji": "会",
     "meaning": "모일 회",
@@ -497,6 +729,44 @@ window.JLPT_KANJI_RADICALS = {
         "component": "厶",
         "name": "사사 사",
         "hint": "사사로움, 개인적인 것, 구부러진 팔",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "伸": {
+    "kanji": "伸",
+    "meaning": "펼 신(亻+申)",
+    "radicalNumber": 9,
+    "radical": "人/亻",
+    "radicalBase": "人",
+    "radicalName": "사람 인",
+    "radicalHint": "사람, 인물, 사람의 행동",
+    "radicalStrokes": 2,
+    "additionalStrokes": 5,
+    "totalStrokes": 7,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "⺅",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "대표 부수"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "田",
+        "name": "밭 전",
+        "hint": "밭, 구획, 경작지",
         "role": "구성요소"
       }
     ]
@@ -635,6 +905,76 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "供": {
+    "kanji": "供",
+    "meaning": "이바지할 공(亻)",
+    "radicalNumber": 9,
+    "radical": "人/亻",
+    "radicalBase": "人",
+    "radicalName": "사람 인",
+    "radicalHint": "사람, 인물, 사람의 행동",
+    "radicalStrokes": 2,
+    "additionalStrokes": 6,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "⺅",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "대표 부수"
+      },
+      {
+        "component": "二",
+        "name": "두 이",
+        "hint": "둘, 겹침, 위아래의 구분",
+        "role": "구성요소"
+      },
+      {
+        "component": "ハ",
+        "name": "여덟 팔 변형",
+        "hint": "둘로 갈라짐, 벌어짐, 나뉜 모양",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "価": {
+    "kanji": "価",
+    "meaning": "값 가(亻)",
+    "radicalNumber": 9,
+    "radical": "人/亻",
+    "radicalBase": "人",
+    "radicalName": "사람 인",
+    "radicalHint": "사람, 인물, 사람의 행동",
+    "radicalStrokes": 2,
+    "additionalStrokes": 6,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "⺅",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "대표 부수"
+      },
+      {
+        "component": "西",
+        "name": "서녘 서",
+        "hint": "서쪽, 덮개가 있는 바구니 모양",
+        "role": "구성요소"
+      }
+    ]
+  },
   "便": {
     "kanji": "便",
     "meaning": "편할 편",
@@ -755,6 +1095,50 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "倒": {
+    "kanji": "倒",
+    "meaning": "넘어질 도(亻)",
+    "radicalNumber": 9,
+    "radical": "人/亻",
+    "radicalBase": "人",
+    "radicalName": "사람 인",
+    "radicalHint": "사람, 인물, 사람의 행동",
+    "radicalStrokes": 2,
+    "additionalStrokes": 8,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "⺅",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "대표 부수"
+      },
+      {
+        "component": "刂",
+        "name": "칼 도",
+        "hint": "칼, 자르기, 나누기",
+        "role": "구성요소"
+      },
+      {
+        "component": "至",
+        "name": "이를 지",
+        "hint": "도달함, 끝까지 이름",
+        "role": "구성요소"
+      },
+      {
+        "component": "土",
+        "name": "흙 토",
+        "hint": "흙, 땅, 장소",
+        "role": "구성요소"
+      },
+      {
+        "component": "厶",
+        "name": "사사 사",
+        "hint": "사사로움, 개인적인 것, 구부러진 팔",
+        "role": "구성요소"
+      }
+    ]
+  },
   "借": {
     "kanji": "借",
     "meaning": "빌릴 차",
@@ -777,6 +1161,82 @@ window.JLPT_KANJI_RADICALS = {
         "component": "日",
         "name": "날 일",
         "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "値": {
+    "kanji": "値",
+    "meaning": "값 치(亻+直)",
+    "radicalNumber": 9,
+    "radical": "人/亻",
+    "radicalBase": "人",
+    "radicalName": "사람 인",
+    "radicalHint": "사람, 인물, 사람의 행동",
+    "radicalStrokes": 2,
+    "additionalStrokes": 8,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "⺅",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "대표 부수"
+      },
+      {
+        "component": "十",
+        "name": "열 십",
+        "hint": "열, 완성된 수, 교차",
+        "role": "구성요소"
+      },
+      {
+        "component": "目",
+        "name": "눈 목",
+        "hint": "눈, 보기, 살핌",
+        "role": "구성요소"
+      },
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "偉": {
+    "kanji": "偉",
+    "meaning": "훌륭할 위(亻)",
+    "radicalNumber": 9,
+    "radical": "人/亻",
+    "radicalBase": "人",
+    "radicalName": "사람 인",
+    "radicalHint": "사람, 인물, 사람의 행동",
+    "radicalStrokes": 2,
+    "additionalStrokes": 9,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "⺅",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "대표 부수"
+      },
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "韋",
+        "name": "가죽 위",
+        "hint": "가죽, 둘러싼 움직임, 어긋남",
         "role": "구성요소"
       }
     ]
@@ -825,6 +1285,38 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "健": {
+    "kanji": "健",
+    "meaning": "굳셀 건(亻)",
+    "radicalNumber": 9,
+    "radical": "人/亻",
+    "radicalBase": "人",
+    "radicalName": "사람 인",
+    "radicalHint": "사람, 인물, 사람의 행동",
+    "radicalStrokes": 2,
+    "additionalStrokes": 9,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "⺅",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "대표 부수"
+      },
+      {
+        "component": "廴",
+        "name": "길게 걸을 인",
+        "hint": "길게 이어지는 걸음",
+        "role": "구성요소"
+      },
+      {
+        "component": "聿",
+        "name": "붓 율",
+        "hint": "붓을 잡은 손, 쓰기, 기록",
+        "role": "구성요소"
+      }
+    ]
+  },
   "偶": {
     "kanji": "偶",
     "meaning": "짝 우",
@@ -865,6 +1357,44 @@ window.JLPT_KANJI_RADICALS = {
         "component": "禸",
         "name": "짐승발자국 유",
         "hint": "짐승의 발자국, 남은 흔적",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "備": {
+    "kanji": "備",
+    "meaning": "갖출 비(亻)",
+    "radicalNumber": 9,
+    "radical": "人/亻",
+    "radicalBase": "人",
+    "radicalName": "사람 인",
+    "radicalHint": "사람, 인물, 사람의 행동",
+    "radicalStrokes": 2,
+    "additionalStrokes": 10,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "⺅",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "대표 부수"
+      },
+      {
+        "component": "用",
+        "name": "쓸 용",
+        "hint": "씀, 쓰임새",
+        "role": "구성요소"
+      },
+      {
+        "component": "厂",
+        "name": "언덕 엄",
+        "hint": "기슭, 절벽, 덮인 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "⺾",
+        "name": "풀 초",
+        "hint": "풀, 식물, 약재",
         "role": "구성요소"
       }
     ]
@@ -1001,6 +1531,76 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "免": {
+    "kanji": "免",
+    "meaning": "허락/면함",
+    "radicalNumber": 10,
+    "radical": "儿",
+    "radicalBase": "儿",
+    "radicalName": "어진사람 인",
+    "radicalHint": "사람의 다리나 사람 모습",
+    "radicalStrokes": 2,
+    "additionalStrokes": 5,
+    "totalStrokes": 7,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "勹",
+        "name": "쌀 포",
+        "hint": "감싸 안음, 둘러쌈",
+        "role": "구성요소"
+      },
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "儿",
+        "name": "어진사람 인",
+        "hint": "사람의 다리나 사람 모습",
+        "role": "대표 부수"
+      },
+      {
+        "component": "免",
+        "name": "면할 면",
+        "hint": "벗어남, 면함, 허락됨",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "入": {
+    "kanji": "入",
+    "meaning": "들 입",
+    "radicalNumber": 11,
+    "radical": "入",
+    "radicalBase": "入",
+    "radicalName": "들 입",
+    "radicalHint": "들어감, 받아들임, 안쪽",
+    "radicalStrokes": 2,
+    "additionalStrokes": 0,
+    "totalStrokes": 2,
+    "components": [
+      {
+        "component": "入",
+        "name": "들 입",
+        "hint": "들어감, 받아들임, 안쪽",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "八": {
     "kanji": "八",
     "meaning": "여덟 팔",
@@ -1091,6 +1691,32 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "冗": {
+    "kanji": "冗",
+    "meaning": "쓸데없을 용",
+    "radicalNumber": 14,
+    "radical": "冖",
+    "radicalBase": "冖",
+    "radicalName": "덮을 멱",
+    "radicalHint": "위에서 덮는 덮개",
+    "radicalStrokes": 2,
+    "additionalStrokes": 2,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "冖",
+        "name": "덮을 멱",
+        "hint": "위에서 덮는 덮개",
+        "role": "대표 부수"
+      },
+      {
+        "component": "几",
+        "name": "안석 궤",
+        "hint": "받침, 작은 책상, 기대는 틀",
+        "role": "구성요소"
+      }
+    ]
+  },
   "写": {
     "kanji": "写",
     "meaning": "베낄 사",
@@ -1123,6 +1749,64 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "冫": {
+    "kanji": "冫",
+    "meaning": "",
+    "radicalNumber": 15,
+    "radical": "冫",
+    "radicalBase": "冫",
+    "radicalName": "얼음 빙",
+    "radicalHint": "얼음, 차가움, 굳음",
+    "radicalStrokes": 2,
+    "additionalStrokes": 0,
+    "totalStrokes": 2,
+    "components": [
+      {
+        "component": "冫",
+        "name": "얼음 빙",
+        "hint": "얼음, 차가움, 굳음",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "冷": {
+    "kanji": "冷",
+    "meaning": "찰 냉(冫)",
+    "radicalNumber": 15,
+    "radical": "冫",
+    "radicalBase": "冫",
+    "radicalName": "얼음 빙",
+    "radicalHint": "얼음, 차가움, 굳음",
+    "radicalStrokes": 2,
+    "additionalStrokes": 5,
+    "totalStrokes": 7,
+    "components": [
+      {
+        "component": "𠆢",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "구성요소"
+      },
+      {
+        "component": "冫",
+        "name": "얼음 빙",
+        "hint": "얼음, 차가움, 굳음",
+        "role": "대표 부수"
+      },
+      {
+        "component": "卩",
+        "name": "병부 절",
+        "hint": "무릎 꿇은 사람, 표식",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      }
+    ]
+  },
   "出": {
     "kanji": "出",
     "meaning": "날 출",
@@ -1146,6 +1830,46 @@ window.JLPT_KANJI_RADICALS = {
         "name": "뫼 산",
         "hint": "산, 높이 솟은 모양, 지형",
         "role": "구성요소"
+      }
+    ]
+  },
+  "刀": {
+    "kanji": "刀",
+    "meaning": "",
+    "radicalNumber": 18,
+    "radical": "刀/刂",
+    "radicalBase": "刀",
+    "radicalName": "칼 도",
+    "radicalHint": "칼, 자르기, 나누기",
+    "radicalStrokes": 2,
+    "additionalStrokes": 0,
+    "totalStrokes": 2,
+    "components": [
+      {
+        "component": "刀",
+        "name": "칼 도",
+        "hint": "칼, 자르기, 나누기",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "刂": {
+    "kanji": "刂",
+    "meaning": "",
+    "radicalNumber": 18,
+    "radical": "刀/刂",
+    "radicalBase": "刀",
+    "radicalName": "칼 도",
+    "radicalHint": "칼, 자르기, 나누기",
+    "radicalStrokes": 2,
+    "additionalStrokes": 0,
+    "totalStrokes": 2,
+    "components": [
+      {
+        "component": "刂",
+        "name": "칼 도",
+        "hint": "칼, 자르기, 나누기",
+        "role": "대표 부수"
       }
     ]
   },
@@ -1349,6 +2073,50 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "制": {
+    "kanji": "制",
+    "meaning": "억제할 제(刂)",
+    "radicalNumber": 18,
+    "radical": "刀/刂",
+    "radicalBase": "刀",
+    "radicalName": "칼 도",
+    "radicalHint": "칼, 자르기, 나누기",
+    "radicalStrokes": 2,
+    "additionalStrokes": 6,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "刂",
+        "name": "칼 도",
+        "hint": "칼, 자르기, 나누기",
+        "role": "대표 부수"
+      },
+      {
+        "component": "牛",
+        "name": "소 우",
+        "hint": "소, 가축, 힘",
+        "role": "구성요소"
+      },
+      {
+        "component": "巾",
+        "name": "수건 건",
+        "hint": "천, 수건, 덮개",
+        "role": "구성요소"
+      },
+      {
+        "component": "二",
+        "name": "두 이",
+        "hint": "둘, 겹침, 위아래의 구분",
+        "role": "구성요소"
+      }
+    ]
+  },
   "刻": {
     "kanji": "刻",
     "meaning": "새길 각",
@@ -1372,6 +2140,44 @@ window.JLPT_KANJI_RADICALS = {
         "name": "돼지해머리 두",
         "hint": "머리나 위쪽 덮개",
         "role": "구성요소"
+      }
+    ]
+  },
+  "則": {
+    "kanji": "則",
+    "meaning": "법칙 칙(刂)",
+    "radicalNumber": 18,
+    "radical": "刀/刂",
+    "radicalBase": "刀",
+    "radicalName": "칼 도",
+    "radicalHint": "칼, 자르기, 나누기",
+    "radicalStrokes": 2,
+    "additionalStrokes": 7,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "貝",
+        "name": "조개 패",
+        "hint": "조개, 돈, 재물",
+        "role": "구성요소"
+      },
+      {
+        "component": "目",
+        "name": "눈 목",
+        "hint": "눈, 보기, 살핌",
+        "role": "구성요소"
+      },
+      {
+        "component": "ハ",
+        "name": "여덟 팔 변형",
+        "hint": "둘로 갈라짐, 벌어짐, 나뉜 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "刂",
+        "name": "칼 도",
+        "hint": "칼, 자르기, 나누기",
+        "role": "대표 부수"
       }
     ]
   },
@@ -1439,6 +2245,58 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "加": {
+    "kanji": "加",
+    "meaning": "더할 가",
+    "radicalNumber": 19,
+    "radical": "力",
+    "radicalBase": "力",
+    "radicalName": "힘 력",
+    "radicalHint": "힘, 노력, 작용",
+    "radicalStrokes": 2,
+    "additionalStrokes": 3,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "力",
+        "name": "힘 력",
+        "hint": "힘, 노력, 작용",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "助": {
+    "kanji": "助",
+    "meaning": "도울 조(力)",
+    "radicalNumber": 19,
+    "radical": "力",
+    "radicalBase": "力",
+    "radicalName": "힘 력",
+    "radicalHint": "힘, 노력, 작용",
+    "radicalStrokes": 2,
+    "additionalStrokes": 5,
+    "totalStrokes": 7,
+    "components": [
+      {
+        "component": "目",
+        "name": "눈 목",
+        "hint": "눈, 보기, 살핌",
+        "role": "구성요소"
+      },
+      {
+        "component": "力",
+        "name": "힘 력",
+        "hint": "힘, 노력, 작용",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "努": {
     "kanji": "努",
     "meaning": "힘쓸 노",
@@ -1471,6 +2329,38 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "効": {
+    "kanji": "効",
+    "meaning": "효과 효",
+    "radicalNumber": 19,
+    "radical": "力",
+    "radicalBase": "力",
+    "radicalName": "힘 력",
+    "radicalHint": "힘, 노력, 작용",
+    "radicalStrokes": 2,
+    "additionalStrokes": 6,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "父",
+        "name": "아버지 부",
+        "hint": "아버지, 어른, 손에 든 도구",
+        "role": "구성요소"
+      },
+      {
+        "component": "力",
+        "name": "힘 력",
+        "hint": "힘, 노력, 작용",
+        "role": "대표 부수"
+      },
+      {
+        "component": "亠",
+        "name": "돼지해머리 두",
+        "hint": "머리나 위쪽 덮개",
+        "role": "구성요소"
+      }
+    ]
+  },
   "勉": {
     "kanji": "勉",
     "meaning": "힘쓸 면",
@@ -1499,6 +2389,88 @@ window.JLPT_KANJI_RADICALS = {
         "component": "儿",
         "name": "어진사람 인",
         "hint": "사람의 다리나 사람 모습",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "動": {
+    "kanji": "動",
+    "meaning": "움직일 동(力)",
+    "radicalNumber": 19,
+    "radical": "力",
+    "radicalBase": "力",
+    "radicalName": "힘 력",
+    "radicalHint": "힘, 노력, 작용",
+    "radicalStrokes": 2,
+    "additionalStrokes": 9,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "力",
+        "name": "힘 력",
+        "hint": "힘, 노력, 작용",
+        "role": "대표 부수"
+      },
+      {
+        "component": "里",
+        "name": "마을 리",
+        "hint": "마을, 거리, 안쪽",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "募": {
+    "kanji": "募",
+    "meaning": "모을 모(力)",
+    "radicalNumber": 19,
+    "radical": "力",
+    "radicalBase": "力",
+    "radicalName": "힘 력",
+    "radicalHint": "힘, 노력, 작용",
+    "radicalStrokes": 2,
+    "additionalStrokes": 11,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "大",
+        "name": "큰 대",
+        "hint": "큼, 넓음, 사람의 큰 모습",
+        "role": "구성요소"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "力",
+        "name": "힘 력",
+        "hint": "힘, 노력, 작용",
+        "role": "대표 부수"
+      },
+      {
+        "component": "⺾",
+        "name": "풀 초",
+        "hint": "풀, 식물, 약재",
         "role": "구성요소"
       }
     ]
@@ -1543,6 +2515,70 @@ window.JLPT_KANJI_RADICALS = {
         "component": "九",
         "name": "아홉 구",
         "hint": "아홉, 굽은 팔처럼 꺾인 모양",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "勧": {
+    "kanji": "勧",
+    "meaning": "권할 권",
+    "radicalNumber": 19,
+    "radical": "力",
+    "radicalBase": "力",
+    "radicalName": "힘 력",
+    "radicalHint": "힘, 노력, 작용",
+    "radicalStrokes": 2,
+    "additionalStrokes": 11,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "力",
+        "name": "힘 력",
+        "hint": "힘, 노력, 작용",
+        "role": "대표 부수"
+      },
+      {
+        "component": "隹",
+        "name": "새 추",
+        "hint": "새, 작은 새의 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "矢",
+        "name": "화살 시",
+        "hint": "화살, 곧음, 빠름",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "包": {
+    "kanji": "包",
+    "meaning": "쌀 포",
+    "radicalNumber": 20,
+    "radical": "勹",
+    "radicalBase": "勹",
+    "radicalName": "쌀 포",
+    "radicalHint": "감싸 안음, 둘러쌈",
+    "radicalStrokes": 2,
+    "additionalStrokes": 3,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "勹",
+        "name": "쌀 포",
+        "hint": "감싸 안음, 둘러쌈",
+        "role": "대표 부수"
+      },
+      {
+        "component": "已",
+        "name": "이미 이",
+        "hint": "이미 끝남, 멈춤, 굽은 모양",
         "role": "구성요소"
       }
     ]
@@ -1601,6 +2637,38 @@ window.JLPT_KANJI_RADICALS = {
         "component": "ノ",
         "name": "삐침 별",
         "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "卒": {
+    "kanji": "卒",
+    "meaning": "마칠 졸",
+    "radicalNumber": 24,
+    "radical": "十",
+    "radicalBase": "十",
+    "radicalName": "열 십",
+    "radicalHint": "열, 완성된 수, 교차",
+    "radicalStrokes": 2,
+    "additionalStrokes": 6,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "十",
+        "name": "열 십",
+        "hint": "열, 완성된 수, 교차",
+        "role": "대표 부수"
+      },
+      {
+        "component": "人",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "구성요소"
+      },
+      {
+        "component": "亠",
+        "name": "돼지해머리 두",
+        "hint": "머리나 위쪽 덮개",
         "role": "구성요소"
       }
     ]
@@ -1669,6 +2737,58 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "厂": {
+    "kanji": "厂",
+    "meaning": "",
+    "radicalNumber": 27,
+    "radical": "厂",
+    "radicalBase": "厂",
+    "radicalName": "언덕 엄",
+    "radicalHint": "기슭, 절벽, 덮인 공간",
+    "radicalStrokes": 2,
+    "additionalStrokes": 0,
+    "totalStrokes": 2,
+    "components": [
+      {
+        "component": "厂",
+        "name": "언덕 엄",
+        "hint": "기슭, 절벽, 덮인 공간",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "厚": {
+    "kanji": "厚",
+    "meaning": "두터울 후(厂)",
+    "radicalNumber": 27,
+    "radical": "厂",
+    "radicalBase": "厂",
+    "radicalName": "언덕 엄",
+    "radicalHint": "기슭, 절벽, 덮인 공간",
+    "radicalStrokes": 2,
+    "additionalStrokes": 7,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "子",
+        "name": "아이 자",
+        "hint": "아이, 자식, 배움",
+        "role": "구성요소"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "厂",
+        "name": "언덕 엄",
+        "hint": "기슭, 절벽, 덮인 공간",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "厳": {
     "kanji": "厳",
     "meaning": "엄할 엄",
@@ -1707,6 +2827,64 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "参": {
+    "kanji": "参",
+    "meaning": "참여할 참",
+    "radicalNumber": 28,
+    "radical": "厶",
+    "radicalBase": "厶",
+    "radicalName": "사사 사",
+    "radicalHint": "사사로움, 개인적인 것, 굽은 팔",
+    "radicalStrokes": 2,
+    "additionalStrokes": 6,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "厶",
+        "name": "사사 사",
+        "hint": "사사로움, 개인적인 것, 구부러진 팔",
+        "role": "대표 부수"
+      },
+      {
+        "component": "彡",
+        "name": "터럭 삼",
+        "hint": "털, 무늬, 빛이나 모양이 퍼짐",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "反": {
+    "kanji": "反",
+    "meaning": "돌이킬 반",
+    "radicalNumber": 29,
+    "radical": "又",
+    "radicalBase": "又",
+    "radicalName": "또 우",
+    "radicalHint": "손, 다시 잡는 동작",
+    "radicalStrokes": 2,
+    "additionalStrokes": 2,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "又",
+        "name": "또 우",
+        "hint": "손, 다시 잡는 동작",
+        "role": "대표 부수"
+      },
+      {
+        "component": "厂",
+        "name": "언덕 엄",
+        "hint": "기슭, 절벽, 덮인 공간",
+        "role": "구성요소"
+      }
+    ]
+  },
   "取": {
     "kanji": "取",
     "meaning": "취할 취",
@@ -1733,6 +2911,64 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "受": {
+    "kanji": "受",
+    "meaning": "받을 수",
+    "radicalNumber": 29,
+    "radical": "又",
+    "radicalBase": "又",
+    "radicalName": "또 우",
+    "radicalHint": "손, 다시 잡는 동작",
+    "radicalStrokes": 2,
+    "additionalStrokes": 6,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "爪",
+        "name": "손톱 조",
+        "hint": "손톱, 움켜쥠, 잡는 손",
+        "role": "구성요소"
+      },
+      {
+        "component": "又",
+        "name": "또 우",
+        "hint": "손, 다시 잡는 동작",
+        "role": "대표 부수"
+      },
+      {
+        "component": "冖",
+        "name": "덮을 멱",
+        "hint": "위에서 덮는 덮개",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "口": {
+    "kanji": "口",
+    "meaning": "",
+    "radicalNumber": 30,
+    "radical": "口",
+    "radicalBase": "口",
+    "radicalName": "입 구",
+    "radicalHint": "입, 말, 구멍, 네모난 공간",
+    "radicalStrokes": 3,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "囗",
+        "name": "에워쌀 위",
+        "hint": "둘러싼 경계나 안쪽 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "台": {
     "kanji": "台",
     "meaning": "대 대",
@@ -1755,6 +2991,32 @@ window.JLPT_KANJI_RADICALS = {
         "component": "厶",
         "name": "사사 사",
         "hint": "사사로움, 개인적인 것, 구부러진 팔",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "叱": {
+    "kanji": "叱",
+    "meaning": "꾸짖을 질(口)",
+    "radicalNumber": 30,
+    "radical": "口",
+    "radicalBase": "口",
+    "radicalName": "입 구",
+    "radicalHint": "입, 말, 구멍, 네모난 공간",
+    "radicalStrokes": 3,
+    "additionalStrokes": 2,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "대표 부수"
+      },
+      {
+        "component": "匕",
+        "name": "비수 비",
+        "hint": "숟가락이나 굽은 도구",
         "role": "구성요소"
       }
     ]
@@ -2065,6 +3327,32 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "品": {
+    "kanji": "品",
+    "meaning": "품격 품",
+    "radicalNumber": 30,
+    "radical": "口",
+    "radicalBase": "口",
+    "radicalName": "입 구",
+    "radicalHint": "입, 말, 구멍, 네모난 공간",
+    "radicalStrokes": 3,
+    "additionalStrokes": 6,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "대표 부수"
+      },
+      {
+        "component": "品",
+        "name": "물건 품",
+        "hint": "여러 물건, 품질, 등급",
+        "role": "구성요소"
+      }
+    ]
+  },
   "員": {
     "kanji": "員",
     "meaning": "인원 원",
@@ -2179,6 +3467,44 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "喜": {
+    "kanji": "喜",
+    "meaning": "",
+    "radicalNumber": 30,
+    "radical": "口",
+    "radicalBase": "口",
+    "radicalName": "입 구",
+    "radicalHint": "입, 말, 구멍, 네모난 공간",
+    "radicalStrokes": 3,
+    "additionalStrokes": 9,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "대표 부수"
+      },
+      {
+        "component": "士",
+        "name": "선비 사",
+        "hint": "사람, 지위, 선비",
+        "role": "구성요소"
+      },
+      {
+        "component": "豆",
+        "name": "콩 두",
+        "hint": "콩, 제기, 높임 그릇",
+        "role": "구성요소"
+      },
+      {
+        "component": "并",
+        "name": "나란할 병",
+        "hint": "나란함, 함께 놓임, 두 갈래",
+        "role": "구성요소"
+      }
+    ]
+  },
   "営": {
     "kanji": "営",
     "meaning": "경영할 영",
@@ -2237,6 +3563,32 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "回": {
+    "kanji": "回",
+    "meaning": "돌 회",
+    "radicalNumber": 31,
+    "radical": "囗",
+    "radicalBase": "囗",
+    "radicalName": "에워쌀 위",
+    "radicalHint": "둘러싼 경계나 안쪽 공간",
+    "radicalStrokes": 3,
+    "additionalStrokes": 3,
+    "totalStrokes": 6,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "囗",
+        "name": "에워쌀 위",
+        "hint": "둘러싼 경계나 안쪽 공간",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "困": {
     "kanji": "困",
     "meaning": "곤할 곤",
@@ -2285,6 +3637,26 @@ window.JLPT_KANJI_RADICALS = {
         "component": "囗",
         "name": "에워쌀 위",
         "hint": "둘러싼 경계나 안쪽 공간",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "土": {
+    "kanji": "土",
+    "meaning": "",
+    "radicalNumber": 32,
+    "radical": "土",
+    "radicalBase": "土",
+    "radicalName": "흙 토",
+    "radicalHint": "흙, 땅, 장소",
+    "radicalStrokes": 3,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "土",
+        "name": "흙 토",
+        "hint": "흙, 땅, 장소",
         "role": "대표 부수"
       }
     ]
@@ -2365,6 +3737,138 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "型": {
+    "kanji": "型",
+    "meaning": "틀 형(土)",
+    "radicalNumber": 32,
+    "radical": "土",
+    "radicalBase": "土",
+    "radicalName": "흙 토",
+    "radicalHint": "흙, 땅, 장소",
+    "radicalStrokes": 3,
+    "additionalStrokes": 6,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "刂",
+        "name": "칼 도",
+        "hint": "칼, 자르기, 나누기",
+        "role": "구성요소"
+      },
+      {
+        "component": "土",
+        "name": "흙 토",
+        "hint": "흙, 땅, 장소",
+        "role": "대표 부수"
+      },
+      {
+        "component": "廾",
+        "name": "받들 공",
+        "hint": "두 손으로 받듦, 들어 올림",
+        "role": "구성요소"
+      },
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "基": {
+    "kanji": "基",
+    "meaning": "터 기(土)",
+    "radicalNumber": 32,
+    "radical": "土",
+    "radicalBase": "土",
+    "radicalName": "흙 토",
+    "radicalHint": "흙, 땅, 장소",
+    "radicalStrokes": 3,
+    "additionalStrokes": 8,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "甘",
+        "name": "달 감",
+        "hint": "달다, 맛",
+        "role": "구성요소"
+      },
+      {
+        "component": "土",
+        "name": "흙 토",
+        "hint": "흙, 땅, 장소",
+        "role": "대표 부수"
+      },
+      {
+        "component": "ハ",
+        "name": "여덟 팔 변형",
+        "hint": "둘로 갈라짐, 벌어짐, 나뉜 모양",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "報": {
+    "kanji": "報",
+    "meaning": "알릴 보",
+    "radicalNumber": 32,
+    "radical": "土",
+    "radicalBase": "土",
+    "radicalName": "흙 토",
+    "radicalHint": "흙, 땅, 장소",
+    "radicalStrokes": 3,
+    "additionalStrokes": 9,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "十",
+        "name": "열 십",
+        "hint": "열, 완성된 수, 교차",
+        "role": "구성요소"
+      },
+      {
+        "component": "辛",
+        "name": "매울 신",
+        "hint": "매움, 괴로움, 새김",
+        "role": "구성요소"
+      },
+      {
+        "component": "土",
+        "name": "흙 토",
+        "hint": "흙, 땅, 장소",
+        "role": "대표 부수"
+      },
+      {
+        "component": "又",
+        "name": "또 우",
+        "hint": "손, 다시 잡는 동작",
+        "role": "구성요소"
+      },
+      {
+        "component": "立",
+        "name": "설 립",
+        "hint": "서 있음, 세움",
+        "role": "구성요소"
+      },
+      {
+        "component": "亠",
+        "name": "돼지해머리 두",
+        "hint": "머리나 위쪽 덮개",
+        "role": "구성요소"
+      },
+      {
+        "component": "卩",
+        "name": "병부 절",
+        "hint": "무릎 꿇은 사람, 표식",
+        "role": "구성요소"
+      }
+    ]
+  },
   "場": {
     "kanji": "場",
     "meaning": "마당 장",
@@ -2431,6 +3935,94 @@ window.JLPT_KANJI_RADICALS = {
         "component": "并",
         "name": "나란할 병",
         "hint": "나란함, 함께 놓임, 두 갈래",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "壁": {
+    "kanji": "壁",
+    "meaning": "벽 벽(土)",
+    "radicalNumber": 32,
+    "radical": "土",
+    "radicalBase": "土",
+    "radicalName": "흙 토",
+    "radicalHint": "흙, 땅, 장소",
+    "radicalStrokes": 3,
+    "additionalStrokes": 13,
+    "totalStrokes": 16,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "十",
+        "name": "열 십",
+        "hint": "열, 완성된 수, 교차",
+        "role": "구성요소"
+      },
+      {
+        "component": "辛",
+        "name": "매울 신",
+        "hint": "매움, 괴로움, 새김",
+        "role": "구성요소"
+      },
+      {
+        "component": "土",
+        "name": "흙 토",
+        "hint": "흙, 땅, 장소",
+        "role": "대표 부수"
+      },
+      {
+        "component": "立",
+        "name": "설 립",
+        "hint": "서 있음, 세움",
+        "role": "구성요소"
+      },
+      {
+        "component": "尸",
+        "name": "주검 시",
+        "hint": "몸, 집 안에 누운 모습",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "壊": {
+    "kanji": "壊",
+    "meaning": "무너질 괴(土)",
+    "radicalNumber": 32,
+    "radical": "土",
+    "radicalBase": "土",
+    "radicalName": "흙 토",
+    "radicalHint": "흙, 땅, 장소",
+    "radicalStrokes": 3,
+    "additionalStrokes": 13,
+    "totalStrokes": 16,
+    "components": [
+      {
+        "component": "衣",
+        "name": "옷 의",
+        "hint": "옷, 덮거나 입는 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "十",
+        "name": "열 십",
+        "hint": "열, 완성된 수, 교차",
+        "role": "구성요소"
+      },
+      {
+        "component": "土",
+        "name": "흙 토",
+        "hint": "흙, 땅, 장소",
+        "role": "대표 부수"
+      },
+      {
+        "component": "罒",
+        "name": "그물 망",
+        "hint": "그물, 덮어 씌움, 잡아 가둠",
         "role": "구성요소"
       }
     ]
@@ -2609,6 +4201,26 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "女": {
+    "kanji": "女",
+    "meaning": "",
+    "radicalNumber": 38,
+    "radical": "女",
+    "radicalBase": "女",
+    "radicalName": "여자 녀",
+    "radicalHint": "여자, 사람 관계, 부드러움",
+    "radicalStrokes": 3,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "女",
+        "name": "여자 녀",
+        "hint": "여자, 사람 관계, 부드러움",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "始": {
     "kanji": "始",
     "meaning": "비로소 시",
@@ -2638,6 +4250,32 @@ window.JLPT_KANJI_RADICALS = {
         "name": "사사 사",
         "hint": "사사로움, 개인적인 것, 구부러진 팔",
         "role": "구성요소"
+      }
+    ]
+  },
+  "娘": {
+    "kanji": "娘",
+    "meaning": "계집 낭(女+良)",
+    "radicalNumber": 38,
+    "radical": "女",
+    "radicalBase": "女",
+    "radicalName": "여자 녀",
+    "radicalHint": "여자, 사람 관계, 부드러움",
+    "radicalStrokes": 3,
+    "additionalStrokes": 7,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "艮",
+        "name": "그칠 간",
+        "hint": "멈춤, 등짐, 뒤돌아보는 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "女",
+        "name": "여자 녀",
+        "hint": "여자, 사람 관계, 부드러움",
+        "role": "대표 부수"
       }
     ]
   },
@@ -2676,6 +4314,70 @@ window.JLPT_KANJI_RADICALS = {
         "name": "덮을 멱",
         "hint": "위에서 덮는 덮개",
         "role": "구성요소"
+      }
+    ]
+  },
+  "嬉": {
+    "kanji": "嬉",
+    "meaning": "기쁠 희(女+喜)",
+    "radicalNumber": 38,
+    "radical": "女",
+    "radicalBase": "女",
+    "radicalName": "여자 녀",
+    "radicalHint": "여자, 사람 관계, 부드러움",
+    "radicalStrokes": 3,
+    "additionalStrokes": 12,
+    "totalStrokes": 15,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "士",
+        "name": "선비 사",
+        "hint": "사람, 지위, 선비",
+        "role": "구성요소"
+      },
+      {
+        "component": "女",
+        "name": "여자 녀",
+        "hint": "여자, 사람 관계, 부드러움",
+        "role": "대표 부수"
+      },
+      {
+        "component": "豆",
+        "name": "콩 두",
+        "hint": "콩, 제기, 높임 그릇",
+        "role": "구성요소"
+      },
+      {
+        "component": "并",
+        "name": "나란할 병",
+        "hint": "나란함, 함께 놓임, 두 갈래",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "子": {
+    "kanji": "子",
+    "meaning": "아들 자",
+    "radicalNumber": 39,
+    "radical": "子",
+    "radicalBase": "子",
+    "radicalName": "아이 자",
+    "radicalHint": "아이, 자식, 배움",
+    "radicalStrokes": 3,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "子",
+        "name": "아이 자",
+        "hint": "아이, 자식, 배움",
+        "role": "대표 부수"
       }
     ]
   },
@@ -2743,6 +4445,78 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "季": {
+    "kanji": "季",
+    "meaning": "계절 계(禾)",
+    "radicalNumber": 39,
+    "radical": "子",
+    "radicalBase": "子",
+    "radicalName": "아이 자",
+    "radicalHint": "아이, 자식, 배움",
+    "radicalStrokes": 3,
+    "additionalStrokes": 5,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "禾",
+        "name": "벼 화",
+        "hint": "벼, 곡식, 수확",
+        "role": "구성요소"
+      },
+      {
+        "component": "子",
+        "name": "아이 자",
+        "hint": "아이, 자식, 배움",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "宀": {
+    "kanji": "宀",
+    "meaning": "",
+    "radicalNumber": 40,
+    "radical": "宀",
+    "radicalBase": "宀",
+    "radicalName": "집 면",
+    "radicalHint": "집, 건물, 안쪽 공간",
+    "radicalStrokes": 3,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "宀",
+        "name": "집 면",
+        "hint": "집, 건물, 안쪽 공간",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "安": {
+    "kanji": "安",
+    "meaning": "편안할 안(宀)",
+    "radicalNumber": 40,
+    "radical": "宀",
+    "radicalBase": "宀",
+    "radicalName": "집 면",
+    "radicalHint": "집, 건물, 안쪽 공간",
+    "radicalStrokes": 3,
+    "additionalStrokes": 3,
+    "totalStrokes": 6,
+    "components": [
+      {
+        "component": "女",
+        "name": "여자 녀",
+        "hint": "여자, 사람 관계, 부드러움",
+        "role": "구성요소"
+      },
+      {
+        "component": "宀",
+        "name": "집 면",
+        "hint": "집, 건물, 안쪽 공간",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "定": {
     "kanji": "定",
     "meaning": "정할 정",
@@ -2759,6 +4533,70 @@ window.JLPT_KANJI_RADICALS = {
         "component": "疋",
         "name": "발 소",
         "hint": "발, 걸음, 짝을 이루는 단위",
+        "role": "구성요소"
+      },
+      {
+        "component": "宀",
+        "name": "집 면",
+        "hint": "집, 건물, 안쪽 공간",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "実": {
+    "kanji": "実",
+    "meaning": "열매 실",
+    "radicalNumber": 40,
+    "radical": "宀",
+    "radicalBase": "宀",
+    "radicalName": "집 면",
+    "radicalHint": "집, 건물, 안쪽 공간",
+    "radicalStrokes": 3,
+    "additionalStrokes": 5,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "士",
+        "name": "선비 사",
+        "hint": "사람, 지위, 선비",
+        "role": "구성요소"
+      },
+      {
+        "component": "大",
+        "name": "큰 대",
+        "hint": "큼, 넓음, 사람의 큰 모습",
+        "role": "구성요소"
+      },
+      {
+        "component": "宀",
+        "name": "집 면",
+        "hint": "집, 건물, 안쪽 공간",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "宣": {
+    "kanji": "宣",
+    "meaning": "베풀 선",
+    "radicalNumber": 40,
+    "radical": "宀",
+    "radicalBase": "宀",
+    "radicalName": "집 면",
+    "radicalHint": "집, 건물, 안쪽 공간",
+    "radicalStrokes": 3,
+    "additionalStrokes": 6,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
         "role": "구성요소"
       },
       {
@@ -2791,6 +4629,94 @@ window.JLPT_KANJI_RADICALS = {
         "component": "豕",
         "name": "돼지 시",
         "hint": "돼지, 짐승, 몸통이 큰 모양",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "寂": {
+    "kanji": "寂",
+    "meaning": "고요할 적(宀)",
+    "radicalNumber": 40,
+    "radical": "宀",
+    "radicalBase": "宀",
+    "radicalName": "집 면",
+    "radicalHint": "집, 건물, 안쪽 공간",
+    "radicalStrokes": 3,
+    "additionalStrokes": 8,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "卜",
+        "name": "점 복",
+        "hint": "점침, 갈라진 금, 판단",
+        "role": "구성요소"
+      },
+      {
+        "component": "又",
+        "name": "또 우",
+        "hint": "손, 다시 잡는 동작",
+        "role": "구성요소"
+      },
+      {
+        "component": "宀",
+        "name": "집 면",
+        "hint": "집, 건물, 안쪽 공간",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "察": {
+    "kanji": "察",
+    "meaning": "살필 찰(宀)",
+    "radicalNumber": 40,
+    "radical": "宀",
+    "radicalBase": "宀",
+    "radicalName": "집 면",
+    "radicalHint": "집, 건물, 안쪽 공간",
+    "radicalStrokes": 3,
+    "additionalStrokes": 11,
+    "totalStrokes": 14,
+    "components": [
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "示",
+        "name": "보일 시",
+        "hint": "보임, 제사, 신성한 일",
+        "role": "구성요소"
+      },
+      {
+        "component": "二",
+        "name": "두 이",
+        "hint": "둘, 겹침, 위아래의 구분",
+        "role": "구성요소"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "宀",
+        "name": "집 면",
+        "hint": "집, 건물, 안쪽 공간",
+        "role": "대표 부수"
+      },
+      {
+        "component": "癶",
+        "name": "필 발",
+        "hint": "벌어진 발, 움직임",
         "role": "구성요소"
       }
     ]
@@ -2865,6 +4791,32 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "射": {
+    "kanji": "射",
+    "meaning": "쏠 사",
+    "radicalNumber": 41,
+    "radical": "寸",
+    "radicalBase": "寸",
+    "radicalName": "마디 촌",
+    "radicalHint": "손의 동작, 치수, 법도",
+    "radicalStrokes": 3,
+    "additionalStrokes": 7,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "身",
+        "name": "몸 신",
+        "hint": "몸, 자기 자신, 신체",
+        "role": "구성요소"
+      },
+      {
+        "component": "寸",
+        "name": "마디 촌",
+        "hint": "손의 동작, 치수, 법도",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "将": {
     "kanji": "将",
     "meaning": "장차 장",
@@ -2935,6 +4887,52 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "小": {
+    "kanji": "小",
+    "meaning": "작을 소",
+    "radicalNumber": 42,
+    "radical": "小",
+    "radicalBase": "小",
+    "radicalName": "작을 소",
+    "radicalHint": "작음, 작게 나뉜 것",
+    "radicalStrokes": 3,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "少": {
+    "kanji": "少",
+    "meaning": "적을 소",
+    "radicalNumber": 42,
+    "radical": "小",
+    "radicalBase": "小",
+    "radicalName": "작을 소",
+    "radicalHint": "작음, 작게 나뉜 것",
+    "radicalStrokes": 3,
+    "additionalStrokes": 1,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "就": {
     "kanji": "就",
     "meaning": "나아갈 취",
@@ -2985,6 +4983,38 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "居": {
+    "kanji": "居",
+    "meaning": "있을 거",
+    "radicalNumber": 44,
+    "radical": "尸",
+    "radicalBase": "尸",
+    "radicalName": "주검 시",
+    "radicalHint": "몸, 집 안에 누운 모습",
+    "radicalStrokes": 3,
+    "additionalStrokes": 5,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "十",
+        "name": "열 십",
+        "hint": "열, 완성된 수, 교차",
+        "role": "구성요소"
+      },
+      {
+        "component": "尸",
+        "name": "주검 시",
+        "hint": "몸, 집 안에 누운 모습",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "屋": {
     "kanji": "屋",
     "meaning": "집 옥",
@@ -3019,6 +5049,26 @@ window.JLPT_KANJI_RADICALS = {
         "component": "尸",
         "name": "주검 시",
         "hint": "몸, 집 안에 누운 모습",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "工": {
+    "kanji": "工",
+    "meaning": "장인 공",
+    "radicalNumber": 48,
+    "radical": "工",
+    "radicalBase": "工",
+    "radicalName": "장인 공",
+    "radicalHint": "도구, 일, 정교하게 만드는 행위",
+    "radicalStrokes": 3,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "工",
+        "name": "장인 공",
+        "hint": "도구, 일, 정교하게 만드는 행위",
         "role": "대표 부수"
       }
     ]
@@ -3119,6 +5169,44 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "常": {
+    "kanji": "常",
+    "meaning": "항상 상",
+    "radicalNumber": 50,
+    "radical": "巾",
+    "radicalBase": "巾",
+    "radicalName": "수건 건",
+    "radicalHint": "천, 수건, 덮개",
+    "radicalStrokes": 3,
+    "additionalStrokes": 8,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "巾",
+        "name": "수건 건",
+        "hint": "천, 수건, 덮개",
+        "role": "대표 부수"
+      },
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "⺌",
+        "name": "작을 소 변형",
+        "hint": "작음, 흩어진 점, 작은 움직임",
+        "role": "구성요소"
+      },
+      {
+        "component": "冖",
+        "name": "덮을 멱",
+        "hint": "위에서 덮는 덮개",
+        "role": "구성요소"
+      }
+    ]
+  },
   "平": {
     "kanji": "平",
     "meaning": "평평할 평",
@@ -3142,6 +5230,26 @@ window.JLPT_KANJI_RADICALS = {
         "name": "나란할 병",
         "hint": "나란함, 함께 놓임, 두 갈래",
         "role": "구성요소"
+      }
+    ]
+  },
+  "广": {
+    "kanji": "广",
+    "meaning": "",
+    "radicalNumber": 53,
+    "radical": "广",
+    "radicalBase": "广",
+    "radicalName": "집 엄",
+    "radicalHint": "넓은 집이나 건물",
+    "radicalStrokes": 3,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "广",
+        "name": "집 엄",
+        "hint": "넓은 집이나 건물",
+        "role": "대표 부수"
       }
     ]
   },
@@ -3237,6 +5345,76 @@ window.JLPT_KANJI_RADICALS = {
         "component": "凵",
         "name": "입벌릴 감",
         "hint": "그릇, 움푹 열린 공간",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "庭": {
+    "kanji": "庭",
+    "meaning": "뜰 정(广)",
+    "radicalNumber": 53,
+    "radical": "广",
+    "radicalBase": "广",
+    "radicalName": "집 엄",
+    "radicalHint": "넓은 집이나 건물",
+    "radicalStrokes": 3,
+    "additionalStrokes": 7,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "王",
+        "name": "구슬 옥",
+        "hint": "구슬, 보석, 귀한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "广",
+        "name": "집 엄",
+        "hint": "넓은 집이나 건물",
+        "role": "대표 부수"
+      },
+      {
+        "component": "廴",
+        "name": "길게 걸을 인",
+        "hint": "길게 이어지는 걸음",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "康": {
+    "kanji": "康",
+    "meaning": "편안할 강(广)",
+    "radicalNumber": 53,
+    "radical": "广",
+    "radicalBase": "广",
+    "radicalName": "집 엄",
+    "radicalHint": "넓은 집이나 건물",
+    "radicalStrokes": 3,
+    "additionalStrokes": 8,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "ヨ",
+        "name": "요",
+        "hint": "손이나 빗자루처럼 층이 있는 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "水",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "구성요소"
+      },
+      {
+        "component": "广",
+        "name": "집 엄",
+        "hint": "넓은 집이나 건물",
+        "role": "대표 부수"
+      },
+      {
+        "component": "隶",
+        "name": "미칠 이",
+        "hint": "붙잡음, 뒤따름, 이어지는 손의 움직임",
         "role": "구성요소"
       }
     ]
@@ -3383,6 +5561,90 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "当": {
+    "kanji": "当",
+    "meaning": "마땅할 당",
+    "radicalNumber": 58,
+    "radical": "彐",
+    "radicalBase": "彐",
+    "radicalName": "돼지머리 계",
+    "radicalHint": "손이나 빗자루처럼 층이 있는 모양",
+    "radicalStrokes": 3,
+    "additionalStrokes": 3,
+    "totalStrokes": 6,
+    "components": [
+      {
+        "component": "ヨ",
+        "name": "요",
+        "hint": "손이나 빗자루처럼 층이 있는 모양",
+        "role": "대표 부수"
+      },
+      {
+        "component": "⺌",
+        "name": "작을 소 변형",
+        "hint": "작음, 흩어진 점, 작은 움직임",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "彳": {
+    "kanji": "彳",
+    "meaning": "",
+    "radicalNumber": 60,
+    "radical": "彳",
+    "radicalBase": "彳",
+    "radicalName": "조금 걸을 척",
+    "radicalHint": "걷기, 이동, 길",
+    "radicalStrokes": 3,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "彳",
+        "name": "조금 걸을 척",
+        "hint": "걷기, 이동, 길",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "役": {
+    "kanji": "役",
+    "meaning": "역할 역(彳)",
+    "radicalNumber": 60,
+    "radical": "彳",
+    "radicalBase": "彳",
+    "radicalName": "조금 걸을 척",
+    "radicalHint": "걷기, 이동, 길",
+    "radicalStrokes": 3,
+    "additionalStrokes": 4,
+    "totalStrokes": 7,
+    "components": [
+      {
+        "component": "彳",
+        "name": "조금 걸을 척",
+        "hint": "걷기, 이동, 길",
+        "role": "대표 부수"
+      },
+      {
+        "component": "殳",
+        "name": "갖은등글월문 수",
+        "hint": "손에 든 도구, 치는 동작",
+        "role": "구성요소"
+      },
+      {
+        "component": "几",
+        "name": "안석 궤",
+        "hint": "받침, 작은 책상, 기대는 틀",
+        "role": "구성요소"
+      },
+      {
+        "component": "又",
+        "name": "또 우",
+        "hint": "손, 다시 잡는 동작",
+        "role": "구성요소"
+      }
+    ]
+  },
   "彼": {
     "kanji": "彼",
     "meaning": "저 피",
@@ -3447,6 +5709,140 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "律": {
+    "kanji": "律",
+    "meaning": "법 률(彳)",
+    "radicalNumber": 60,
+    "radical": "彳",
+    "radicalBase": "彳",
+    "radicalName": "조금 걸을 척",
+    "radicalHint": "걷기, 이동, 길",
+    "radicalStrokes": 3,
+    "additionalStrokes": 6,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "彳",
+        "name": "조금 걸을 척",
+        "hint": "걷기, 이동, 길",
+        "role": "대표 부수"
+      },
+      {
+        "component": "聿",
+        "name": "붓 율",
+        "hint": "붓을 잡은 손, 쓰기, 기록",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "得": {
+    "kanji": "得",
+    "meaning": "얻을 득(彳)",
+    "radicalNumber": 60,
+    "radical": "彳",
+    "radicalBase": "彳",
+    "radicalName": "조금 걸을 척",
+    "radicalHint": "걷기, 이동, 길",
+    "radicalStrokes": 3,
+    "additionalStrokes": 8,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "寸",
+        "name": "마디 촌",
+        "hint": "손의 동작, 치수, 법도",
+        "role": "구성요소"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "彳",
+        "name": "조금 걸을 척",
+        "hint": "걷기, 이동, 길",
+        "role": "대표 부수"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "御": {
+    "kanji": "御",
+    "meaning": "공손함",
+    "radicalNumber": 60,
+    "radical": "彳",
+    "radicalBase": "彳",
+    "radicalName": "조금 걸을 척",
+    "radicalHint": "걷기, 이동, 길",
+    "radicalStrokes": 3,
+    "additionalStrokes": 8,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "止",
+        "name": "그칠 지",
+        "hint": "발, 멈춤, 발자국",
+        "role": "구성요소"
+      },
+      {
+        "component": "卩",
+        "name": "병부 절",
+        "hint": "무릎 꿇은 사람, 표식",
+        "role": "구성요소"
+      },
+      {
+        "component": "彳",
+        "name": "조금 걸을 척",
+        "hint": "걷기, 이동, 길",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "復": {
+    "kanji": "復",
+    "meaning": "돌아올 복(彳)",
+    "radicalNumber": 60,
+    "radical": "彳",
+    "radicalBase": "彳",
+    "radicalName": "조금 걸을 척",
+    "radicalHint": "걷기, 이동, 길",
+    "radicalStrokes": 3,
+    "additionalStrokes": 9,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "夂",
+        "name": "뒤져 올 치",
+        "hint": "뒤따라 걷는 발, 늦게 오는 움직임",
+        "role": "구성요소"
+      },
+      {
+        "component": "彳",
+        "name": "조금 걸을 척",
+        "hint": "걷기, 이동, 길",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "心": {
     "kanji": "心",
     "meaning": "마음 심",
@@ -3461,6 +5857,26 @@ window.JLPT_KANJI_RADICALS = {
     "components": [
       {
         "component": "心",
+        "name": "마음 심",
+        "hint": "마음, 감정, 생각",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "忄": {
+    "kanji": "忄",
+    "meaning": "",
+    "radicalNumber": 61,
+    "radical": "心/忄",
+    "radicalBase": "心",
+    "radicalName": "마음 심",
+    "radicalHint": "마음, 감정, 생각",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "忄",
         "name": "마음 심",
         "hint": "마음, 감정, 생각",
         "role": "대표 부수"
@@ -3531,6 +5947,44 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "怖": {
+    "kanji": "怖",
+    "meaning": "두려울 포(忄)",
+    "radicalNumber": 61,
+    "radical": "心/忄",
+    "radicalBase": "心",
+    "radicalName": "마음 심",
+    "radicalHint": "마음, 감정, 생각",
+    "radicalStrokes": 4,
+    "additionalStrokes": 5,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "巾",
+        "name": "수건 건",
+        "hint": "천, 수건, 덮개",
+        "role": "구성요소"
+      },
+      {
+        "component": "忄",
+        "name": "마음 심",
+        "hint": "마음, 감정, 생각",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "急": {
     "kanji": "急",
     "meaning": "급할 급",
@@ -3589,6 +6043,128 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "怪": {
+    "kanji": "怪",
+    "meaning": "괴이할 괴(忄)",
+    "radicalNumber": 61,
+    "radical": "心/忄",
+    "radicalBase": "心",
+    "radicalName": "마음 심",
+    "radicalHint": "마음, 감정, 생각",
+    "radicalStrokes": 4,
+    "additionalStrokes": 5,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "土",
+        "name": "흙 토",
+        "hint": "흙, 땅, 장소",
+        "role": "구성요소"
+      },
+      {
+        "component": "忄",
+        "name": "마음 심",
+        "hint": "마음, 감정, 생각",
+        "role": "대표 부수"
+      },
+      {
+        "component": "又",
+        "name": "또 우",
+        "hint": "손, 다시 잡는 동작",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "恋": {
+    "kanji": "恋",
+    "meaning": "그리워할 련(心)",
+    "radicalNumber": 61,
+    "radical": "心/忄",
+    "radicalBase": "心",
+    "radicalName": "마음 심",
+    "radicalHint": "마음, 감정, 생각",
+    "radicalStrokes": 4,
+    "additionalStrokes": 6,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "心",
+        "name": "마음 심",
+        "hint": "마음, 감정, 생각",
+        "role": "대표 부수"
+      },
+      {
+        "component": "ハ",
+        "name": "여덟 팔 변형",
+        "hint": "둘로 갈라짐, 벌어짐, 나뉜 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "亠",
+        "name": "돼지해머리 두",
+        "hint": "머리나 위쪽 덮개",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "息": {
+    "kanji": "息",
+    "meaning": "숨 식",
+    "radicalNumber": 61,
+    "radical": "心/忄",
+    "radicalBase": "心",
+    "radicalName": "마음 심",
+    "radicalHint": "마음, 감정, 생각",
+    "radicalStrokes": 4,
+    "additionalStrokes": 6,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "自",
+        "name": "스스로 자",
+        "hint": "자기 자신, 코, 출발점",
+        "role": "구성요소"
+      },
+      {
+        "component": "心",
+        "name": "마음 심",
+        "hint": "마음, 감정, 생각",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "悔": {
+    "kanji": "悔",
+    "meaning": "뉘우칠 회(忄)",
+    "radicalNumber": 61,
+    "radical": "心/忄",
+    "radicalBase": "心",
+    "radicalName": "마음 심",
+    "radicalHint": "마음, 감정, 생각",
+    "radicalStrokes": 4,
+    "additionalStrokes": 7,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "母",
+        "name": "어미 모",
+        "hint": "어머니, 낳고 기름, 근원",
+        "role": "구성요소"
+      },
+      {
+        "component": "忄",
+        "name": "마음 심",
+        "hint": "마음, 감정, 생각",
+        "role": "대표 부수"
+      },
+      {
+        "component": "毋",
+        "name": "말 무",
+        "hint": "금지, 하지 않음, 막는 모양",
+        "role": "구성요소"
+      }
+    ]
+  },
   "情": {
     "kanji": "情",
     "meaning": "뜻 정",
@@ -3636,6 +6212,50 @@ window.JLPT_KANJI_RADICALS = {
         "name": "돼지해머리 두",
         "hint": "머리나 위쪽 덮개",
         "role": "구성요소"
+      }
+    ]
+  },
+  "惜": {
+    "kanji": "惜",
+    "meaning": "아낄 석(忄+昔)",
+    "radicalNumber": 61,
+    "radical": "心/忄",
+    "radicalBase": "心",
+    "radicalName": "마음 심",
+    "radicalHint": "마음, 감정, 생각",
+    "radicalStrokes": 4,
+    "additionalStrokes": 8,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "二",
+        "name": "두 이",
+        "hint": "둘, 겹침, 위아래의 구분",
+        "role": "구성요소"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "忄",
+        "name": "마음 심",
+        "hint": "마음, 감정, 생각",
+        "role": "대표 부수"
       }
     ]
   },
@@ -3706,6 +6326,82 @@ window.JLPT_KANJI_RADICALS = {
         "name": "설 립",
         "hint": "서 있음, 세움",
         "role": "구성요소"
+      }
+    ]
+  },
+  "感": {
+    "kanji": "感",
+    "meaning": "느낄 감(心)",
+    "radicalNumber": 61,
+    "radical": "心/忄",
+    "radicalBase": "心",
+    "radicalName": "마음 심",
+    "radicalHint": "마음, 감정, 생각",
+    "radicalStrokes": 4,
+    "additionalStrokes": 9,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "心",
+        "name": "마음 심",
+        "hint": "마음, 감정, 생각",
+        "role": "대표 부수"
+      },
+      {
+        "component": "戈",
+        "name": "창 과",
+        "hint": "창, 무기, 싸움",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "懐": {
+    "kanji": "懐",
+    "meaning": "품을 회(忄)",
+    "radicalNumber": 61,
+    "radical": "心/忄",
+    "radicalBase": "心",
+    "radicalName": "마음 심",
+    "radicalHint": "마음, 감정, 생각",
+    "radicalStrokes": 4,
+    "additionalStrokes": 13,
+    "totalStrokes": 16,
+    "components": [
+      {
+        "component": "衣",
+        "name": "옷 의",
+        "hint": "옷, 덮거나 입는 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "十",
+        "name": "열 십",
+        "hint": "열, 완성된 수, 교차",
+        "role": "구성요소"
+      },
+      {
+        "component": "罒",
+        "name": "그물 망",
+        "hint": "그물, 덮어 씌움, 잡아 가둠",
+        "role": "구성요소"
+      },
+      {
+        "component": "忄",
+        "name": "마음 심",
+        "hint": "마음, 감정, 생각",
+        "role": "대표 부수"
       }
     ]
   },
@@ -3793,6 +6489,26 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "扌": {
+    "kanji": "扌",
+    "meaning": "",
+    "radicalNumber": 64,
+    "radical": "手/扌",
+    "radicalBase": "手",
+    "radicalName": "손 수",
+    "radicalHint": "손, 잡기, 움직이는 동작",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "扌",
+        "name": "손 수",
+        "hint": "손, 잡기, 움직이는 동작",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "払": {
     "kanji": "払",
     "meaning": "떨칠 불",
@@ -3809,6 +6525,58 @@ window.JLPT_KANJI_RADICALS = {
         "component": "厶",
         "name": "사사 사",
         "hint": "사사로움, 개인적인 것, 구부러진 팔",
+        "role": "구성요소"
+      },
+      {
+        "component": "扌",
+        "name": "손 수",
+        "hint": "손, 잡기, 움직이는 동작",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "折": {
+    "kanji": "折",
+    "meaning": "꺾을 절(扌+斤)",
+    "radicalNumber": 64,
+    "radical": "手/扌",
+    "radicalBase": "手",
+    "radicalName": "손 수",
+    "radicalHint": "손, 잡기, 움직이는 동작",
+    "radicalStrokes": 4,
+    "additionalStrokes": 4,
+    "totalStrokes": 7,
+    "components": [
+      {
+        "component": "斤",
+        "name": "도끼 근",
+        "hint": "도끼, 베어 나눔, 무게 단위",
+        "role": "구성요소"
+      },
+      {
+        "component": "扌",
+        "name": "손 수",
+        "hint": "손, 잡기, 움직이는 동작",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "択": {
+    "kanji": "択",
+    "meaning": "가릴 택(扌)",
+    "radicalNumber": 64,
+    "radical": "手/扌",
+    "radicalBase": "手",
+    "radicalName": "손 수",
+    "radicalHint": "손, 잡기, 움직이는 동작",
+    "radicalStrokes": 4,
+    "additionalStrokes": 4,
+    "totalStrokes": 7,
+    "components": [
+      {
+        "component": "尸",
+        "name": "주검 시",
+        "hint": "몸, 집 안에 누운 모습",
         "role": "구성요소"
       },
       {
@@ -3921,9 +6689,41 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "拾": {
+    "kanji": "拾",
+    "meaning": "주울 습(扌)",
+    "radicalNumber": 64,
+    "radical": "手/扌",
+    "radicalBase": "手",
+    "radicalName": "손 수",
+    "radicalHint": "손, 잡기, 움직이는 동작",
+    "radicalStrokes": 4,
+    "additionalStrokes": 6,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "𠆢",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "구성요소"
+      },
+      {
+        "component": "扌",
+        "name": "손 수",
+        "hint": "손, 잡기, 움직이는 동작",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "持": {
     "kanji": "持",
-    "meaning": "가질 지",
+    "meaning": "가질 지(扌)",
     "radicalNumber": 64,
     "radical": "手/扌",
     "radicalBase": "手",
@@ -4007,6 +6807,44 @@ window.JLPT_KANJI_RADICALS = {
         "component": "厶",
         "name": "사사 사",
         "hint": "사사로움, 개인적인 것, 구부러진 팔",
+        "role": "구성요소"
+      },
+      {
+        "component": "扌",
+        "name": "손 수",
+        "hint": "손, 잡기, 움직이는 동작",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "掃": {
+    "kanji": "掃",
+    "meaning": "쓸 소(扌)",
+    "radicalNumber": 64,
+    "radical": "手/扌",
+    "radicalBase": "手",
+    "radicalName": "손 수",
+    "radicalHint": "손, 잡기, 움직이는 동작",
+    "radicalStrokes": 4,
+    "additionalStrokes": 8,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "ヨ",
+        "name": "요",
+        "hint": "손이나 빗자루처럼 층이 있는 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "巾",
+        "name": "수건 건",
+        "hint": "천, 수건, 덮개",
+        "role": "구성요소"
+      },
+      {
+        "component": "冖",
+        "name": "덮을 멱",
+        "hint": "위에서 덮는 덮개",
         "role": "구성요소"
       },
       {
@@ -4125,6 +6963,198 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "提": {
+    "kanji": "提",
+    "meaning": "끌 제(扌)",
+    "radicalNumber": 64,
+    "radical": "手/扌",
+    "radicalBase": "手",
+    "radicalName": "손 수",
+    "radicalHint": "손, 잡기, 움직이는 동작",
+    "radicalStrokes": 4,
+    "additionalStrokes": 9,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "疋",
+        "name": "발 소",
+        "hint": "발, 걸음, 짝을 이루는 단위",
+        "role": "구성요소"
+      },
+      {
+        "component": "扌",
+        "name": "손 수",
+        "hint": "손, 잡기, 움직이는 동작",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "換": {
+    "kanji": "換",
+    "meaning": "바꿀 환(扌)",
+    "radicalNumber": 64,
+    "radical": "手/扌",
+    "radicalBase": "手",
+    "radicalName": "손 수",
+    "radicalHint": "손, 잡기, 움직이는 동작",
+    "radicalStrokes": 4,
+    "additionalStrokes": 9,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "大",
+        "name": "큰 대",
+        "hint": "큼, 넓음, 사람의 큰 모습",
+        "role": "구성요소"
+      },
+      {
+        "component": "儿",
+        "name": "어진사람 인",
+        "hint": "사람의 다리나 사람 모습",
+        "role": "구성요소"
+      },
+      {
+        "component": "冂",
+        "name": "멀 경",
+        "hint": "테두리, 바깥 경계",
+        "role": "구성요소"
+      },
+      {
+        "component": "勹",
+        "name": "쌀 포",
+        "hint": "감싸 안음, 둘러쌈",
+        "role": "구성요소"
+      },
+      {
+        "component": "扌",
+        "name": "손 수",
+        "hint": "손, 잡기, 움직이는 동작",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "支": {
+    "kanji": "支",
+    "meaning": "지탱할 지",
+    "radicalNumber": 65,
+    "radical": "支",
+    "radicalBase": "支",
+    "radicalName": "지탱할 지",
+    "radicalHint": "가지, 받침, 손으로 지탱함",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "支",
+        "name": "지탱할 지",
+        "hint": "가지, 받침, 손으로 지탱함",
+        "role": "대표 부수"
+      },
+      {
+        "component": "十",
+        "name": "열 십",
+        "hint": "열, 완성된 수, 교차",
+        "role": "구성요소"
+      },
+      {
+        "component": "又",
+        "name": "또 우",
+        "hint": "손, 다시 잡는 동작",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "攵": {
+    "kanji": "攵",
+    "meaning": "",
+    "radicalNumber": 66,
+    "radical": "攴",
+    "radicalBase": "攴",
+    "radicalName": "칠 복",
+    "radicalHint": "치다, 두드리다, 손으로 작용함",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "攵",
+        "name": "칠 복",
+        "hint": "치다, 두드리다, 손으로 작용함",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "改": {
+    "kanji": "改",
+    "meaning": "고칠 개(攵)",
+    "radicalNumber": 66,
+    "radical": "攴",
+    "radicalBase": "攴",
+    "radicalName": "칠 복",
+    "radicalHint": "치다, 두드리다, 손으로 작용함",
+    "radicalStrokes": 4,
+    "additionalStrokes": 3,
+    "totalStrokes": 7,
+    "components": [
+      {
+        "component": "已",
+        "name": "이미 이",
+        "hint": "이미 끝남, 멈춤, 굽은 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "攵",
+        "name": "칠 복",
+        "hint": "치다, 두드리다, 손으로 작용함",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "数": {
+    "kanji": "数",
+    "meaning": "셀 수",
+    "radicalNumber": 66,
+    "radical": "攴",
+    "radicalBase": "攴",
+    "radicalName": "칠 복",
+    "radicalHint": "치다, 두드리다, 손으로 작용함",
+    "radicalStrokes": 4,
+    "additionalStrokes": 9,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "女",
+        "name": "여자 녀",
+        "hint": "여자, 사람 관계, 부드러움",
+        "role": "구성요소"
+      },
+      {
+        "component": "米",
+        "name": "쌀 미",
+        "hint": "쌀, 곡식, 작은 알갱이",
+        "role": "구성요소"
+      },
+      {
+        "component": "攵",
+        "name": "칠 복",
+        "hint": "치다, 두드리다, 손으로 작용함",
+        "role": "대표 부수"
+      },
+      {
+        "component": "夂",
+        "name": "뒤져 올 치",
+        "hint": "뒤따라 걷는 발, 늦게 오는 움직임",
+        "role": "구성요소"
+      }
+    ]
+  },
   "文": {
     "kanji": "文",
     "meaning": "글월 문",
@@ -4171,6 +7201,26 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "斤": {
+    "kanji": "斤",
+    "meaning": "",
+    "radicalNumber": 69,
+    "radical": "斤",
+    "radicalBase": "斤",
+    "radicalName": "도끼 근",
+    "radicalHint": "도끼, 베어 나눔, 무게 단위",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "斤",
+        "name": "도끼 근",
+        "hint": "도끼, 베어 나눔, 무게 단위",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "方": {
     "kanji": "方",
     "meaning": "방향 방",
@@ -4213,6 +7263,26 @@ window.JLPT_KANJI_RADICALS = {
         "component": "方",
         "name": "모 방",
         "hint": "방향, 방법, 네모",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "日": {
+    "kanji": "日",
+    "meaning": "날 일",
+    "radicalNumber": 72,
+    "radical": "日",
+    "radicalBase": "日",
+    "radicalName": "날 일",
+    "radicalHint": "해, 날, 시간, 밝음",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
         "role": "대표 부수"
       }
     ]
@@ -4272,6 +7342,44 @@ window.JLPT_KANJI_RADICALS = {
         "name": "쌀 포",
         "hint": "감싸 안음, 둘러쌈",
         "role": "구성요소"
+      }
+    ]
+  },
+  "昔": {
+    "kanji": "昔",
+    "meaning": "",
+    "radicalNumber": 72,
+    "radical": "日",
+    "radicalBase": "日",
+    "radicalName": "날 일",
+    "radicalHint": "해, 날, 시간, 밝음",
+    "radicalStrokes": 4,
+    "additionalStrokes": 4,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "二",
+        "name": "두 이",
+        "hint": "둘, 겹침, 위아래의 구분",
+        "role": "구성요소"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "대표 부수"
       }
     ]
   },
@@ -4683,6 +7791,26 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "木": {
+    "kanji": "木",
+    "meaning": "",
+    "radicalNumber": 75,
+    "radical": "木",
+    "radicalBase": "木",
+    "radicalName": "나무 목",
+    "radicalHint": "나무, 재료, 자람",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "末": {
     "kanji": "末",
     "meaning": "끝 말",
@@ -4724,6 +7852,58 @@ window.JLPT_KANJI_RADICALS = {
         "name": "돼지해머리 두",
         "hint": "머리나 위쪽 덮개",
         "role": "구성요소"
+      }
+    ]
+  },
+  "本": {
+    "kanji": "本",
+    "meaning": "근본 본(木)",
+    "radicalNumber": 75,
+    "radical": "木",
+    "radicalBase": "木",
+    "radicalName": "나무 목",
+    "radicalHint": "나무, 재료, 자람",
+    "radicalStrokes": 4,
+    "additionalStrokes": 1,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "札": {
+    "kanji": "札",
+    "meaning": "패 찰(木)",
+    "radicalNumber": 75,
+    "radical": "木",
+    "radicalBase": "木",
+    "radicalName": "나무 목",
+    "radicalHint": "나무, 재료, 자람",
+    "radicalStrokes": 4,
+    "additionalStrokes": 1,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "乙",
+        "name": "새 을",
+        "hint": "굽고 꺾인 모양, 둘째나 보조적인 흐름",
+        "role": "구성요소"
+      },
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "대표 부수"
       }
     ]
   },
@@ -4847,6 +8027,44 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "枝": {
+    "kanji": "枝",
+    "meaning": "가지 지(木+支)",
+    "radicalNumber": 75,
+    "radical": "木",
+    "radicalBase": "木",
+    "radicalName": "나무 목",
+    "radicalHint": "나무, 재료, 자람",
+    "radicalStrokes": 4,
+    "additionalStrokes": 4,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "支",
+        "name": "지탱할 지",
+        "hint": "가지, 받침, 손으로 지탱함",
+        "role": "구성요소"
+      },
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "대표 부수"
+      },
+      {
+        "component": "十",
+        "name": "열 십",
+        "hint": "열, 완성된 수, 교차",
+        "role": "구성요소"
+      },
+      {
+        "component": "又",
+        "name": "또 우",
+        "hint": "손, 다시 잡는 동작",
+        "role": "구성요소"
+      }
+    ]
+  },
   "査": {
     "kanji": "査",
     "meaning": "조사할 사",
@@ -4911,6 +8129,94 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "棒": {
+    "kanji": "棒",
+    "meaning": "몽둥이 봉(木)",
+    "radicalNumber": 75,
+    "radical": "木",
+    "radicalBase": "木",
+    "radicalName": "나무 목",
+    "radicalHint": "나무, 재료, 자람",
+    "radicalStrokes": 4,
+    "additionalStrokes": 8,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "人",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "구성요소"
+      },
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "대표 부수"
+      },
+      {
+        "component": "二",
+        "name": "두 이",
+        "hint": "둘, 겹침, 위아래의 구분",
+        "role": "구성요소"
+      },
+      {
+        "component": "大",
+        "name": "큰 대",
+        "hint": "큼, 넓음, 사람의 큰 모습",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "検": {
+    "kanji": "検",
+    "meaning": "검사할 검(木)",
+    "radicalNumber": 75,
+    "radical": "木",
+    "radicalBase": "木",
+    "radicalName": "나무 목",
+    "radicalHint": "나무, 재료, 자람",
+    "radicalStrokes": 4,
+    "additionalStrokes": 8,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "人",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "구성요소"
+      },
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "대표 부수"
+      },
+      {
+        "component": "𠆢",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "구성요소"
+      }
+    ]
+  },
   "業": {
     "kanji": "業",
     "meaning": "업 업",
@@ -4967,9 +8273,47 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "極": {
+    "kanji": "極",
+    "meaning": "극할 극",
+    "radicalNumber": 75,
+    "radical": "木",
+    "radicalBase": "木",
+    "radicalName": "나무 목",
+    "radicalHint": "나무, 재료, 자람",
+    "radicalStrokes": 4,
+    "additionalStrokes": 9,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "又",
+        "name": "또 우",
+        "hint": "손, 다시 잡는 동작",
+        "role": "구성요소"
+      },
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "대표 부수"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      }
+    ]
+  },
   "楽": {
     "kanji": "楽",
-    "meaning": "풍류 악",
+    "meaning": "음악 악",
     "radicalNumber": 75,
     "radical": "木",
     "radicalBase": "木",
@@ -4995,6 +8339,112 @@ window.JLPT_KANJI_RADICALS = {
         "component": "冫",
         "name": "얼음 빙",
         "hint": "얼음, 차가움, 굳음",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "様": {
+    "kanji": "様",
+    "meaning": "모양 양",
+    "radicalNumber": 75,
+    "radical": "木",
+    "radicalBase": "木",
+    "radicalName": "나무 목",
+    "radicalHint": "나무, 재료, 자람",
+    "radicalStrokes": 4,
+    "additionalStrokes": 10,
+    "totalStrokes": 14,
+    "components": [
+      {
+        "component": "王",
+        "name": "구슬 옥",
+        "hint": "구슬, 보석, 귀한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "水",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "구성요소"
+      },
+      {
+        "component": "并",
+        "name": "나란할 병",
+        "hint": "나란함, 함께 놓임, 두 갈래",
+        "role": "구성요소"
+      },
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "대표 부수"
+      },
+      {
+        "component": "羊",
+        "name": "양 양",
+        "hint": "양, 온순함, 제물, 아름다움",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "横": {
+    "kanji": "横",
+    "meaning": "가로 횡(木)",
+    "radicalNumber": 75,
+    "radical": "木",
+    "radicalBase": "木",
+    "radicalName": "나무 목",
+    "radicalHint": "나무, 재료, 자람",
+    "radicalStrokes": 4,
+    "additionalStrokes": 11,
+    "totalStrokes": 15,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "黄",
+        "name": "누를 황",
+        "hint": "노란색, 익은 곡식의 빛",
+        "role": "구성요소"
+      },
+      {
+        "component": "田",
+        "name": "밭 전",
+        "hint": "밭, 구획, 경작지",
+        "role": "구성요소"
+      },
+      {
+        "component": "二",
+        "name": "두 이",
+        "hint": "둘, 겹침, 위아래의 구분",
+        "role": "구성요소"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "ハ",
+        "name": "여덟 팔 변형",
+        "hint": "둘로 갈라짐, 벌어짐, 나뉜 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "대표 부수"
+      },
+      {
+        "component": "廾",
+        "name": "받들 공",
+        "hint": "두 손으로 받듦, 들어 올림",
         "role": "구성요소"
       }
     ]
@@ -5043,6 +8493,38 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "欠": {
+    "kanji": "欠",
+    "meaning": "빠질 결",
+    "radicalNumber": 76,
+    "radical": "欠",
+    "radicalBase": "欠",
+    "radicalName": "하품 흠",
+    "radicalHint": "하품, 부족함, 입을 벌림",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "欠",
+        "name": "하품 흠",
+        "hint": "하품, 부족함, 입을 벌림",
+        "role": "대표 부수"
+      },
+      {
+        "component": "勹",
+        "name": "쌀 포",
+        "hint": "감싸 안음, 둘러쌈",
+        "role": "구성요소"
+      },
+      {
+        "component": "人",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "구성요소"
+      }
+    ]
+  },
   "次": {
     "kanji": "次",
     "meaning": "버금 차",
@@ -5085,6 +8567,52 @@ window.JLPT_KANJI_RADICALS = {
         "component": "止",
         "name": "그칠 지",
         "hint": "발, 멈춤, 발자국",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "正": {
+    "kanji": "正",
+    "meaning": "바를 정",
+    "radicalNumber": 77,
+    "radical": "止",
+    "radicalBase": "止",
+    "radicalName": "그칠 지",
+    "radicalHint": "발, 멈춤, 발자국",
+    "radicalStrokes": 4,
+    "additionalStrokes": 1,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "止",
+        "name": "그칠 지",
+        "hint": "발, 멈춤, 발자국",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "歹": {
+    "kanji": "歹",
+    "meaning": "",
+    "radicalNumber": 78,
+    "radical": "歹",
+    "radicalBase": "歹",
+    "radicalName": "죽을 대",
+    "radicalHint": "죽음, 나쁨, 부서짐",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "歹",
+        "name": "죽을 대",
+        "hint": "죽음, 나쁨, 부서짐",
         "role": "대표 부수"
       }
     ]
@@ -5165,6 +8693,26 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "比": {
+    "kanji": "比",
+    "meaning": "견줄 비",
+    "radicalNumber": 81,
+    "radical": "比",
+    "radicalBase": "比",
+    "radicalName": "견줄 비",
+    "radicalHint": "나란히 놓고 견줌, 비교",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "比",
+        "name": "견줄 비",
+        "hint": "나란히 놓고 견줌, 비교",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "気": {
     "kanji": "気",
     "meaning": "기운 기",
@@ -5193,6 +8741,78 @@ window.JLPT_KANJI_RADICALS = {
         "component": "ノ",
         "name": "삐침 별",
         "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "氵": {
+    "kanji": "氵",
+    "meaning": "",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "汚": {
+    "kanji": "汚",
+    "meaning": "더러울 오(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 3,
+    "totalStrokes": 6,
+    "components": [
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "池": {
+    "kanji": "池",
+    "meaning": "못 지(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 3,
+    "totalStrokes": 6,
+    "components": [
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "也",
+        "name": "어조사 야",
+        "hint": "말끝을 맺거나 상태를 나타내는 요소",
         "role": "구성요소"
       }
     ]
@@ -5235,6 +8855,44 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "油": {
+    "kanji": "油",
+    "meaning": "기름 유(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 5,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "田",
+        "name": "밭 전",
+        "hint": "밭, 구획, 경작지",
+        "role": "구성요소"
+      }
+    ]
+  },
   "泊": {
     "kanji": "泊",
     "meaning": "머무를 박",
@@ -5257,6 +8915,128 @@ window.JLPT_KANJI_RADICALS = {
         "component": "白",
         "name": "흰 백",
         "hint": "흼, 밝음, 분명함",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "波": {
+    "kanji": "波",
+    "meaning": "물결 파(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 5,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "皮",
+        "name": "가죽 피",
+        "hint": "가죽, 껍질, 겉면",
+        "role": "구성요소"
+      },
+      {
+        "component": "又",
+        "name": "또 우",
+        "hint": "손, 다시 잡는 동작",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "泣": {
+    "kanji": "泣",
+    "meaning": "울 읍(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 5,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "立",
+        "name": "설 립",
+        "hint": "서 있음, 세움",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "泥": {
+    "kanji": "泥",
+    "meaning": "진흙 니(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 5,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "匕",
+        "name": "비수 비",
+        "hint": "숟가락이나 굽은 도구",
+        "role": "구성요소"
+      },
+      {
+        "component": "尸",
+        "name": "주검 시",
+        "hint": "몸, 집 안에 누운 모습",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "注": {
+    "kanji": "注",
+    "meaning": "부을 주(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 5,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "王",
+        "name": "구슬 옥",
+        "hint": "구슬, 보석, 귀한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "丶",
+        "name": "점 주",
+        "hint": "작은 점이나 표시",
         "role": "구성요소"
       }
     ]
@@ -5345,7 +9125,7 @@ window.JLPT_KANJI_RADICALS = {
   },
   "流": {
     "kanji": "流",
-    "meaning": "흐를 류",
+    "meaning": "흐를 류(氵)",
     "radicalNumber": 85,
     "radical": "水/氵",
     "radicalBase": "水",
@@ -5377,6 +9157,44 @@ window.JLPT_KANJI_RADICALS = {
         "component": "厶",
         "name": "사사 사",
         "hint": "사사로움, 개인적인 것, 구부러진 팔",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "浅": {
+    "kanji": "浅",
+    "meaning": "얕을 천(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 6,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "毛",
+        "name": "터럭 모",
+        "hint": "털, 가는 실 같은 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "丶",
+        "name": "점 주",
+        "hint": "작은 점이나 표시",
         "role": "구성요소"
       }
     ]
@@ -5447,6 +9265,132 @@ window.JLPT_KANJI_RADICALS = {
         "component": "亠",
         "name": "돼지해머리 두",
         "hint": "머리나 위쪽 덮개",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "深": {
+    "kanji": "深",
+    "meaning": "깊을 심(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 8,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "구성요소"
+      },
+      {
+        "component": "儿",
+        "name": "어진사람 인",
+        "hint": "사람의 다리나 사람 모습",
+        "role": "구성요소"
+      },
+      {
+        "component": "冖",
+        "name": "덮을 멱",
+        "hint": "위에서 덮는 덮개",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "済": {
+    "kanji": "済",
+    "meaning": "건널 제(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 8,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "文",
+        "name": "글월 문",
+        "hint": "글, 무늬, 기록",
+        "role": "구성요소"
+      },
+      {
+        "component": "廾",
+        "name": "받들 공",
+        "hint": "두 손으로 받듦, 들어 올림",
+        "role": "구성요소"
+      },
+      {
+        "component": "斉",
+        "name": "가지런할 제",
+        "hint": "가지런함, 함께 맞춤, 고르게 함",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "減": {
+    "kanji": "減",
+    "meaning": "줄 감(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 9,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "亅",
+        "name": "갈고리 궐",
+        "hint": "갈고리처럼 꺾이는 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "戈",
+        "name": "창 과",
+        "hint": "창, 무기, 싸움",
         "role": "구성요소"
       }
     ]
@@ -5553,6 +9497,196 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "湖": {
+    "kanji": "湖",
+    "meaning": "호수 호(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 9,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "月",
+        "name": "달 월",
+        "hint": "달, 시간, 몸의 일부",
+        "role": "구성요소"
+      },
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "十",
+        "name": "열 십",
+        "hint": "열, 완성된 수, 교차",
+        "role": "구성요소"
+      },
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "満": {
+    "kanji": "満",
+    "meaning": "찰 만(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 9,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "二",
+        "name": "두 이",
+        "hint": "둘, 겹침, 위아래의 구분",
+        "role": "구성요소"
+      },
+      {
+        "component": "冂",
+        "name": "멀 경",
+        "hint": "테두리, 바깥 경계",
+        "role": "구성요소"
+      },
+      {
+        "component": "山",
+        "name": "뫼 산",
+        "hint": "산, 높이 솟은 모양, 지형",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "源": {
+    "kanji": "源",
+    "meaning": "근원 원(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 10,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "白",
+        "name": "흰 백",
+        "hint": "흼, 밝음, 분명함",
+        "role": "구성요소"
+      },
+      {
+        "component": "厂",
+        "name": "언덕 엄",
+        "hint": "기슭, 절벽, 덮인 공간",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "準": {
+    "kanji": "準",
+    "meaning": "준할 준(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 10,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "十",
+        "name": "열 십",
+        "hint": "열, 완성된 수, 교차",
+        "role": "구성요소"
+      },
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "隹",
+        "name": "새 추",
+        "hint": "새, 작은 새의 모양",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "滞": {
+    "kanji": "滞",
+    "meaning": "막힐 체(氵)",
+    "radicalNumber": 85,
+    "radical": "水/氵",
+    "radicalBase": "水",
+    "radicalName": "물 수",
+    "radicalHint": "물, 액체, 흐름",
+    "radicalStrokes": 4,
+    "additionalStrokes": 9,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "巾",
+        "name": "수건 건",
+        "hint": "천, 수건, 덮개",
+        "role": "구성요소"
+      },
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "대표 부수"
+      },
+      {
+        "component": "冖",
+        "name": "덮을 멱",
+        "hint": "위에서 덮는 덮개",
+        "role": "구성요소"
+      }
+    ]
+  },
   "演": {
     "kanji": "演",
     "meaning": "펼 연",
@@ -5588,6 +9722,78 @@ window.JLPT_KANJI_RADICALS = {
         "name": "집 면",
         "hint": "집, 건물, 안쪽 공간",
         "role": "구성요소"
+      }
+    ]
+  },
+  "火": {
+    "kanji": "火",
+    "meaning": "",
+    "radicalNumber": 86,
+    "radical": "火/灬",
+    "radicalBase": "火",
+    "radicalName": "불 화",
+    "radicalHint": "불, 열, 태움",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "火",
+        "name": "불 화",
+        "hint": "불, 열, 태움",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "灬": {
+    "kanji": "灬",
+    "meaning": "",
+    "radicalNumber": 86,
+    "radical": "火/灬",
+    "radicalBase": "火",
+    "radicalName": "불 화",
+    "radicalHint": "불, 열, 태움",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "灬",
+        "name": "불 화",
+        "hint": "불, 열, 태움",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "点": {
+    "kanji": "点",
+    "meaning": "점 점(灬)",
+    "radicalNumber": 86,
+    "radical": "火/灬",
+    "radicalBase": "火",
+    "radicalName": "불 화",
+    "radicalHint": "불, 열, 태움",
+    "radicalStrokes": 4,
+    "additionalStrokes": 5,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "卜",
+        "name": "점 복",
+        "hint": "점침, 갈라진 금, 판단",
+        "role": "구성요소"
+      },
+      {
+        "component": "灬",
+        "name": "불 화",
+        "hint": "불, 열, 태움",
+        "role": "대표 부수"
       }
     ]
   },
@@ -5664,6 +9870,96 @@ window.JLPT_KANJI_RADICALS = {
         "name": "불 화",
         "hint": "불, 열, 태움",
         "role": "대표 부수"
+      }
+    ]
+  },
+  "燃": {
+    "kanji": "燃",
+    "meaning": "탈 연(火)",
+    "radicalNumber": 86,
+    "radical": "火/灬",
+    "radicalBase": "火",
+    "radicalName": "불 화",
+    "radicalHint": "불, 열, 태움",
+    "radicalStrokes": 4,
+    "additionalStrokes": 12,
+    "totalStrokes": 16,
+    "components": [
+      {
+        "component": "火",
+        "name": "불 화",
+        "hint": "불, 열, 태움",
+        "role": "대표 부수"
+      },
+      {
+        "component": "犬",
+        "name": "개 견",
+        "hint": "개, 짐승, 날랜 움직임",
+        "role": "구성요소"
+      },
+      {
+        "component": "夕",
+        "name": "저녁 석",
+        "hint": "저녁, 밤, 시간",
+        "role": "구성요소"
+      },
+      {
+        "component": "灬",
+        "name": "불 화",
+        "hint": "불, 열, 태움",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "牛": {
+    "kanji": "牛",
+    "meaning": "",
+    "radicalNumber": 93,
+    "radical": "牛/牜",
+    "radicalBase": "牛",
+    "radicalName": "소 우",
+    "radicalHint": "소, 가축, 힘",
+    "radicalStrokes": 4,
+    "additionalStrokes": 0,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "牛",
+        "name": "소 우",
+        "hint": "소, 가축, 힘",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "物": {
+    "kanji": "物",
+    "meaning": "물건 물(牛)",
+    "radicalNumber": 93,
+    "radical": "牛/牜",
+    "radicalBase": "牛",
+    "radicalName": "소 우",
+    "radicalHint": "소, 가축, 힘",
+    "radicalStrokes": 4,
+    "additionalStrokes": 4,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "勿",
+        "name": "말 물",
+        "hint": "금지, 하지 않음, 흩어지는 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "牛",
+        "name": "소 우",
+        "hint": "소, 가축, 힘",
+        "role": "대표 부수"
+      },
+      {
+        "component": "勹",
+        "name": "쌀 포",
+        "hint": "감싸 안음, 둘러쌈",
+        "role": "구성요소"
       }
     ]
   },
@@ -5777,6 +10073,32 @@ window.JLPT_KANJI_RADICALS = {
         "component": "亠",
         "name": "돼지해머리 두",
         "hint": "머리나 위쪽 덮개",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "現": {
+    "kanji": "現",
+    "meaning": "나타날 현(見)",
+    "radicalNumber": 96,
+    "radical": "玉/王",
+    "radicalBase": "玉",
+    "radicalName": "구슬 옥",
+    "radicalHint": "구슬, 보석, 귀한 것",
+    "radicalStrokes": 5,
+    "additionalStrokes": 7,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "王",
+        "name": "구슬 옥",
+        "hint": "구슬, 보석, 귀한 것",
+        "role": "대표 부수"
+      },
+      {
+        "component": "見",
+        "name": "볼 견",
+        "hint": "봄, 관찰, 드러남",
         "role": "구성요소"
       }
     ]
@@ -5899,6 +10221,38 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "申": {
+    "kanji": "申",
+    "meaning": "아뢸 신",
+    "radicalNumber": 102,
+    "radical": "田",
+    "radicalBase": "田",
+    "radicalName": "밭 전",
+    "radicalHint": "밭, 구획, 경작지",
+    "radicalStrokes": 5,
+    "additionalStrokes": 0,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "田",
+        "name": "밭 전",
+        "hint": "밭, 구획, 경작지",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "男": {
     "kanji": "男",
     "meaning": "사내 남",
@@ -5986,6 +10340,96 @@ window.JLPT_KANJI_RADICALS = {
         "name": "쌀 미",
         "hint": "쌀, 곡식, 작은 알갱이",
         "role": "구성요소"
+      }
+    ]
+  },
+  "疑": {
+    "kanji": "疑",
+    "meaning": "의심할 의",
+    "radicalNumber": 103,
+    "radical": "疋",
+    "radicalBase": "疋",
+    "radicalName": "짝 필",
+    "radicalHint": "발, 걸음, 짝을 이루는 단위",
+    "radicalStrokes": 5,
+    "additionalStrokes": 9,
+    "totalStrokes": 14,
+    "components": [
+      {
+        "component": "疋",
+        "name": "발 소",
+        "hint": "발, 걸음, 짝을 이루는 단위",
+        "role": "대표 부수"
+      },
+      {
+        "component": "矢",
+        "name": "화살 시",
+        "hint": "화살, 곧음, 빠름",
+        "role": "구성요소"
+      },
+      {
+        "component": "匕",
+        "name": "비수 비",
+        "hint": "숟가락이나 굽은 도구",
+        "role": "구성요소"
+      },
+      {
+        "component": "マ",
+        "name": "마",
+        "hint": "구부러져 걸린 모양, 손잡이나 덮개처럼 보이는 요소",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "疒": {
+    "kanji": "疒",
+    "meaning": "",
+    "radicalNumber": 104,
+    "radical": "疒",
+    "radicalBase": "疒",
+    "radicalName": "병들 녁",
+    "radicalHint": "병, 아픔, 몸 상태",
+    "radicalStrokes": 5,
+    "additionalStrokes": 0,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "疒",
+        "name": "병들 녁",
+        "hint": "병, 아픔, 몸 상태",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "疲": {
+    "kanji": "疲",
+    "meaning": "피곤할 피(疒)",
+    "radicalNumber": 104,
+    "radical": "疒",
+    "radicalBase": "疒",
+    "radicalName": "병들 녁",
+    "radicalHint": "병, 아픔, 몸 상태",
+    "radicalStrokes": 5,
+    "additionalStrokes": 5,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "皮",
+        "name": "가죽 피",
+        "hint": "가죽, 껍질, 겉면",
+        "role": "구성요소"
+      },
+      {
+        "component": "又",
+        "name": "또 우",
+        "hint": "손, 다시 잡는 동작",
+        "role": "구성요소"
+      },
+      {
+        "component": "疒",
+        "name": "병들 녁",
+        "hint": "병, 아픔, 몸 상태",
+        "role": "대표 부수"
       }
     ]
   },
@@ -6091,6 +10535,64 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "登": {
+    "kanji": "登",
+    "meaning": "오를 등",
+    "radicalNumber": 105,
+    "radical": "癶",
+    "radicalBase": "癶",
+    "radicalName": "필 발",
+    "radicalHint": "벌어진 발, 움직임",
+    "radicalStrokes": 5,
+    "additionalStrokes": 7,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "豆",
+        "name": "콩 두",
+        "hint": "콩, 제기, 높임 그릇",
+        "role": "구성요소"
+      },
+      {
+        "component": "并",
+        "name": "나란할 병",
+        "hint": "나란함, 함께 놓임, 두 갈래",
+        "role": "구성요소"
+      },
+      {
+        "component": "癶",
+        "name": "필 발",
+        "hint": "벌어진 발, 움직임",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "白": {
+    "kanji": "白",
+    "meaning": "흰 백",
+    "radicalNumber": 106,
+    "radical": "白",
+    "radicalBase": "白",
+    "radicalName": "흰 백",
+    "radicalHint": "흼, 밝음, 분명함",
+    "radicalStrokes": 5,
+    "additionalStrokes": 0,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "白",
+        "name": "흰 백",
+        "hint": "흼, 밝음, 분명함",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "百": {
     "kanji": "百",
     "meaning": "일백 백",
@@ -6114,6 +10616,96 @@ window.JLPT_KANJI_RADICALS = {
         "name": "흰 백",
         "hint": "흼, 밝음, 분명함",
         "role": "대표 부수"
+      }
+    ]
+  },
+  "的": {
+    "kanji": "的",
+    "meaning": "~적",
+    "radicalNumber": 106,
+    "radical": "白",
+    "radicalBase": "白",
+    "radicalName": "흰 백",
+    "radicalHint": "흼, 밝음, 분명함",
+    "radicalStrokes": 5,
+    "additionalStrokes": 3,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "白",
+        "name": "흰 백",
+        "hint": "흼, 밝음, 분명함",
+        "role": "대표 부수"
+      },
+      {
+        "component": "丶",
+        "name": "점 주",
+        "hint": "작은 점이나 표시",
+        "role": "구성요소"
+      },
+      {
+        "component": "勹",
+        "name": "쌀 포",
+        "hint": "감싸 안음, 둘러쌈",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "目": {
+    "kanji": "目",
+    "meaning": "",
+    "radicalNumber": 109,
+    "radical": "目",
+    "radicalBase": "目",
+    "radicalName": "눈 목",
+    "radicalHint": "눈, 보기, 살핌",
+    "radicalStrokes": 5,
+    "additionalStrokes": 0,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "目",
+        "name": "눈 목",
+        "hint": "눈, 보기, 살핌",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "直": {
+    "kanji": "直",
+    "meaning": "곧을 직",
+    "radicalNumber": 109,
+    "radical": "目",
+    "radicalBase": "目",
+    "radicalName": "눈 목",
+    "radicalHint": "눈, 보기, 살핌",
+    "radicalStrokes": 5,
+    "additionalStrokes": 3,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "十",
+        "name": "열 십",
+        "hint": "열, 완성된 수, 교차",
+        "role": "구성요소"
+      },
+      {
+        "component": "目",
+        "name": "눈 목",
+        "hint": "눈, 보기, 살핌",
+        "role": "대표 부수"
+      },
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
       }
     ]
   },
@@ -6213,6 +10805,44 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "眩": {
+    "kanji": "眩",
+    "meaning": "어지러울 현(目)",
+    "radicalNumber": 109,
+    "radical": "目",
+    "radicalBase": "目",
+    "radicalName": "눈 목",
+    "radicalHint": "눈, 보기, 살핌",
+    "radicalStrokes": 5,
+    "additionalStrokes": 5,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "玄",
+        "name": "검을 현",
+        "hint": "검고 깊음, 오묘함, 가는 실",
+        "role": "구성요소"
+      },
+      {
+        "component": "目",
+        "name": "눈 목",
+        "hint": "눈, 보기, 살핌",
+        "role": "대표 부수"
+      },
+      {
+        "component": "亠",
+        "name": "돼지해머리 두",
+        "hint": "머리나 위쪽 덮개",
+        "role": "구성요소"
+      },
+      {
+        "component": "幺",
+        "name": "작을 요",
+        "hint": "작음, 가는 실, 미세한 것",
+        "role": "구성요소"
+      }
+    ]
+  },
   "着": {
     "kanji": "着",
     "meaning": "붙을",
@@ -6295,6 +10925,70 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "石": {
+    "kanji": "石",
+    "meaning": "돌 석",
+    "radicalNumber": 112,
+    "radical": "石",
+    "radicalBase": "石",
+    "radicalName": "돌 석",
+    "radicalHint": "돌, 단단함, 광물",
+    "radicalStrokes": 5,
+    "additionalStrokes": 0,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "石",
+        "name": "돌 석",
+        "hint": "돌, 단단함, 광물",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "砂": {
+    "kanji": "砂",
+    "meaning": "모래 사(石+少)",
+    "radicalNumber": 112,
+    "radical": "石",
+    "radicalBase": "石",
+    "radicalName": "돌 석",
+    "radicalHint": "돌, 단단함, 광물",
+    "radicalStrokes": 5,
+    "additionalStrokes": 4,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "石",
+        "name": "돌 석",
+        "hint": "돌, 단단함, 광물",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "研": {
     "kanji": "研",
     "meaning": "갈 연",
@@ -6342,6 +11036,140 @@ window.JLPT_KANJI_RADICALS = {
         "name": "삐침 별",
         "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
         "role": "구성요소"
+      }
+    ]
+  },
+  "確": {
+    "kanji": "確",
+    "meaning": "굳을 확(石)",
+    "radicalNumber": 112,
+    "radical": "石",
+    "radicalBase": "石",
+    "radicalName": "돌 석",
+    "radicalHint": "돌, 단단함, 광물",
+    "radicalStrokes": 5,
+    "additionalStrokes": 10,
+    "totalStrokes": 15,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "石",
+        "name": "돌 석",
+        "hint": "돌, 단단함, 광물",
+        "role": "대표 부수"
+      },
+      {
+        "component": "宀",
+        "name": "집 면",
+        "hint": "집, 건물, 안쪽 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "隹",
+        "name": "새 추",
+        "hint": "새, 작은 새의 모양",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "磨": {
+    "kanji": "磨",
+    "meaning": "갈 마(石)",
+    "radicalNumber": 112,
+    "radical": "石",
+    "radicalBase": "石",
+    "radicalName": "돌 석",
+    "radicalHint": "돌, 단단함, 광물",
+    "radicalStrokes": 5,
+    "additionalStrokes": 11,
+    "totalStrokes": 16,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "石",
+        "name": "돌 석",
+        "hint": "돌, 단단함, 광물",
+        "role": "대표 부수"
+      },
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "구성요소"
+      },
+      {
+        "component": "广",
+        "name": "집 엄",
+        "hint": "넓은 집이나 건물",
+        "role": "구성요소"
+      },
+      {
+        "component": "麻",
+        "name": "삼 마",
+        "hint": "삼, 섬유, 얽힌 줄기",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "示": {
+    "kanji": "示",
+    "meaning": "보일 시",
+    "radicalNumber": 113,
+    "radical": "示/礻",
+    "radicalBase": "示",
+    "radicalName": "보일 시",
+    "radicalHint": "보임, 제사, 신성한 일",
+    "radicalStrokes": 5,
+    "additionalStrokes": 0,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "示",
+        "name": "보일 시",
+        "hint": "보임, 제사, 신성한 일",
+        "role": "대표 부수"
+      },
+      {
+        "component": "二",
+        "name": "두 이",
+        "hint": "둘, 겹침, 위아래의 구분",
+        "role": "구성요소"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "礻": {
+    "kanji": "礻",
+    "meaning": "",
+    "radicalNumber": 113,
+    "radical": "示/礻",
+    "radicalBase": "示",
+    "radicalName": "보일 시",
+    "radicalHint": "보임, 제사, 신성한 일",
+    "radicalStrokes": 5,
+    "additionalStrokes": 0,
+    "totalStrokes": 4,
+    "components": [
+      {
+        "component": "礻",
+        "name": "보일 시",
+        "hint": "보임, 제사, 신성한 일",
+        "role": "대표 부수"
       }
     ]
   },
@@ -6397,6 +11225,32 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "祈": {
+    "kanji": "祈",
+    "meaning": "빌 기(礻)",
+    "radicalNumber": 113,
+    "radical": "示/礻",
+    "radicalBase": "示",
+    "radicalName": "보일 시",
+    "radicalHint": "보임, 제사, 신성한 일",
+    "radicalStrokes": 5,
+    "additionalStrokes": 4,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "斤",
+        "name": "도끼 근",
+        "hint": "도끼, 베어 나눔, 무게 단위",
+        "role": "구성요소"
+      },
+      {
+        "component": "礻",
+        "name": "보일 시",
+        "hint": "보임, 제사, 신성한 일",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "祝": {
     "kanji": "祝",
     "meaning": "빌 축",
@@ -6429,6 +11283,38 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "禾": {
+    "kanji": "禾",
+    "meaning": "",
+    "radicalNumber": 115,
+    "radical": "禾",
+    "radicalBase": "禾",
+    "radicalName": "벼 화",
+    "radicalHint": "벼, 곡식, 수확",
+    "radicalStrokes": 5,
+    "additionalStrokes": 0,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "禾",
+        "name": "벼 화",
+        "hint": "벼, 곡식, 수확",
+        "role": "대표 부수"
+      },
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "구성요소"
+      },
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      }
+    ]
+  },
   "秒": {
     "kanji": "秒",
     "meaning": "초 초",
@@ -6457,6 +11343,38 @@ window.JLPT_KANJI_RADICALS = {
         "component": "小",
         "name": "작을 소",
         "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "程": {
+    "kanji": "程",
+    "meaning": "한도 정(禾)",
+    "radicalNumber": 115,
+    "radical": "禾",
+    "radicalBase": "禾",
+    "radicalName": "벼 화",
+    "radicalHint": "벼, 곡식, 수확",
+    "radicalStrokes": 5,
+    "additionalStrokes": 7,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "王",
+        "name": "구슬 옥",
+        "hint": "구슬, 보석, 귀한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "禾",
+        "name": "벼 화",
+        "hint": "벼, 곡식, 수확",
+        "role": "대표 부수"
+      },
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
         "role": "구성요소"
       }
     ]
@@ -6495,6 +11413,56 @@ window.JLPT_KANJI_RADICALS = {
         "component": "儿",
         "name": "어진사람 인",
         "hint": "사람의 다리나 사람 모습",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "積": {
+    "kanji": "積",
+    "meaning": "쌓을 적(禾)",
+    "radicalNumber": 115,
+    "radical": "禾",
+    "radicalBase": "禾",
+    "radicalName": "벼 화",
+    "radicalHint": "벼, 곡식, 수확",
+    "radicalStrokes": 5,
+    "additionalStrokes": 11,
+    "totalStrokes": 16,
+    "components": [
+      {
+        "component": "禾",
+        "name": "벼 화",
+        "hint": "벼, 곡식, 수확",
+        "role": "대표 부수"
+      },
+      {
+        "component": "貝",
+        "name": "조개 패",
+        "hint": "조개, 돈, 재물",
+        "role": "구성요소"
+      },
+      {
+        "component": "目",
+        "name": "눈 목",
+        "hint": "눈, 보기, 살핌",
+        "role": "구성요소"
+      },
+      {
+        "component": "ハ",
+        "name": "여덟 팔 변형",
+        "hint": "둘로 갈라짐, 벌어짐, 나뉜 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "土",
+        "name": "흙 토",
+        "hint": "흙, 땅, 장소",
+        "role": "구성요소"
+      },
+      {
+        "component": "亠",
+        "name": "돼지해머리 두",
+        "hint": "머리나 위쪽 덮개",
         "role": "구성요소"
       }
     ]
@@ -6553,6 +11521,58 @@ window.JLPT_KANJI_RADICALS = {
         "component": "立",
         "name": "설 립",
         "hint": "서 있음, 세움",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "競": {
+    "kanji": "競",
+    "meaning": "겨룰 경",
+    "radicalNumber": 117,
+    "radical": "立",
+    "radicalBase": "立",
+    "radicalName": "설 립",
+    "radicalHint": "서 있음, 세움",
+    "radicalStrokes": 5,
+    "additionalStrokes": 15,
+    "totalStrokes": 20,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "立",
+        "name": "설 립",
+        "hint": "서 있음, 세움",
+        "role": "대표 부수"
+      },
+      {
+        "component": "儿",
+        "name": "어진사람 인",
+        "hint": "사람의 다리나 사람 모습",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "竹": {
+    "kanji": "竹",
+    "meaning": "",
+    "radicalNumber": 118,
+    "radical": "竹/⺮",
+    "radicalBase": "竹",
+    "radicalName": "대 죽",
+    "radicalHint": "대나무, 죽간, 도구",
+    "radicalStrokes": 6,
+    "additionalStrokes": 0,
+    "totalStrokes": 6,
+    "components": [
+      {
+        "component": "竹",
+        "name": "대 죽",
+        "hint": "대나무, 죽간, 도구",
         "role": "대표 부수"
       }
     ]
@@ -6647,6 +11667,38 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "節": {
+    "kanji": "節",
+    "meaning": "마디 절(竹)",
+    "radicalNumber": 118,
+    "radical": "竹/⺮",
+    "radicalBase": "竹",
+    "radicalName": "대 죽",
+    "radicalHint": "대나무, 죽간, 도구",
+    "radicalStrokes": 6,
+    "additionalStrokes": 7,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "艮",
+        "name": "그칠 간",
+        "hint": "멈춤, 등짐, 뒤돌아보는 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "竹",
+        "name": "대 죽",
+        "hint": "대나무, 죽간, 도구",
+        "role": "대표 부수"
+      },
+      {
+        "component": "卩",
+        "name": "병부 절",
+        "hint": "무릎 꿇은 사람, 표식",
+        "role": "구성요소"
+      }
+    ]
+  },
   "簡": {
     "kanji": "簡",
     "meaning": "대쪽 간",
@@ -6675,6 +11727,96 @@ window.JLPT_KANJI_RADICALS = {
         "component": "門",
         "name": "문 문",
         "hint": "문, 출입구, 사이 공간",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "米": {
+    "kanji": "米",
+    "meaning": "",
+    "radicalNumber": 119,
+    "radical": "米",
+    "radicalBase": "米",
+    "radicalName": "쌀 미",
+    "radicalHint": "쌀, 곡식, 작은 알갱이",
+    "radicalStrokes": 6,
+    "additionalStrokes": 0,
+    "totalStrokes": 6,
+    "components": [
+      {
+        "component": "米",
+        "name": "쌀 미",
+        "hint": "쌀, 곡식, 작은 알갱이",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "粉": {
+    "kanji": "粉",
+    "meaning": "가루 분(米+分)",
+    "radicalNumber": 119,
+    "radical": "米",
+    "radicalBase": "米",
+    "radicalName": "쌀 미",
+    "radicalHint": "쌀, 곡식, 작은 알갱이",
+    "radicalStrokes": 6,
+    "additionalStrokes": 4,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "刀",
+        "name": "칼 도",
+        "hint": "칼, 자르기, 나누기",
+        "role": "구성요소"
+      },
+      {
+        "component": "并",
+        "name": "나란할 병",
+        "hint": "나란함, 함께 놓임, 두 갈래",
+        "role": "구성요소"
+      },
+      {
+        "component": "米",
+        "name": "쌀 미",
+        "hint": "쌀, 곡식, 작은 알갱이",
+        "role": "대표 부수"
+      },
+      {
+        "component": "ハ",
+        "name": "여덟 팔 변형",
+        "hint": "둘로 갈라짐, 벌어짐, 나뉜 모양",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "糸": {
+    "kanji": "糸",
+    "meaning": "",
+    "radicalNumber": 120,
+    "radical": "糸/糹",
+    "radicalBase": "糸",
+    "radicalName": "실 사",
+    "radicalHint": "실, 이어짐, 엮음",
+    "radicalStrokes": 6,
+    "additionalStrokes": 0,
+    "totalStrokes": 6,
+    "components": [
+      {
+        "component": "糸",
+        "name": "실 사",
+        "hint": "실, 이어짐, 엮음",
+        "role": "대표 부수"
+      },
+      {
+        "component": "幺",
+        "name": "작을 요",
+        "hint": "작음, 가는 실, 미세한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
         "role": "구성요소"
       }
     ]
@@ -6719,6 +11861,50 @@ window.JLPT_KANJI_RADICALS = {
         "component": "勹",
         "name": "쌀 포",
         "hint": "감싸 안음, 둘러쌈",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "素": {
+    "kanji": "素",
+    "meaning": "본디 소(糸)",
+    "radicalNumber": 120,
+    "radical": "糸/糹",
+    "radicalBase": "糸",
+    "radicalName": "실 사",
+    "radicalHint": "실, 이어짐, 엮음",
+    "radicalStrokes": 6,
+    "additionalStrokes": 4,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "糸",
+        "name": "실 사",
+        "hint": "실, 이어짐, 엮음",
+        "role": "대표 부수"
+      },
+      {
+        "component": "幺",
+        "name": "작을 요",
+        "hint": "작음, 가는 실, 미세한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "土",
+        "name": "흙 토",
+        "hint": "흙, 땅, 장소",
+        "role": "구성요소"
+      },
+      {
+        "component": "亠",
+        "name": "돼지해머리 두",
+        "hint": "머리나 위쪽 덮개",
         "role": "구성요소"
       }
     ]
@@ -6801,6 +11987,50 @@ window.JLPT_KANJI_RADICALS = {
         "component": "刀",
         "name": "칼 도",
         "hint": "칼, 자르기, 나누기",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "組": {
+    "kanji": "組",
+    "meaning": "짤 조(糸)",
+    "radicalNumber": 120,
+    "radical": "糸/糹",
+    "radicalBase": "糸",
+    "radicalName": "실 사",
+    "radicalHint": "실, 이어짐, 엮음",
+    "radicalStrokes": 6,
+    "additionalStrokes": 5,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "糸",
+        "name": "실 사",
+        "hint": "실, 이어짐, 엮음",
+        "role": "대표 부수"
+      },
+      {
+        "component": "幺",
+        "name": "작을 요",
+        "hint": "작음, 가는 실, 미세한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "目",
+        "name": "눈 목",
+        "hint": "눈, 보기, 살핌",
         "role": "구성요소"
       }
     ]
@@ -6893,6 +12123,50 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "給": {
+    "kanji": "給",
+    "meaning": "줄 급(糸)",
+    "radicalNumber": 120,
+    "radical": "糸/糹",
+    "radicalBase": "糸",
+    "radicalName": "실 사",
+    "radicalHint": "실, 이어짐, 엮음",
+    "radicalStrokes": 6,
+    "additionalStrokes": 6,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "糸",
+        "name": "실 사",
+        "hint": "실, 이어짐, 엮음",
+        "role": "대표 부수"
+      },
+      {
+        "component": "幺",
+        "name": "작을 요",
+        "hint": "작음, 가는 실, 미세한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "𠆢",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "구성요소"
+      }
+    ]
+  },
   "絶": {
     "kanji": "絶",
     "meaning": "끊을 절",
@@ -6931,9 +12205,59 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "続": {
+    "kanji": "続",
+    "meaning": "이을 속(糸)",
+    "radicalNumber": 120,
+    "radical": "糸/糹",
+    "radicalBase": "糸",
+    "radicalName": "실 사",
+    "radicalHint": "실, 이어짐, 엮음",
+    "radicalStrokes": 6,
+    "additionalStrokes": 7,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "士",
+        "name": "선비 사",
+        "hint": "사람, 지위, 선비",
+        "role": "구성요소"
+      },
+      {
+        "component": "糸",
+        "name": "실 사",
+        "hint": "실, 이어짐, 엮음",
+        "role": "대표 부수"
+      },
+      {
+        "component": "幺",
+        "name": "작을 요",
+        "hint": "작음, 가는 실, 미세한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "儿",
+        "name": "어진사람 인",
+        "hint": "사람의 다리나 사람 모습",
+        "role": "구성요소"
+      },
+      {
+        "component": "冖",
+        "name": "덮을 멱",
+        "hint": "위에서 덮는 덮개",
+        "role": "구성요소"
+      }
+    ]
+  },
   "維": {
     "kanji": "維",
-    "meaning": "벼리 유",
+    "meaning": "벼리 유(糸)",
     "radicalNumber": 120,
     "radical": "糸/糹",
     "radicalBase": "糸",
@@ -6965,6 +12289,168 @@ window.JLPT_KANJI_RADICALS = {
         "component": "隹",
         "name": "새 추",
         "hint": "새, 작은 새의 모양",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "緑": {
+    "kanji": "緑",
+    "meaning": "푸를 록(糸)",
+    "radicalNumber": 120,
+    "radical": "糸/糹",
+    "radicalBase": "糸",
+    "radicalName": "실 사",
+    "radicalHint": "실, 이어짐, 엮음",
+    "radicalStrokes": 6,
+    "additionalStrokes": 8,
+    "totalStrokes": 14,
+    "components": [
+      {
+        "component": "ヨ",
+        "name": "요",
+        "hint": "손이나 빗자루처럼 층이 있는 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "糸",
+        "name": "실 사",
+        "hint": "실, 이어짐, 엮음",
+        "role": "대표 부수"
+      },
+      {
+        "component": "幺",
+        "name": "작을 요",
+        "hint": "작음, 가는 실, 미세한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "水",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "구성요소"
+      },
+      {
+        "component": "隶",
+        "name": "미칠 이",
+        "hint": "붙잡음, 뒤따름, 이어지는 손의 움직임",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "線": {
+    "kanji": "線",
+    "meaning": "줄 선",
+    "radicalNumber": 120,
+    "radical": "糸/糹",
+    "radicalBase": "糸",
+    "radicalName": "실 사",
+    "radicalHint": "실, 이어짐, 엮음",
+    "radicalStrokes": 6,
+    "additionalStrokes": 9,
+    "totalStrokes": 15,
+    "components": [
+      {
+        "component": "糸",
+        "name": "실 사",
+        "hint": "실, 이어짐, 엮음",
+        "role": "대표 부수"
+      },
+      {
+        "component": "幺",
+        "name": "작을 요",
+        "hint": "작음, 가는 실, 미세한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "水",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "구성요소"
+      },
+      {
+        "component": "白",
+        "name": "흰 백",
+        "hint": "흼, 밝음, 분명함",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "編": {
+    "kanji": "編",
+    "meaning": "엮을 편(糸)",
+    "radicalNumber": 120,
+    "radical": "糸/糹",
+    "radicalBase": "糸",
+    "radicalName": "실 사",
+    "radicalHint": "실, 이어짐, 엮음",
+    "radicalStrokes": 6,
+    "additionalStrokes": 9,
+    "totalStrokes": 15,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "戸",
+        "name": "지게 호",
+        "hint": "문, 출입구, 집의 한쪽 문짝",
+        "role": "구성요소"
+      },
+      {
+        "component": "糸",
+        "name": "실 사",
+        "hint": "실, 이어짐, 엮음",
+        "role": "대표 부수"
+      },
+      {
+        "component": "幺",
+        "name": "작을 요",
+        "hint": "작음, 가는 실, 미세한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "冂",
+        "name": "멀 경",
+        "hint": "테두리, 바깥 경계",
+        "role": "구성요소"
+      },
+      {
+        "component": "冊",
+        "name": "책 책",
+        "hint": "묶은 책, 기록, 여러 조각의 묶음",
+        "role": "구성요소"
+      },
+      {
+        "component": "尸",
+        "name": "주검 시",
+        "hint": "몸, 집 안에 누운 모습",
         "role": "구성요소"
       }
     ]
@@ -7033,7 +12519,7 @@ window.JLPT_KANJI_RADICALS = {
   },
   "績": {
     "kanji": "績",
-    "meaning": "공적 적",
+    "meaning": "공적 적(糸)",
     "radicalNumber": 120,
     "radical": "糸/糹",
     "radicalBase": "糸",
@@ -7093,6 +12579,100 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "繰": {
+    "kanji": "繰",
+    "meaning": "감을 조(糸)",
+    "radicalNumber": 120,
+    "radical": "糸/糹",
+    "radicalBase": "糸",
+    "radicalName": "실 사",
+    "radicalHint": "실, 이어짐, 엮음",
+    "radicalStrokes": 6,
+    "additionalStrokes": 13,
+    "totalStrokes": 19,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "糸",
+        "name": "실 사",
+        "hint": "실, 이어짐, 엮음",
+        "role": "대표 부수"
+      },
+      {
+        "component": "幺",
+        "name": "작을 요",
+        "hint": "작음, 가는 실, 미세한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "小",
+        "name": "작을 소",
+        "hint": "작음, 작게 나뉜 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "구성요소"
+      },
+      {
+        "component": "品",
+        "name": "물건 품",
+        "hint": "여러 물건, 품질, 등급",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "羨": {
+    "kanji": "羨",
+    "meaning": "부러워할 선",
+    "radicalNumber": 123,
+    "radical": "羊",
+    "radicalBase": "羊",
+    "radicalName": "양 양",
+    "radicalHint": "양, 온순함, 제물, 아름다움",
+    "radicalStrokes": 6,
+    "additionalStrokes": 7,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "王",
+        "name": "구슬 옥",
+        "hint": "구슬, 보석, 귀한 것",
+        "role": "구성요소"
+      },
+      {
+        "component": "欠",
+        "name": "하품 흠",
+        "hint": "하품, 부족함, 입을 벌림",
+        "role": "구성요소"
+      },
+      {
+        "component": "氵",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "구성요소"
+      },
+      {
+        "component": "并",
+        "name": "나란할 병",
+        "hint": "나란함, 함께 놓임, 두 갈래",
+        "role": "구성요소"
+      },
+      {
+        "component": "羊",
+        "name": "양 양",
+        "hint": "양, 온순함, 제물, 아름다움",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "習": {
     "kanji": "習",
     "meaning": "익힐 습",
@@ -7122,6 +12702,32 @@ window.JLPT_KANJI_RADICALS = {
         "name": "얼음 빙",
         "hint": "얼음, 차가움, 굳음",
         "role": "구성요소"
+      }
+    ]
+  },
+  "者": {
+    "kanji": "者",
+    "meaning": "사람",
+    "radicalNumber": 125,
+    "radical": "老",
+    "radicalBase": "老",
+    "radicalName": "늙을 로",
+    "radicalHint": "늙음, 오래됨, 경험",
+    "radicalStrokes": 6,
+    "additionalStrokes": 4,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "⺹",
+        "name": "늙을 로 변형",
+        "hint": "늙음, 오래됨, 경험이 쌓인 모습",
+        "role": "대표 부수"
       }
     ]
   },
@@ -7165,6 +12771,120 @@ window.JLPT_KANJI_RADICALS = {
         "component": "戈",
         "name": "창 과",
         "hint": "창, 무기, 싸움",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "肩": {
+    "kanji": "肩",
+    "meaning": "어깨 견(月 육달월)",
+    "radicalNumber": 130,
+    "radical": "肉",
+    "radicalBase": "肉",
+    "radicalName": "고기 육",
+    "radicalHint": "살, 몸, 신체 부위",
+    "radicalStrokes": 6,
+    "additionalStrokes": 4,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "月",
+        "name": "달 월",
+        "hint": "달, 시간, 몸의 일부",
+        "role": "구성요소"
+      },
+      {
+        "component": "戸",
+        "name": "지게 호",
+        "hint": "문, 출입구, 집의 한쪽 문짝",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "尸",
+        "name": "주검 시",
+        "hint": "몸, 집 안에 누운 모습",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "胸": {
+    "kanji": "胸",
+    "meaning": "가슴 흉(月)",
+    "radicalNumber": 130,
+    "radical": "肉",
+    "radicalBase": "肉",
+    "radicalName": "고기 육",
+    "radicalHint": "살, 몸, 신체 부위",
+    "radicalStrokes": 6,
+    "additionalStrokes": 6,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "月",
+        "name": "달 월",
+        "hint": "달, 시간, 몸의 일부",
+        "role": "구성요소"
+      },
+      {
+        "component": "凵",
+        "name": "입벌릴 감",
+        "hint": "그릇, 움푹 열린 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "勹",
+        "name": "쌀 포",
+        "hint": "감싸 안음, 둘러쌈",
+        "role": "구성요소"
+      },
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "丶",
+        "name": "점 주",
+        "hint": "작은 점이나 표시",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "腰": {
+    "kanji": "腰",
+    "meaning": "허리 요(月+要)",
+    "radicalNumber": 130,
+    "radical": "肉",
+    "radicalBase": "肉",
+    "radicalName": "고기 육",
+    "radicalHint": "살, 몸, 신체 부위",
+    "radicalStrokes": 6,
+    "additionalStrokes": 9,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "月",
+        "name": "달 월",
+        "hint": "달, 시간, 몸의 일부",
+        "role": "구성요소"
+      },
+      {
+        "component": "女",
+        "name": "여자 녀",
+        "hint": "여자, 사람 관계, 부드러움",
+        "role": "구성요소"
+      },
+      {
+        "component": "西",
+        "name": "서녘 서",
+        "hint": "서쪽, 덮개가 있는 바구니 모양",
         "role": "구성요소"
       }
     ]
@@ -7233,6 +12953,64 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "般": {
+    "kanji": "般",
+    "meaning": "돌 반",
+    "radicalNumber": 137,
+    "radical": "舟",
+    "radicalBase": "舟",
+    "radicalName": "배 주",
+    "radicalHint": "배, 물 위의 이동 수단",
+    "radicalStrokes": 6,
+    "additionalStrokes": 4,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "舟",
+        "name": "배 주",
+        "hint": "배, 물 위의 이동 수단",
+        "role": "대표 부수"
+      },
+      {
+        "component": "殳",
+        "name": "갖은등글월문 수",
+        "hint": "손에 든 도구, 치는 동작",
+        "role": "구성요소"
+      },
+      {
+        "component": "几",
+        "name": "안석 궤",
+        "hint": "받침, 작은 책상, 기대는 틀",
+        "role": "구성요소"
+      },
+      {
+        "component": "又",
+        "name": "또 우",
+        "hint": "손, 다시 잡는 동작",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "良": {
+    "kanji": "良",
+    "meaning": "",
+    "radicalNumber": 138,
+    "radical": "艮",
+    "radicalBase": "艮",
+    "radicalName": "그칠 간",
+    "radicalHint": "멈춤, 뒤돌아보는 모양",
+    "radicalStrokes": 6,
+    "additionalStrokes": 1,
+    "totalStrokes": 7,
+    "components": [
+      {
+        "component": "艮",
+        "name": "그칠 간",
+        "hint": "멈춤, 등짐, 뒤돌아보는 모양",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "色": {
     "kanji": "色",
     "meaning": "빛 색",
@@ -7265,6 +13043,96 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "艹": {
+    "kanji": "艹",
+    "meaning": "",
+    "radicalNumber": 140,
+    "radical": "艸/艹",
+    "radicalBase": "艸",
+    "radicalName": "풀 초",
+    "radicalHint": "풀, 식물, 약재",
+    "radicalStrokes": 6,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "⺾",
+        "name": "풀 초",
+        "hint": "풀, 식물, 약재",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "芋": {
+    "kanji": "芋",
+    "meaning": "토란 우(艹)",
+    "radicalNumber": 140,
+    "radical": "艸/艹",
+    "radicalBase": "艸",
+    "radicalName": "풀 초",
+    "radicalHint": "풀, 식물, 약재",
+    "radicalStrokes": 6,
+    "additionalStrokes": 3,
+    "totalStrokes": 6,
+    "components": [
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "⺾",
+        "name": "풀 초",
+        "hint": "풀, 식물, 약재",
+        "role": "대표 부수"
+      },
+      {
+        "component": "干",
+        "name": "방패 간",
+        "hint": "막는 도구, 줄기, 말림",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "若": {
+    "kanji": "若",
+    "meaning": "젊을 약(艹)",
+    "radicalNumber": 140,
+    "radical": "艸/艹",
+    "radicalBase": "艸",
+    "radicalName": "풀 초",
+    "radicalHint": "풀, 식물, 약재",
+    "radicalStrokes": 6,
+    "additionalStrokes": 5,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "⺾",
+        "name": "풀 초",
+        "hint": "풀, 식물, 약재",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "茶": {
     "kanji": "茶",
     "meaning": "차 차",
@@ -7293,6 +13161,50 @@ window.JLPT_KANJI_RADICALS = {
         "component": "木",
         "name": "나무 목",
         "hint": "나무, 재료, 자람",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "荷": {
+    "kanji": "荷",
+    "meaning": "짐 하(艹)",
+    "radicalNumber": 140,
+    "radical": "艸/艹",
+    "radicalBase": "艸",
+    "radicalName": "풀 초",
+    "radicalHint": "풀, 식물, 약재",
+    "radicalStrokes": 6,
+    "additionalStrokes": 7,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "⺅",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "구성요소"
+      },
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "亅",
+        "name": "갈고리 궐",
+        "hint": "갈고리처럼 꺾이는 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "⺾",
+        "name": "풀 초",
+        "hint": "풀, 식물, 약재",
+        "role": "대표 부수"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
         "role": "구성요소"
       }
     ]
@@ -7431,6 +13343,52 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "衣": {
+    "kanji": "衣",
+    "meaning": "",
+    "radicalNumber": 145,
+    "radical": "衣/衤",
+    "radicalBase": "衣",
+    "radicalName": "옷 의",
+    "radicalHint": "옷, 덮거나 입는 것",
+    "radicalStrokes": 6,
+    "additionalStrokes": 0,
+    "totalStrokes": 6,
+    "components": [
+      {
+        "component": "衣",
+        "name": "옷 의",
+        "hint": "옷, 덮거나 입는 것",
+        "role": "대표 부수"
+      },
+      {
+        "component": "亠",
+        "name": "돼지해머리 두",
+        "hint": "머리나 위쪽 덮개",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "衤": {
+    "kanji": "衤",
+    "meaning": "",
+    "radicalNumber": 145,
+    "radical": "衣/衤",
+    "radicalBase": "衣",
+    "radicalName": "옷 의",
+    "radicalHint": "옷, 덮거나 입는 것",
+    "radicalStrokes": 6,
+    "additionalStrokes": 0,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "衤",
+        "name": "옷 의",
+        "hint": "옷, 덮거나 입는 것",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "表": {
     "kanji": "表",
     "meaning": "겉 표",
@@ -7485,6 +13443,70 @@ window.JLPT_KANJI_RADICALS = {
         "component": "弋",
         "name": "주살 익",
         "hint": "말뚝, 주살, 표시를 꽂는 도구",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "裏": {
+    "kanji": "裏",
+    "meaning": "속 리(衣 계열)",
+    "radicalNumber": 145,
+    "radical": "衣/衤",
+    "radicalBase": "衣",
+    "radicalName": "옷 의",
+    "radicalHint": "옷, 덮거나 입는 것",
+    "radicalStrokes": 6,
+    "additionalStrokes": 7,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "衣",
+        "name": "옷 의",
+        "hint": "옷, 덮거나 입는 것",
+        "role": "대표 부수"
+      },
+      {
+        "component": "里",
+        "name": "마을 리",
+        "hint": "마을, 거리, 안쪽",
+        "role": "구성요소"
+      },
+      {
+        "component": "亠",
+        "name": "돼지해머리 두",
+        "hint": "머리나 위쪽 덮개",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "複": {
+    "kanji": "複",
+    "meaning": "겹칠 복(衤)",
+    "radicalNumber": 145,
+    "radical": "衣/衤",
+    "radicalBase": "衣",
+    "radicalName": "옷 의",
+    "radicalHint": "옷, 덮거나 입는 것",
+    "radicalStrokes": 6,
+    "additionalStrokes": 9,
+    "totalStrokes": 14,
+    "components": [
+      {
+        "component": "衤",
+        "name": "옷 의",
+        "hint": "옷, 덮거나 입는 것",
+        "role": "대표 부수"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "夂",
+        "name": "뒤져 올 치",
+        "hint": "뒤따라 걷는 발, 늦게 오는 움직임",
         "role": "구성요소"
       }
     ]
@@ -7547,6 +13569,70 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "規": {
+    "kanji": "規",
+    "meaning": "법 규(見)",
+    "radicalNumber": 147,
+    "radical": "見",
+    "radicalBase": "見",
+    "radicalName": "볼 견",
+    "radicalHint": "봄, 관찰, 드러남",
+    "radicalStrokes": 7,
+    "additionalStrokes": 4,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "見",
+        "name": "볼 견",
+        "hint": "봄, 관찰, 드러남",
+        "role": "대표 부수"
+      },
+      {
+        "component": "土",
+        "name": "흙 토",
+        "hint": "흙, 땅, 장소",
+        "role": "구성요소"
+      },
+      {
+        "component": "大",
+        "name": "큰 대",
+        "hint": "큼, 넓음, 사람의 큰 모습",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "覚": {
+    "kanji": "覚",
+    "meaning": "깨달을 각(見)",
+    "radicalNumber": 147,
+    "radical": "見",
+    "radicalBase": "見",
+    "radicalName": "볼 견",
+    "radicalHint": "봄, 관찰, 드러남",
+    "radicalStrokes": 7,
+    "additionalStrokes": 5,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "見",
+        "name": "볼 견",
+        "hint": "봄, 관찰, 드러남",
+        "role": "대표 부수"
+      },
+      {
+        "component": "⺌",
+        "name": "작을 소 변형",
+        "hint": "작음, 흩어진 점, 작은 움직임",
+        "role": "구성요소"
+      },
+      {
+        "component": "冖",
+        "name": "덮을 멱",
+        "hint": "위에서 덮는 덮개",
+        "role": "구성요소"
+      }
+    ]
+  },
   "親": {
     "kanji": "親",
     "meaning": "친할 친",
@@ -7603,6 +13689,108 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "観": {
+    "kanji": "観",
+    "meaning": "볼 관(見)",
+    "radicalNumber": 147,
+    "radical": "見",
+    "radicalBase": "見",
+    "radicalName": "볼 견",
+    "radicalHint": "봄, 관찰, 드러남",
+    "radicalStrokes": 7,
+    "additionalStrokes": 11,
+    "totalStrokes": 18,
+    "components": [
+      {
+        "component": "見",
+        "name": "볼 견",
+        "hint": "봄, 관찰, 드러남",
+        "role": "대표 부수"
+      },
+      {
+        "component": "隹",
+        "name": "새 추",
+        "hint": "새, 작은 새의 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "矢",
+        "name": "화살 시",
+        "hint": "화살, 곧음, 빠름",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "角": {
+    "kanji": "角",
+    "meaning": "뿔 각",
+    "radicalNumber": 148,
+    "radical": "角",
+    "radicalBase": "角",
+    "radicalName": "뿔 각",
+    "radicalHint": "뿔, 모서리, 뾰족한 부분",
+    "radicalStrokes": 7,
+    "additionalStrokes": 0,
+    "totalStrokes": 7,
+    "components": [
+      {
+        "component": "角",
+        "name": "뿔 각",
+        "hint": "뿔, 모서리, 뾰족한 부분",
+        "role": "대표 부수"
+      },
+      {
+        "component": "勹",
+        "name": "쌀 포",
+        "hint": "감싸 안음, 둘러쌈",
+        "role": "구성요소"
+      },
+      {
+        "component": "月",
+        "name": "달 월",
+        "hint": "달, 시간, 몸의 일부",
+        "role": "구성요소"
+      },
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "解": {
+    "kanji": "解",
+    "meaning": "풀 해(角+刀+牛)",
+    "radicalNumber": 148,
+    "radical": "角",
+    "radicalBase": "角",
+    "radicalName": "뿔 각",
+    "radicalHint": "뿔, 모서리, 뾰족한 부분",
+    "radicalStrokes": 7,
+    "additionalStrokes": 6,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "角",
+        "name": "뿔 각",
+        "hint": "뿔, 모서리, 뾰족한 부분",
+        "role": "대표 부수"
+      },
+      {
+        "component": "牛",
+        "name": "소 우",
+        "hint": "소, 가축, 힘",
+        "role": "구성요소"
+      },
+      {
+        "component": "刀",
+        "name": "칼 도",
+        "hint": "칼, 자르기, 나누기",
+        "role": "구성요소"
+      }
+    ]
+  },
   "言": {
     "kanji": "言",
     "meaning": "말씀 언",
@@ -7645,6 +13833,32 @@ window.JLPT_KANJI_RADICALS = {
         "component": "十",
         "name": "열 십",
         "hint": "열, 완성된 수, 교차",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "討": {
+    "kanji": "討",
+    "meaning": "칠 토(言)",
+    "radicalNumber": 149,
+    "radical": "言/訁",
+    "radicalBase": "言",
+    "radicalName": "말씀 언",
+    "radicalHint": "말, 언어, 기록",
+    "radicalStrokes": 7,
+    "additionalStrokes": 3,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "言",
+        "name": "말씀 언",
+        "hint": "말, 언어, 기록",
+        "role": "대표 부수"
+      },
+      {
+        "component": "寸",
+        "name": "마디 촌",
+        "hint": "손의 동작, 치수, 법도",
         "role": "구성요소"
       }
     ]
@@ -7739,6 +13953,38 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "誌": {
+    "kanji": "誌",
+    "meaning": "기록할 지(言)",
+    "radicalNumber": 149,
+    "radical": "言/訁",
+    "radicalBase": "言",
+    "radicalName": "말씀 언",
+    "radicalHint": "말, 언어, 기록",
+    "radicalStrokes": 7,
+    "additionalStrokes": 7,
+    "totalStrokes": 14,
+    "components": [
+      {
+        "component": "言",
+        "name": "말씀 언",
+        "hint": "말, 언어, 기록",
+        "role": "대표 부수"
+      },
+      {
+        "component": "士",
+        "name": "선비 사",
+        "hint": "사람, 지위, 선비",
+        "role": "구성요소"
+      },
+      {
+        "component": "心",
+        "name": "마음 심",
+        "hint": "마음, 감정, 생각",
+        "role": "구성요소"
+      }
+    ]
+  },
   "誰": {
     "kanji": "誰",
     "meaning": "누구 수",
@@ -7829,6 +14075,82 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "謝": {
+    "kanji": "謝",
+    "meaning": "사례할/사과할 사(言)",
+    "radicalNumber": 149,
+    "radical": "言/訁",
+    "radicalBase": "言",
+    "radicalName": "말씀 언",
+    "radicalHint": "말, 언어, 기록",
+    "radicalStrokes": 7,
+    "additionalStrokes": 10,
+    "totalStrokes": 17,
+    "components": [
+      {
+        "component": "言",
+        "name": "말씀 언",
+        "hint": "말, 언어, 기록",
+        "role": "대표 부수"
+      },
+      {
+        "component": "身",
+        "name": "몸 신",
+        "hint": "몸, 자기 자신, 신체",
+        "role": "구성요소"
+      },
+      {
+        "component": "寸",
+        "name": "마디 촌",
+        "hint": "손의 동작, 치수, 법도",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "識": {
+    "kanji": "識",
+    "meaning": "알 식(言)",
+    "radicalNumber": 149,
+    "radical": "言/訁",
+    "radicalBase": "言",
+    "radicalName": "말씀 언",
+    "radicalHint": "말, 언어, 기록",
+    "radicalStrokes": 7,
+    "additionalStrokes": 12,
+    "totalStrokes": 19,
+    "components": [
+      {
+        "component": "音",
+        "name": "소리 음",
+        "hint": "소리, 말소리, 울림",
+        "role": "구성요소"
+      },
+      {
+        "component": "言",
+        "name": "말씀 언",
+        "hint": "말, 언어, 기록",
+        "role": "대표 부수"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "立",
+        "name": "설 립",
+        "hint": "서 있음, 세움",
+        "role": "구성요소"
+      },
+      {
+        "component": "戈",
+        "name": "창 과",
+        "hint": "창, 무기, 싸움",
+        "role": "구성요소"
+      }
+    ]
+  },
   "議": {
     "kanji": "議",
     "meaning": "의논할 의",
@@ -7887,6 +14209,64 @@ window.JLPT_KANJI_RADICALS = {
         "component": "手",
         "name": "손 수",
         "hint": "손, 잡기, 움직이는 동작",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "讐": {
+    "kanji": "讐",
+    "meaning": "원수 수(言)",
+    "radicalNumber": 149,
+    "radical": "言/訁",
+    "radicalBase": "言",
+    "radicalName": "말씀 언",
+    "radicalHint": "말, 언어, 기록",
+    "radicalStrokes": 7,
+    "additionalStrokes": 16,
+    "totalStrokes": 23,
+    "components": [
+      {
+        "component": "言",
+        "name": "말씀 언",
+        "hint": "말, 언어, 기록",
+        "role": "대표 부수"
+      },
+      {
+        "component": "隹",
+        "name": "새 추",
+        "hint": "새, 작은 새의 모양",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "貝": {
+    "kanji": "貝",
+    "meaning": "조개 패",
+    "radicalNumber": 154,
+    "radical": "貝",
+    "radicalBase": "貝",
+    "radicalName": "조개 패",
+    "radicalHint": "조개, 돈, 재물",
+    "radicalStrokes": 7,
+    "additionalStrokes": 0,
+    "totalStrokes": 7,
+    "components": [
+      {
+        "component": "貝",
+        "name": "조개 패",
+        "hint": "조개, 돈, 재물",
+        "role": "대표 부수"
+      },
+      {
+        "component": "目",
+        "name": "눈 목",
+        "hint": "눈, 보기, 살핌",
+        "role": "구성요소"
+      },
+      {
+        "component": "ハ",
+        "name": "여덟 팔 변형",
+        "hint": "둘로 갈라짐, 벌어짐, 나뉜 모양",
         "role": "구성요소"
       }
     ]
@@ -8111,6 +14491,50 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "資": {
+    "kanji": "資",
+    "meaning": "재물 자(貝)",
+    "radicalNumber": 154,
+    "radical": "貝",
+    "radicalBase": "貝",
+    "radicalName": "조개 패",
+    "radicalHint": "조개, 돈, 재물",
+    "radicalStrokes": 7,
+    "additionalStrokes": 6,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "貝",
+        "name": "조개 패",
+        "hint": "조개, 돈, 재물",
+        "role": "대표 부수"
+      },
+      {
+        "component": "目",
+        "name": "눈 목",
+        "hint": "눈, 보기, 살핌",
+        "role": "구성요소"
+      },
+      {
+        "component": "ハ",
+        "name": "여덟 팔 변형",
+        "hint": "둘로 갈라짐, 벌어짐, 나뉜 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "欠",
+        "name": "하품 흠",
+        "hint": "하품, 부족함, 입을 벌림",
+        "role": "구성요소"
+      },
+      {
+        "component": "冫",
+        "name": "얼음 빙",
+        "hint": "얼음, 차가움, 굳음",
+        "role": "구성요소"
+      }
+    ]
+  },
   "走": {
     "kanji": "走",
     "meaning": "달릴 주",
@@ -8137,6 +14561,32 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "足": {
+    "kanji": "足",
+    "meaning": "충분할 족",
+    "radicalNumber": 157,
+    "radical": "足",
+    "radicalBase": "足",
+    "radicalName": "발 족",
+    "radicalHint": "발, 걷기, 충분함",
+    "radicalStrokes": 7,
+    "additionalStrokes": 0,
+    "totalStrokes": 7,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "足",
+        "name": "발 족",
+        "hint": "발, 걷기, 충분함",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "車": {
     "kanji": "車",
     "meaning": "수레 차",
@@ -8154,6 +14604,70 @@ window.JLPT_KANJI_RADICALS = {
         "name": "수레 거",
         "hint": "수레, 바퀴, 탈것",
         "role": "대표 부수"
+      }
+    ]
+  },
+  "転": {
+    "kanji": "転",
+    "meaning": "구를 전(車)",
+    "radicalNumber": 159,
+    "radical": "車",
+    "radicalBase": "車",
+    "radicalName": "수레 거",
+    "radicalHint": "수레, 바퀴, 탈것",
+    "radicalStrokes": 7,
+    "additionalStrokes": 4,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "車",
+        "name": "수레 거",
+        "hint": "수레, 바퀴, 탈것",
+        "role": "대표 부수"
+      },
+      {
+        "component": "二",
+        "name": "두 이",
+        "hint": "둘, 겹침, 위아래의 구분",
+        "role": "구성요소"
+      },
+      {
+        "component": "厶",
+        "name": "사사 사",
+        "hint": "사사로움, 개인적인 것, 구부러진 팔",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "較": {
+    "kanji": "較",
+    "meaning": "견줄 교(車)",
+    "radicalNumber": 159,
+    "radical": "車",
+    "radicalBase": "車",
+    "radicalName": "수레 거",
+    "radicalHint": "수레, 바퀴, 탈것",
+    "radicalStrokes": 7,
+    "additionalStrokes": 6,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "車",
+        "name": "수레 거",
+        "hint": "수레, 바퀴, 탈것",
+        "role": "대표 부수"
+      },
+      {
+        "component": "父",
+        "name": "아버지 부",
+        "hint": "아버지, 어른, 손에 든 도구",
+        "role": "구성요소"
+      },
+      {
+        "component": "亠",
+        "name": "돼지해머리 두",
+        "hint": "머리나 위쪽 덮개",
+        "role": "구성요소"
       }
     ]
   },
@@ -8201,6 +14715,44 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "輸": {
+    "kanji": "輸",
+    "meaning": "보낼 수(車)",
+    "radicalNumber": 159,
+    "radical": "車",
+    "radicalBase": "車",
+    "radicalName": "수레 거",
+    "radicalHint": "수레, 바퀴, 탈것",
+    "radicalStrokes": 7,
+    "additionalStrokes": 9,
+    "totalStrokes": 16,
+    "components": [
+      {
+        "component": "刂",
+        "name": "칼 도",
+        "hint": "칼, 자르기, 나누기",
+        "role": "구성요소"
+      },
+      {
+        "component": "月",
+        "name": "달 월",
+        "hint": "달, 시간, 몸의 일부",
+        "role": "구성요소"
+      },
+      {
+        "component": "車",
+        "name": "수레 거",
+        "hint": "수레, 바퀴, 탈것",
+        "role": "대표 부수"
+      },
+      {
+        "component": "𠆢",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "구성요소"
+      }
+    ]
+  },
   "辞": {
     "kanji": "辞",
     "meaning": "말씀 사",
@@ -8241,6 +14793,52 @@ window.JLPT_KANJI_RADICALS = {
         "component": "立",
         "name": "설 립",
         "hint": "서 있음, 세움",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "辶": {
+    "kanji": "辶",
+    "meaning": "",
+    "radicalNumber": 162,
+    "radical": "辵/辶",
+    "radicalBase": "辵",
+    "radicalName": "쉬엄쉬엄 갈 착",
+    "radicalHint": "길, 이동, 나아감",
+    "radicalStrokes": 7,
+    "additionalStrokes": 0,
+    "totalStrokes": 3,
+    "components": [
+      {
+        "component": "辶",
+        "name": "쉬엄쉬엄 갈 착",
+        "hint": "길, 이동, 나아감",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "込": {
+    "kanji": "込",
+    "meaning": "들어갈 입(辶)",
+    "radicalNumber": 162,
+    "radical": "辵/辶",
+    "radicalBase": "辵",
+    "radicalName": "쉬엄쉬엄 갈 착",
+    "radicalHint": "길, 이동, 나아감",
+    "radicalStrokes": 7,
+    "additionalStrokes": 2,
+    "totalStrokes": 5,
+    "components": [
+      {
+        "component": "辶",
+        "name": "쉬엄쉬엄 갈 착",
+        "hint": "길, 이동, 나아감",
+        "role": "대표 부수"
+      },
+      {
+        "component": "入",
+        "name": "들 입",
+        "hint": "들어감, 받아들임, 안쪽",
         "role": "구성요소"
       }
     ]
@@ -8443,6 +15041,44 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "週": {
+    "kanji": "週",
+    "meaning": "주일 주(辶)",
+    "radicalNumber": 162,
+    "radical": "辵/辶",
+    "radicalBase": "辵",
+    "radicalName": "쉬엄쉬엄 갈 착",
+    "radicalHint": "길, 이동, 나아감",
+    "radicalStrokes": 7,
+    "additionalStrokes": 8,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "辶",
+        "name": "쉬엄쉬엄 갈 착",
+        "hint": "길, 이동, 나아감",
+        "role": "대표 부수"
+      },
+      {
+        "component": "土",
+        "name": "흙 토",
+        "hint": "흙, 땅, 장소",
+        "role": "구성요소"
+      },
+      {
+        "component": "冂",
+        "name": "멀 경",
+        "hint": "테두리, 바깥 경계",
+        "role": "구성요소"
+      }
+    ]
+  },
   "遅": {
     "kanji": "遅",
     "meaning": "늦을 지",
@@ -8519,6 +15155,38 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "運": {
+    "kanji": "運",
+    "meaning": "운반할 운(辶)",
+    "radicalNumber": 162,
+    "radical": "辵/辶",
+    "radicalBase": "辵",
+    "radicalName": "쉬엄쉬엄 갈 착",
+    "radicalHint": "길, 이동, 나아감",
+    "radicalStrokes": 7,
+    "additionalStrokes": 9,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "辶",
+        "name": "쉬엄쉬엄 갈 착",
+        "hint": "길, 이동, 나아감",
+        "role": "대표 부수"
+      },
+      {
+        "component": "車",
+        "name": "수레 거",
+        "hint": "수레, 바퀴, 탈것",
+        "role": "구성요소"
+      },
+      {
+        "component": "冖",
+        "name": "덮을 멱",
+        "hint": "위에서 덮는 덮개",
+        "role": "구성요소"
+      }
+    ]
+  },
   "達": {
     "kanji": "達",
     "meaning": "통달할 달",
@@ -8591,6 +15259,68 @@ window.JLPT_KANJI_RADICALS = {
         "component": "韋",
         "name": "가죽 위",
         "hint": "가죽, 둘러싼 움직임, 어긋남",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "適": {
+    "kanji": "適",
+    "meaning": "맞을 적(辶)",
+    "radicalNumber": 162,
+    "radical": "辵/辶",
+    "radicalBase": "辵",
+    "radicalName": "쉬엄쉬엄 갈 착",
+    "radicalHint": "길, 이동, 나아감",
+    "radicalStrokes": 7,
+    "additionalStrokes": 11,
+    "totalStrokes": 14,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "辶",
+        "name": "쉬엄쉬엄 갈 착",
+        "hint": "길, 이동, 나아감",
+        "role": "대표 부수"
+      },
+      {
+        "component": "十",
+        "name": "열 십",
+        "hint": "열, 완성된 수, 교차",
+        "role": "구성요소"
+      },
+      {
+        "component": "并",
+        "name": "나란할 병",
+        "hint": "나란함, 함께 놓임, 두 갈래",
+        "role": "구성요소"
+      },
+      {
+        "component": "立",
+        "name": "설 립",
+        "hint": "서 있음, 세움",
+        "role": "구성요소"
+      },
+      {
+        "component": "亠",
+        "name": "돼지해머리 두",
+        "hint": "머리나 위쪽 덮개",
+        "role": "구성요소"
+      },
+      {
+        "component": "冂",
+        "name": "멀 경",
+        "hint": "테두리, 바깥 경계",
+        "role": "구성요소"
+      },
+      {
+        "component": "滴",
+        "name": "물방울 적",
+        "hint": "물방울, 액체가 한 방울씩 떨어짐",
         "role": "구성요소"
       }
     ]
@@ -8767,6 +15497,50 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "重": {
+    "kanji": "重",
+    "meaning": "무거울 중",
+    "radicalNumber": 166,
+    "radical": "里",
+    "radicalBase": "里",
+    "radicalName": "마을 리",
+    "radicalHint": "마을, 거리, 안쪽",
+    "radicalStrokes": 7,
+    "additionalStrokes": 2,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "ノ",
+        "name": "삐침 별",
+        "hint": "비스듬히 내려 긋는 획, 기울어진 방향",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "里",
+        "name": "마을 리",
+        "hint": "마을, 거리, 안쪽",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "野": {
     "kanji": "野",
     "meaning": "들 야",
@@ -8819,6 +15593,64 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "録": {
+    "kanji": "録",
+    "meaning": "기록할 록(金)",
+    "radicalNumber": 167,
+    "radical": "金/釒",
+    "radicalBase": "金",
+    "radicalName": "쇠 금",
+    "radicalHint": "금속, 돈, 단단한 재료",
+    "radicalStrokes": 8,
+    "additionalStrokes": 8,
+    "totalStrokes": 16,
+    "components": [
+      {
+        "component": "ヨ",
+        "name": "요",
+        "hint": "손이나 빗자루처럼 층이 있는 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "金",
+        "name": "쇠 금",
+        "hint": "금속, 돈, 단단한 재료",
+        "role": "대표 부수"
+      },
+      {
+        "component": "水",
+        "name": "물 수",
+        "hint": "물, 액체, 흐름",
+        "role": "구성요소"
+      },
+      {
+        "component": "隶",
+        "name": "미칠 이",
+        "hint": "붙잡음, 뒤따름, 이어지는 손의 움직임",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "門": {
+    "kanji": "門",
+    "meaning": "",
+    "radicalNumber": 169,
+    "radical": "門",
+    "radicalBase": "門",
+    "radicalName": "문 문",
+    "radicalHint": "문, 출입구, 사이 공간",
+    "radicalStrokes": 8,
+    "additionalStrokes": 0,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "門",
+        "name": "문 문",
+        "hint": "문, 출입구, 사이 공간",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "間": {
     "kanji": "間",
     "meaning": "사이 간",
@@ -8841,6 +15673,102 @@ window.JLPT_KANJI_RADICALS = {
         "component": "門",
         "name": "문 문",
         "hint": "문, 출입구, 사이 공간",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "関": {
+    "kanji": "関",
+    "meaning": "관계할 관(門)",
+    "radicalNumber": 169,
+    "radical": "門",
+    "radicalBase": "門",
+    "radicalName": "문 문",
+    "radicalHint": "문, 출입구, 사이 공간",
+    "radicalStrokes": 8,
+    "additionalStrokes": 6,
+    "totalStrokes": 14,
+    "components": [
+      {
+        "component": "人",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "구성요소"
+      },
+      {
+        "component": "大",
+        "name": "큰 대",
+        "hint": "큼, 넓음, 사람의 큰 모습",
+        "role": "구성요소"
+      },
+      {
+        "component": "二",
+        "name": "두 이",
+        "hint": "둘, 겹침, 위아래의 구분",
+        "role": "구성요소"
+      },
+      {
+        "component": "ハ",
+        "name": "여덟 팔 변형",
+        "hint": "둘로 갈라짐, 벌어짐, 나뉜 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "門",
+        "name": "문 문",
+        "hint": "문, 출입구, 사이 공간",
+        "role": "대표 부수"
+      },
+      {
+        "component": "并",
+        "name": "나란할 병",
+        "hint": "나란함, 함께 놓임, 두 갈래",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "阝": {
+    "kanji": "阝",
+    "meaning": "",
+    "radicalNumber": 170,
+    "radical": "阜/阝",
+    "radicalBase": "阜",
+    "radicalName": "언덕 부",
+    "radicalHint": "언덕, 지형, 쌓인 곳",
+    "radicalStrokes": 8,
+    "additionalStrokes": 0,
+    "totalStrokes": 2,
+    "components": [
+      {
+        "component": "⻖",
+        "name": "언덕 부",
+        "hint": "언덕, 지형, 쌓인 곳",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "限": {
+    "kanji": "限",
+    "meaning": "한할 한(阝)",
+    "radicalNumber": 170,
+    "radical": "阜/阝",
+    "radicalBase": "阜",
+    "radicalName": "언덕 부",
+    "radicalHint": "언덕, 지형, 쌓인 곳",
+    "radicalStrokes": 8,
+    "additionalStrokes": 6,
+    "totalStrokes": 8,
+    "components": [
+      {
+        "component": "艮",
+        "name": "그칠 간",
+        "hint": "멈춤, 등짐, 뒤돌아보는 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "⻖",
+        "name": "언덕 부",
+        "hint": "언덕, 지형, 쌓인 곳",
         "role": "대표 부수"
       }
     ]
@@ -8889,6 +15817,38 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "除": {
+    "kanji": "除",
+    "meaning": "제거할 제(阝)",
+    "radicalNumber": 170,
+    "radical": "阜/阝",
+    "radicalBase": "阜",
+    "radicalName": "언덕 부",
+    "radicalHint": "언덕, 지형, 쌓인 곳",
+    "radicalStrokes": 8,
+    "additionalStrokes": 7,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "禾",
+        "name": "벼 화",
+        "hint": "벼, 곡식, 수확",
+        "role": "구성요소"
+      },
+      {
+        "component": "𠆢",
+        "name": "사람 인",
+        "hint": "사람, 인물, 사람의 행동",
+        "role": "구성요소"
+      },
+      {
+        "component": "⻖",
+        "name": "언덕 부",
+        "hint": "언덕, 지형, 쌓인 곳",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "険": {
     "kanji": "険",
     "meaning": "험할 험",
@@ -8927,6 +15887,44 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "陽": {
+    "kanji": "陽",
+    "meaning": "볕 양",
+    "radicalNumber": 170,
+    "radical": "阜/阝",
+    "radicalBase": "阜",
+    "radicalName": "언덕 부",
+    "radicalHint": "언덕, 지형, 쌓인 곳",
+    "radicalStrokes": 8,
+    "additionalStrokes": 9,
+    "totalStrokes": 11,
+    "components": [
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "日",
+        "name": "날 일",
+        "hint": "해, 날, 시간, 밝음",
+        "role": "구성요소"
+      },
+      {
+        "component": "勿",
+        "name": "말 물",
+        "hint": "금지, 하지 않음, 흩어지는 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "⻖",
+        "name": "언덕 부",
+        "hint": "언덕, 지형, 쌓인 곳",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "集": {
     "kanji": "集",
     "meaning": "모을 집",
@@ -8950,6 +15948,38 @@ window.JLPT_KANJI_RADICALS = {
         "name": "새 추",
         "hint": "새, 작은 새의 모양",
         "role": "대표 부수"
+      }
+    ]
+  },
+  "雑": {
+    "kanji": "雑",
+    "meaning": "섞일 잡",
+    "radicalNumber": 172,
+    "radical": "隹",
+    "radicalBase": "隹",
+    "radicalName": "새 추",
+    "radicalHint": "새, 작은 새의 모양",
+    "radicalStrokes": 8,
+    "additionalStrokes": 6,
+    "totalStrokes": 14,
+    "components": [
+      {
+        "component": "木",
+        "name": "나무 목",
+        "hint": "나무, 재료, 자람",
+        "role": "구성요소"
+      },
+      {
+        "component": "隹",
+        "name": "새 추",
+        "hint": "새, 작은 새의 모양",
+        "role": "대표 부수"
+      },
+      {
+        "component": "九",
+        "name": "아홉 구",
+        "hint": "아홉, 굽은 팔처럼 꺾인 모양",
+        "role": "구성요소"
       }
     ]
   },
@@ -9085,6 +16115,64 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "面": {
+    "kanji": "面",
+    "meaning": "낯 면",
+    "radicalNumber": 176,
+    "radical": "面",
+    "radicalBase": "面",
+    "radicalName": "낯 면",
+    "radicalHint": "얼굴, 겉면, 마주 보는 방향",
+    "radicalStrokes": 9,
+    "additionalStrokes": 0,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "面",
+        "name": "낯 면",
+        "hint": "얼굴, 겉면, 마주 보는 방향",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "頁": {
+    "kanji": "頁",
+    "meaning": "",
+    "radicalNumber": 181,
+    "radical": "頁",
+    "radicalBase": "頁",
+    "radicalName": "머리 혈",
+    "radicalHint": "머리, 얼굴, 페이지",
+    "radicalStrokes": 9,
+    "additionalStrokes": 0,
+    "totalStrokes": 9,
+    "components": [
+      {
+        "component": "貝",
+        "name": "조개 패",
+        "hint": "조개, 돈, 재물",
+        "role": "구성요소"
+      },
+      {
+        "component": "目",
+        "name": "눈 목",
+        "hint": "눈, 보기, 살핌",
+        "role": "구성요소"
+      },
+      {
+        "component": "ハ",
+        "name": "여덟 팔 변형",
+        "hint": "둘로 갈라짐, 벌어짐, 나뉜 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "頁",
+        "name": "머리 혈",
+        "hint": "머리, 얼굴, 페이지",
+        "role": "대표 부수"
+      }
+    ]
+  },
   "順": {
     "kanji": "順",
     "meaning": "순할 순",
@@ -9119,6 +16207,68 @@ window.JLPT_KANJI_RADICALS = {
         "component": "川",
         "name": "내 천",
         "hint": "내, 강, 흐름",
+        "role": "구성요소"
+      },
+      {
+        "component": "頁",
+        "name": "머리 혈",
+        "hint": "머리, 얼굴, 페이지",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "預": {
+    "kanji": "預",
+    "meaning": "맡길 예(頁)",
+    "radicalNumber": 181,
+    "radical": "頁",
+    "radicalBase": "頁",
+    "radicalName": "머리 혈",
+    "radicalHint": "머리, 얼굴, 페이지",
+    "radicalStrokes": 9,
+    "additionalStrokes": 4,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "貝",
+        "name": "조개 패",
+        "hint": "조개, 돈, 재물",
+        "role": "구성요소"
+      },
+      {
+        "component": "目",
+        "name": "눈 목",
+        "hint": "눈, 보기, 살핌",
+        "role": "구성요소"
+      },
+      {
+        "component": "ハ",
+        "name": "여덟 팔 변형",
+        "hint": "둘로 갈라짐, 벌어짐, 나뉜 모양",
+        "role": "구성요소"
+      },
+      {
+        "component": "欠",
+        "name": "하품 흠",
+        "hint": "하품, 부족함, 입을 벌림",
+        "role": "구성요소"
+      },
+      {
+        "component": "マ",
+        "name": "마",
+        "hint": "구부러져 걸린 모양, 손잡이나 덮개처럼 보이는 요소",
+        "role": "구성요소"
+      },
+      {
+        "component": "一",
+        "name": "한 일",
+        "hint": "하나, 선, 기준선",
+        "role": "구성요소"
+      },
+      {
+        "component": "亅",
+        "name": "갈고리 궐",
+        "hint": "갈고리처럼 꺾이는 모양",
         "role": "구성요소"
       },
       {
@@ -9387,6 +16537,38 @@ window.JLPT_KANJI_RADICALS = {
       }
     ]
   },
+  "飴": {
+    "kanji": "飴",
+    "meaning": "엿 이(食)",
+    "radicalNumber": 184,
+    "radical": "食/飠",
+    "radicalBase": "食",
+    "radicalName": "먹을 식",
+    "radicalHint": "먹기, 음식, 마심",
+    "radicalStrokes": 9,
+    "additionalStrokes": 5,
+    "totalStrokes": 13,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "食",
+        "name": "먹을 식",
+        "hint": "먹기, 음식, 마심",
+        "role": "대표 부수"
+      },
+      {
+        "component": "厶",
+        "name": "사사 사",
+        "hint": "사사로움, 개인적인 것, 구부러진 팔",
+        "role": "구성요소"
+      }
+    ]
+  },
   "館": {
     "kanji": "館",
     "meaning": "집 관",
@@ -9523,6 +16705,138 @@ window.JLPT_KANJI_RADICALS = {
         "component": "𠆢",
         "name": "사람 인",
         "hint": "사람, 인물, 사람의 행동",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "高": {
+    "kanji": "高",
+    "meaning": "높을 고",
+    "radicalNumber": 189,
+    "radical": "高",
+    "radicalBase": "高",
+    "radicalName": "높을 고",
+    "radicalHint": "높음, 큼, 높은 위치",
+    "radicalStrokes": 10,
+    "additionalStrokes": 0,
+    "totalStrokes": 10,
+    "components": [
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "高",
+        "name": "높을 고",
+        "hint": "높음, 큼, 높은 위치",
+        "role": "대표 부수"
+      },
+      {
+        "component": "亠",
+        "name": "돼지해머리 두",
+        "hint": "머리나 위쪽 덮개",
+        "role": "구성요소"
+      },
+      {
+        "component": "冂",
+        "name": "멀 경",
+        "hint": "테두리, 바깥 경계",
+        "role": "구성요소"
+      }
+    ]
+  },
+  "黑": {
+    "kanji": "黑",
+    "meaning": "",
+    "radicalNumber": 203,
+    "radical": "黑",
+    "radicalBase": "黑",
+    "radicalName": "검을 흑",
+    "radicalHint": "검은색, 어두움, 그을림",
+    "radicalStrokes": 12,
+    "additionalStrokes": 0,
+    "totalStrokes": 12,
+    "components": [
+      {
+        "component": "｜",
+        "name": "뚫을 곤",
+        "hint": "세로로 통과하는 선",
+        "role": "구성요소"
+      },
+      {
+        "component": "二",
+        "name": "두 이",
+        "hint": "둘, 겹침, 위아래의 구분",
+        "role": "구성요소"
+      },
+      {
+        "component": "并",
+        "name": "나란할 병",
+        "hint": "나란함, 함께 놓임, 두 갈래",
+        "role": "구성요소"
+      },
+      {
+        "component": "口",
+        "name": "입 구",
+        "hint": "입, 말, 구멍, 네모난 공간",
+        "role": "구성요소"
+      },
+      {
+        "component": "灬",
+        "name": "불 화",
+        "hint": "불, 열, 태움",
+        "role": "구성요소"
+      },
+      {
+        "component": "里",
+        "name": "마을 리",
+        "hint": "마을, 거리, 안쪽",
+        "role": "구성요소"
+      },
+      {
+        "component": "黒",
+        "name": "검을 흑",
+        "hint": "검은색, 어두움, 그을림",
+        "role": "대표 부수"
+      }
+    ]
+  },
+  "黙": {
+    "kanji": "黙",
+    "meaning": "잠잠할 묵(黑)",
+    "radicalNumber": 86,
+    "radical": "火/灬",
+    "radicalBase": "火",
+    "radicalName": "불 화",
+    "radicalHint": "불, 열, 태움",
+    "radicalStrokes": 4,
+    "additionalStrokes": 11,
+    "totalStrokes": 15,
+    "components": [
+      {
+        "component": "犬",
+        "name": "개 견",
+        "hint": "개, 짐승, 날랜 움직임",
+        "role": "구성요소"
+      },
+      {
+        "component": "里",
+        "name": "마을 리",
+        "hint": "마을, 거리, 안쪽",
+        "role": "구성요소"
+      },
+      {
+        "component": "灬",
+        "name": "불 화",
+        "hint": "불, 열, 태움",
+        "role": "대표 부수"
+      },
+      {
+        "component": "黒",
+        "name": "검을 흑",
+        "hint": "검은색, 어두움, 그을림",
         "role": "구성요소"
       }
     ]
