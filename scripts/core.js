@@ -14,7 +14,8 @@
     { key: "N4", label: "N4", slug: "N4" },
     { key: "추가", label: "N3", slug: "N3" },
   ];
-  const words = (window.JLPT_WORDS || []).map((word) => ({
+  const SPECIAL_LEVELS = [{ key: "동사", label: "동사", slug: "N3" }];
+  const words = [...(window.JLPT_WORDS || []), ...(window.JLPT_VERBS || [])].map((word) => ({
     ...word,
     deck: Number(word.deck),
     number: Number(word.number),
@@ -45,7 +46,7 @@
 
   function normalizeSession(value) {
     if (!value || typeof value !== "object" || !Array.isArray(value.queueIds)) return null;
-    if (!["level", "review"].includes(value.mode)) return null;
+    if (!["level", "review", "chapter"].includes(value.mode)) return null;
     return {
       mode: value.mode,
       level: value.level || "N5",
@@ -97,7 +98,13 @@
   }
 
   function levelConfig(value) {
-    return LEVELS.find((level) => level.key === value || level.slug === value) || LEVELS[0];
+    return [...LEVELS, ...SPECIAL_LEVELS].find((level) => level.key === value || level.slug === value) || LEVELS[0];
+  }
+
+  function chapterWords(chapter) {
+    return words
+      .filter((word) => word.chapter === chapter)
+      .sort((a, b) => a.number - b.number);
   }
 
   function levelWords(level) {
@@ -274,6 +281,7 @@
     LEVELS,
     KANJI_RADICALS: window.JLPT_KANJI_RADICALS || {},
     words,
+    chapterWords,
     levelConfig,
     levelWords,
     deckWords,

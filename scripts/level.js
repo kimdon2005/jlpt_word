@@ -3,6 +3,7 @@
 
   const $ = (selector) => document.querySelector(selector);
   const level = window.JLPT.levelConfig(document.body.dataset.level);
+  const isN3 = level.key === "추가";
   const state = { view: "stages", deck: 1, mode: "level" };
 
   function appendText(parent, tagName, value, className = "") {
@@ -39,6 +40,18 @@
     $("#levelStudyCount").textContent = window.JLPT.totalStudyCount(level.key);
   }
 
+  function updateVerbChapterCard() {
+    const card = $("#verbChapterCard");
+    if (!card) return;
+    const inProgress = window.JLPT.isInProgress("동사", 1);
+    const isCompleted = window.JLPT.isCompleted("동사", 1);
+    card.classList.toggle("running", inProgress);
+    card.classList.toggle("completed", isCompleted);
+    $("#verbChapterStatus").textContent = inProgress ? "회독중" : isCompleted ? "회독 완료" : "기준 회독과 분리";
+    $("#verbChapterCount").textContent = window.JLPT.chapterWords("verbs").length;
+    $("#startVerbChapterBtn").textContent = inProgress ? "동사 회독 이어하기" : "동사 회독 시작";
+  }
+
   function renderStages() {
     const grid = $("#stageGrid");
     grid.replaceChildren();
@@ -70,17 +83,14 @@
       card.append(actions);
       grid.append(card);
     });
+    updateVerbChapterCard();
     showView("stage");
   }
 
-  function openWordList(deck) {
-    state.deck = Number(deck);
-    const range = window.JLPT.deckRange(level.key, deck);
-    $("#listTitle").textContent = `${level.label} ${deck}장 단어`;
-    $("#listMeta").textContent = `${range.start}-${range.end}번 · ${range.count}개`;
+  function renderWordRows(words) {
     const list = $("#wordList");
     list.replaceChildren();
-    window.JLPT.deckWords(level.key, deck).forEach((word) => {
+    words.forEach((word) => {
       const row = document.createElement("article");
       row.className = "word-list-row";
       const title = document.createElement("div");
@@ -94,6 +104,25 @@
       row.append(details);
       list.append(row);
     });
+  }
+
+  function openWordList(deck) {
+    state.deck = Number(deck);
+    state.mode = "level";
+    const range = window.JLPT.deckRange(level.key, deck);
+    $("#listTitle").textContent = `${level.label} ${deck}장 단어`;
+    $("#listMeta").textContent = `${range.start}-${range.end}번 · ${range.count}개`;
+    renderWordRows(window.JLPT.deckWords(level.key, deck));
+    showView("list");
+  }
+
+  function openVerbList() {
+    state.mode = "chapter";
+    state.deck = 1;
+    const words = window.JLPT.chapterWords("verbs");
+    $("#listTitle").textContent = "동사 집중 챕터";
+    $("#listMeta").textContent = `기준 회독과 분리 · ${words.length}개`;
+    renderWordRows(words);
     showView("list");
   }
 
@@ -154,6 +183,59 @@
     });
   }
 
+  function validVerbSession(expectedWords) {
+    const sessionId = "chapter:verbs";
+    const session = window.JLPT.getActiveSession();
+    if (!session || session.sessionId !== sessionId || session.queueIds.length !== expectedWords.length) return null;
+    const expectedIds = new Set(expectedWords.map((word) => word.id));
+    if (!session.queueIds.every((id) => expectedIds.has(id))) return null;
+    return session;
+  }
+
+  function startVerbStudy(resume = false) {
+    state.deck = 1;
+    state.mode = "chapter";
+    const expectedWords = window.JLPT.chapterWords("verbs");
+    const savedSession = resume ? validVerbSession(expectedWords) : null;
+    const queue = savedSession ? window.JLPT.wordsFromIds(savedSession.queueIds) : window.JLPT.shuffle(expectedWords);
+    const sessionId = "chapter:verbs";
+    const initialIndex = savedSession ? Math.min(savedSession.index, queue.length - 1) : 0;
+    window.JLPT.markInProgress("동사", 1);
+    window.JLPT.setActiveSession({
+      mode: "chapter",
+      level: "동사",
+      deck: 1,
+      index: initialIndex,
+      queueIds: queue.map((word) => word.id),
+      sessionId,
+    });
+    showView("study");
+    study.start({
+      queue,
+      initialIndex,
+      label: "N3 동사 집중 챕터",
+      onIndexChange(index) {
+        const active = window.JLPT.getActiveSession();
+        if (active?.sessionId !== sessionId) return;
+        window.JLPT.setActiveSession({ ...active, index });
+      },
+      onComplete() {
+        window.JLPT.markCompleted("동사", 1);
+        window.JLPT.clearActiveSession(sessionId);
+        study.showComplete({
+          eyebrow: "SPECIAL CHAPTER",
+          title: "동사 회독 완료",
+          message: `${expectedWords.length}개 동사 전용 회독을 완료했습니다. 기준 회독 완료 기록에는 영향을 주지 않습니다.`,
+          actions: [
+            { label: "다시 회독", onClick: () => startVerbStudy() },
+            { label: "단계 목록", onClick: renderStages },
+          ],
+        });
+        updateVerbChapterCard();
+      },
+    });
+  }
+
   function startRandomTest() {
     state.mode = "test";
     const queue = window.JLPT.createWeightedTest(level.key, 20);
@@ -181,7 +263,14 @@
   $("#levelEyebrow").textContent = `${level.label} VOCABULARY`;
   $("#randomTestBtn").addEventListener("click", startRandomTest);
   $("#backStageBtn").addEventListener("click", renderStages);
-  $("#startListDeckBtn").addEventListener("click", () => startLevelStudy(state.deck, true));
+  $("#startListDeckBtn").addEventListener("click", () => {
+    if (state.mode === "chapter") startVerbStudy(true);
+    else startLevelStudy(state.deck, true);
+  });
+  if (isN3) {
+    $("#startVerbChapterBtn").addEventListener("click", () => startVerbStudy(true));
+    $("#openVerbListBtn").addEventListener("click", openVerbList);
+  }
 
   const study = window.JLPTStudy.create($("#studyMount"), {
     homeHref: "../",

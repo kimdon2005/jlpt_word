@@ -24,6 +24,22 @@
       </section>
       <section id="stageView">
         <div class="section-heading"><div><p class="eyebrow">REVIEW</p><h2>회독 단계</h2></div><button id="randomTestBtn" class="test-button" type="button">랜덤 테스트 20문제</button></div>
+        <article id="verbChapterCard" class="special-chapter-card">
+          <div class="special-chapter-copy">
+            <div class="stage-card-top">
+              <div><p class="eyebrow">SPECIAL CHAPTER</p><h2>동사 집중 챕터</h2></div>
+              <span id="verbChapterStatus" class="status-pill">대기</span>
+            </div>
+            <p>최근 동사 139개만 모은 독립 회독입니다. 아래 기준 회독의 번호·누적 범위에는 섞이지 않습니다.</p>
+            <div class="grammar-tags"><span>순수 동사</span><span>する동사</span><span>자동사·타동사</span><span>같은 발음 구별</span></div>
+          </div>
+          <div class="special-chapter-stats"><strong id="verbChapterCount">0</strong><span>동사</span></div>
+          <div class="stage-actions special-chapter-actions">
+            <button id="startVerbChapterBtn" type="button">동사 회독 시작</button>
+            <button id="openVerbListBtn" class="secondary-action" type="button">동사 목록</button>
+          </div>
+        </article>
+        <div class="standard-deck-heading"><p class="eyebrow">STANDARD REVIEW</p><h2>기준 회독</h2><p>명사·형용사·부사 신규 항목은 이 회독에 이어서 추가됩니다.</p></div>
         <div id="stageGrid" class="stage-grid"></div>
       </section>
       <section id="listView" class="word-list-view hidden">
@@ -34,6 +50,6 @@
     </main>
     <footer class="footer">한 번의 회독은 최대 150단어입니다.</footer>
   </div>
-  <script src="../data/jlpt_words_data.js"></script><script src="../data/kanji_radical_data.js"></script><script src="../scripts/core.js"></script><script src="../scripts/study.js"></script><script src="../scripts/level.js"></script>
+  <script src="../data/jlpt_words_data.js"></script><script src="../data/jlpt_verbs_data.js"></script><script src="../data/kanji_radical_data.js"></script><script src="../scripts/core.js"></script><script src="../scripts/study.js"></script><script src="../scripts/level.js"></script>
 </body>
 </html>

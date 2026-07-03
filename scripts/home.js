@@ -29,9 +29,15 @@
     grid.replaceChildren();
     window.JLPT.LEVELS.forEach((level) => {
       const decks = window.JLPT.deckNumbers(level.key);
+      const specialCount = level.key === "추가" ? window.JLPT.chapterWords("verbs").length : 0;
       const card = document.createElement("article");
       card.className = "level-card";
-      appendText(card, "p", `${window.JLPT.levelWords(level.key).length}개 · ${decks.length}장`, "eyebrow");
+      appendText(
+        card,
+        "p",
+        `${window.JLPT.levelWords(level.key).length}개 · ${decks.length}장${specialCount ? ` · 동사 ${specialCount}개 별도` : ""}`,
+        "eyebrow"
+      );
       appendText(card, "h2", level.label);
       appendText(
         card,

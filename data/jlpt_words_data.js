@@ -2061,10 +2061,10 @@ window.JLPT_WORDS = [
     "japanese": "成績",
     "reading": "せいせき",
     "meaning": "성적",
-    "kanji_note": "成=이룰 성, 績=공적 적(糸); 쌓아 올린 결과",
+    "kanji_note": "成=이룰 성, 績=공적 적(糸); 쌓아 올린 결과; [최근] 품사: 명사",
     "example": "成績（せいせき）が上（あ）がりました。",
     "example_ko": "성적이 올랐습니다.",
-    "source": "JLPT_enki_to_fuku_vocab.md; JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_enki_to_fuku_vocab.md; JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-020",
@@ -2347,10 +2347,10 @@ window.JLPT_WORDS = [
     "japanese": "楽器",
     "reading": "がっき",
     "meaning": "악기",
-    "kanji_note": "楽=음악 악, 器=그릇 기; 음악 도구",
+    "kanji_note": "楽=음악 악, 器=그릇 기; 음악 도구; [최근] 품사: 명사",
     "example": "ギターは人気（にんき）の楽器（がっき）です。",
     "example_ko": "기타는 인기 있는 악기입니다.",
-    "source": "JLPT_enki_to_fuku_vocab.md; JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_enki_to_fuku_vocab.md; JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-042",
@@ -2607,10 +2607,10 @@ window.JLPT_WORDS = [
     "japanese": "方向",
     "reading": "ほうこう",
     "meaning": "방향",
-    "kanji_note": "方=방향 방, 向=향할 향; 향해 가는 쪽",
+    "kanji_note": "方=방향 방, 向=향할 향; 향해 가는 쪽; [최근] 품사: 명사",
     "example": "駅（えき）の方向（ほうこう）へ歩（ある）きます。",
     "example_ko": "역 방향으로 걷습니다.",
-    "source": "JLPT_enki_to_fuku_vocab.md; JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_enki_to_fuku_vocab.md; JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-062",
@@ -2919,10 +2919,10 @@ window.JLPT_WORDS = [
     "japanese": "休日",
     "reading": "きゅうじつ",
     "meaning": "휴일",
-    "kanji_note": "休=쉴 휴, 日=날 일; 休는 亻+木 → 사람이 쉬는 느낌",
+    "kanji_note": "休=쉴 휴, 日=날 일; 休는 亻+木 → 사람이 쉬는 느낌; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-086",
@@ -2932,10 +2932,10 @@ window.JLPT_WORDS = [
     "japanese": "下線",
     "reading": "かせん",
     "meaning": "밑줄",
-    "kanji_note": "下=아래 하, 線=줄 선; 線은 糸(실) → 선/줄",
+    "kanji_note": "下=아래 하, 線=줄 선; 線은 糸(실) → 선/줄; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-087",
@@ -2944,11 +2944,11 @@ window.JLPT_WORDS = [
     "number": "87",
     "japanese": "様々だ",
     "reading": "さまざまだ",
-    "meaning": "여러 가지다, 다양하다",
-    "kanji_note": "様=모양 양; 여러 모양으로 외우기",
+    "meaning": "여러 가지다",
+    "kanji_note": "様=모양 양; 여러 모양으로 외우기; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-088",
@@ -2958,10 +2958,10 @@ window.JLPT_WORDS = [
     "japanese": "様子",
     "reading": "ようす",
     "meaning": "상태, 상황, 모습",
-    "kanji_note": "様=모양 양, 子=아들 자; 겉으로 보이는 모양/상태",
+    "kanji_note": "様=모양 양, 子=아들 자; 겉으로 보이는 모양/상태; [최근] 품사: 명사 · 전에 물어본 단어",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-089",
@@ -2971,10 +2971,10 @@ window.JLPT_WORDS = [
     "japanese": "大会",
     "reading": "たいかい",
     "meaning": "대회",
-    "kanji_note": "大=클 대, 会=모일 회; 큰 모임",
+    "kanji_note": "大=클 대, 会=모일 회; 큰 모임; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-090",
@@ -2984,10 +2984,10 @@ window.JLPT_WORDS = [
     "japanese": "工業",
     "reading": "こうぎょう",
     "meaning": "공업",
-    "kanji_note": "工=장인 공, 業=업 업; 만드는 산업",
+    "kanji_note": "工=장인 공, 業=업 업; 만드는 산업; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-091",
@@ -2996,11 +2996,11 @@ window.JLPT_WORDS = [
     "number": "91",
     "japanese": "重大だ",
     "reading": "じゅうだいだ",
-    "meaning": "중대하다, 심각하다",
-    "kanji_note": "重=무거울 중, 大=클 대; 무게가 큰 일",
+    "meaning": "중대하다",
+    "kanji_note": "重=무거울 중, 大=클 대; 무게가 큰 일; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-092",
@@ -3009,11 +3009,11 @@ window.JLPT_WORDS = [
     "number": "92",
     "japanese": "自然",
     "reading": "しぜん",
-    "meaning": "자연, 자연스러움",
-    "kanji_note": "自=스스로 자, 然=그러할 연; 스스로 그러한 것",
+    "meaning": "자연",
+    "kanji_note": "自=스스로 자, 然=그러할 연; 스스로 그러한 것; [최근] 품사: 명사 · 事前 じぜん과 발음 구분",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-093",
@@ -3075,10 +3075,10 @@ window.JLPT_WORDS = [
     "japanese": "料金",
     "reading": "りょうきん",
     "meaning": "요금",
-    "kanji_note": "料=재료 료, 金=쇠 금; 내야 하는 돈",
+    "kanji_note": "料=재료 료, 金=쇠 금; 내야 하는 돈; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-098",
@@ -3114,10 +3114,10 @@ window.JLPT_WORDS = [
     "japanese": "祝日",
     "reading": "しゅくじつ",
     "meaning": "공휴일, 축일",
-    "kanji_note": "祝=빌 축(礻), 日=날 일; 기념하는 날",
+    "kanji_note": "祝=빌 축(礻), 日=날 일; 기념하는 날; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-101",
@@ -3140,10 +3140,10 @@ window.JLPT_WORDS = [
     "japanese": "冗談",
     "reading": "じょうだん",
     "meaning": "농담",
-    "kanji_note": "冗=쓸데없을 용, 談=말씀 담(言); 장난스러운 말",
+    "kanji_note": "冗=쓸데없을 용, 談=말씀 담(言); 장난스러운 말; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-103",
@@ -3192,10 +3192,10 @@ window.JLPT_WORDS = [
     "japanese": "方角",
     "reading": "ほうがく",
     "meaning": "방향, 방위",
-    "kanji_note": "方=방향 방, 角=뿔 각; 동서남북 같은 방위",
+    "kanji_note": "方=방향 방, 角=뿔 각; 동서남북 같은 방위; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-107",
@@ -3218,10 +3218,10 @@ window.JLPT_WORDS = [
     "japanese": "実力",
     "reading": "じつりょく",
     "meaning": "실력",
-    "kanji_note": "実=열매 실, 力=힘 력; 실제 힘/능력",
+    "kanji_note": "実=열매 실, 力=힘 력; 실제 힘/능력; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-109",
@@ -3620,11 +3620,11 @@ window.JLPT_WORDS = [
     "number": "139",
     "japanese": "確かに",
     "reading": "たしかに",
-    "meaning": "확실히, 분명히",
-    "kanji_note": "確=굳을 확(石); 돌처럼 확실",
+    "meaning": "확실히",
+    "kanji_note": "確=굳을 확(石); 돌처럼 확실; [최근] 품사: 부사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-140",
@@ -3634,10 +3634,10 @@ window.JLPT_WORDS = [
     "japanese": "羨ましい",
     "reading": "うらやましい",
     "meaning": "부럽다",
-    "kanji_note": "羨=부러워할 선; 남의 좋은 것을 보고 끌림",
+    "kanji_note": "羨=부러워할 선; 남의 좋은 것을 보고 끌림; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-141",
@@ -3646,11 +3646,11 @@ window.JLPT_WORDS = [
     "number": "141",
     "japanese": "惜しい",
     "reading": "おしい",
-    "meaning": "아깝다, 아쉽다",
-    "kanji_note": "惜=아낄 석(忄+昔); 마음속으로 아까움",
+    "meaning": "아깝다",
+    "kanji_note": "惜=아낄 석(忄+昔); 마음속으로 아까움; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-142",
@@ -3659,11 +3659,11 @@ window.JLPT_WORDS = [
     "number": "142",
     "japanese": "恋しい",
     "reading": "こいしい",
-    "meaning": "그립다, 보고 싶다",
-    "kanji_note": "恋=그리워할 련(心); 마음의 그리움",
+    "meaning": "그립다",
+    "kanji_note": "恋=그리워할 련(心); 마음의 그리움; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-143",
@@ -3672,11 +3672,11 @@ window.JLPT_WORDS = [
     "number": "143",
     "japanese": "悔しい",
     "reading": "くやしい",
-    "meaning": "분하다, 억울하다",
-    "kanji_note": "悔=뉘우칠 회(忄); 후회/분한 감정",
+    "meaning": "분하다",
+    "kanji_note": "悔=뉘우칠 회(忄); 후회/분한 감정; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-144",
@@ -3686,10 +3686,10 @@ window.JLPT_WORDS = [
     "japanese": "親しい",
     "reading": "したしい",
     "meaning": "친하다",
-    "kanji_note": "親=친할 친(見 포함); 자주 보고 가까운 관계",
+    "kanji_note": "親=친할 친(見 포함); 자주 보고 가까운 관계; [최근] 품사: い형용사 · 전에 물어본 단어",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-145",
@@ -3699,10 +3699,10 @@ window.JLPT_WORDS = [
     "japanese": "懐かしい",
     "reading": "なつかしい",
     "meaning": "그립다, 정겹다",
-    "kanji_note": "懐=품을 회(忄); 옛 기억을 마음에 품음",
+    "kanji_note": "懐=품을 회(忄); 옛 기억을 마음에 품음; [최근] 품사: い형용사 · 전에 물어본 단어",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-146",
@@ -3712,10 +3712,10 @@ window.JLPT_WORDS = [
     "japanese": "眩しい",
     "reading": "まぶしい",
     "meaning": "눈부시다",
-    "kanji_note": "眩=어지러울 현(目); 눈이 부심",
+    "kanji_note": "眩=어지러울 현(目); 눈이 부심; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-147",
@@ -3725,10 +3725,10 @@ window.JLPT_WORDS = [
     "japanese": "難しい",
     "reading": "むずかしい",
     "meaning": "어렵다",
-    "kanji_note": "難=어려울 난; 난이도와 연결해 암기",
+    "kanji_note": "難=어려울 난; 난이도와 연결해 암기; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-148",
@@ -3738,10 +3738,10 @@ window.JLPT_WORDS = [
     "japanese": "浅い",
     "reading": "あさい",
     "meaning": "얕다",
-    "kanji_note": "浅=얕을 천(氵); 물 깊이가 낮음",
+    "kanji_note": "浅=얕을 천(氵); 물 깊이가 낮음; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-149",
@@ -3751,10 +3751,10 @@ window.JLPT_WORDS = [
     "japanese": "厚い",
     "reading": "あつい",
     "meaning": "두껍다",
-    "kanji_note": "厚=두터울 후(厂); 층이 두꺼움",
+    "kanji_note": "厚=두터울 후(厂); 층이 두꺼움; [최근] 품사: い형용사 · 暑い/熱い와 구분",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-150",
@@ -3763,11 +3763,11 @@ window.JLPT_WORDS = [
     "number": "150",
     "japanese": "偉い",
     "reading": "えらい",
-    "meaning": "훌륭하다, 대단하다",
-    "kanji_note": "偉=훌륭할 위(亻); 사람이 뛰어남",
+    "meaning": "훌륭하다, 지위가 높다",
+    "kanji_note": "偉=훌륭할 위(亻); 사람이 뛰어남; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-151",
@@ -3777,10 +3777,10 @@ window.JLPT_WORDS = [
     "japanese": "遅い",
     "reading": "おそい",
     "meaning": "늦다, 느리다",
-    "kanji_note": "遅=늦을 지(辶); 진행이 늦음",
+    "kanji_note": "遅=늦을 지(辶); 진행이 늦음; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-152",
@@ -3790,10 +3790,10 @@ window.JLPT_WORDS = [
     "japanese": "汚い",
     "reading": "きたない",
     "meaning": "더럽다",
-    "kanji_note": "汚=더러울 오(氵); 오염됨",
+    "kanji_note": "汚=더러울 오(氵); 오염됨; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-153",
@@ -3803,10 +3803,10 @@ window.JLPT_WORDS = [
     "japanese": "細い",
     "reading": "ほそい",
     "meaning": "가늘다",
-    "kanji_note": "細=가늘 세(糸); 실처럼 가늘다",
+    "kanji_note": "細=가늘 세(糸); 실처럼 가늘다; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-154",
@@ -3816,10 +3816,10 @@ window.JLPT_WORDS = [
     "japanese": "丸い",
     "reading": "まるい",
     "meaning": "둥글다",
-    "kanji_note": "丸=둥글 환; 둥근 모양",
+    "kanji_note": "丸=둥글 환; 둥근 모양; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-155",
@@ -3829,10 +3829,10 @@ window.JLPT_WORDS = [
     "japanese": "若い",
     "reading": "わかい",
     "meaning": "젊다",
-    "kanji_note": "若=젊을 약(艹); 새싹처럼 젊음",
+    "kanji_note": "若=젊을 약(艹); 새싹처럼 젊음; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-156",
@@ -3841,11 +3841,11 @@ window.JLPT_WORDS = [
     "number": "156",
     "japanese": "上品だ",
     "reading": "じょうひんだ",
-    "meaning": "고상하다, 품위 있다",
-    "kanji_note": "上=위 상, 品=품격 품; 품격이 높음",
+    "meaning": "고상하다",
+    "kanji_note": "上=위 상, 品=품격 품; 품격이 높음; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-157",
@@ -3854,11 +3854,11 @@ window.JLPT_WORDS = [
     "number": "157",
     "japanese": "適当だ",
     "reading": "てきとうだ",
-    "meaning": "적당하다, 알맞다",
-    "kanji_note": "適=맞을 적(辶), 当=마땅할 당; 조건에 맞음",
+    "meaning": "적당하다, 대충이다",
+    "kanji_note": "適=맞을 적(辶), 当=마땅할 당; 조건에 맞음; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-158",
@@ -3868,10 +3868,10 @@ window.JLPT_WORDS = [
     "japanese": "得意だ",
     "reading": "とくいだ",
     "meaning": "잘하다, 자신 있다",
-    "kanji_note": "得=얻을 득(彳), 意=뜻 의(心); 능력을 얻어 자신 있음",
+    "kanji_note": "得=얻을 득(彳), 意=뜻 의(心); 능력을 얻어 자신 있음; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-159",
@@ -3881,10 +3881,10 @@ window.JLPT_WORDS = [
     "japanese": "不安だ",
     "reading": "ふあんだ",
     "meaning": "불안하다",
-    "kanji_note": "不=아닐 불, 安=편안할 안(宀); 편안하지 않음",
+    "kanji_note": "不=아닐 불, 安=편안할 안(宀); 편안하지 않음; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-160",
@@ -3894,10 +3894,10 @@ window.JLPT_WORDS = [
     "japanese": "一般的だ",
     "reading": "いっぱんてきだ",
     "meaning": "일반적이다",
-    "kanji_note": "一般=일반, 的=~적; 보통 널리 해당",
+    "kanji_note": "一般=일반, 的=~적; 보통 널리 해당; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-161",
@@ -3907,10 +3907,10 @@ window.JLPT_WORDS = [
     "japanese": "効果的だ",
     "reading": "こうかてきだ",
     "meaning": "효과적이다",
-    "kanji_note": "効果=효과, 的=~적; 결과가 잘 남",
+    "kanji_note": "効果=효과, 的=~적; 결과가 잘 남; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-162",
@@ -3920,10 +3920,10 @@ window.JLPT_WORDS = [
     "japanese": "消極的だ",
     "reading": "しょうきょくてきだ",
     "meaning": "소극적이다",
-    "kanji_note": "消=사라질 소(氵), 極=극할 극, 的=~적; 적극성이 줄어듦",
+    "kanji_note": "消=사라질 소(氵), 極=극할 극, 的=~적; 적극성이 줄어듦; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-163",
@@ -3933,10 +3933,10 @@ window.JLPT_WORDS = [
     "japanese": "感情的だ",
     "reading": "かんじょうてきだ",
     "meaning": "감정적이다",
-    "kanji_note": "感=느낄 감(心), 情=뜻 정(忄), 的=~적; 감정이 강함",
+    "kanji_note": "感=느낄 감(心), 情=뜻 정(忄), 的=~적; 감정이 강함; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-164",
@@ -3946,10 +3946,10 @@ window.JLPT_WORDS = [
     "japanese": "自動的だ",
     "reading": "じどうてきだ",
     "meaning": "자동적이다",
-    "kanji_note": "自=스스로 자, 動=움직일 동(力), 的=~적; 스스로 움직임",
+    "kanji_note": "自=스스로 자, 動=움직일 동(力), 的=~적; 스스로 움직임; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-165",
@@ -3959,10 +3959,10 @@ window.JLPT_WORDS = [
     "japanese": "積極的だ",
     "reading": "せっきょくてきだ",
     "meaning": "적극적이다",
-    "kanji_note": "積=쌓을 적(禾), 極=극할 극, 的=~적; 힘을 쌓아 나아감",
+    "kanji_note": "積=쌓을 적(禾), 極=극할 극, 的=~적; 힘을 쌓아 나아감; [최근] 품사: な형용사 · 전에 물어본 단어",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-166",
@@ -3972,10 +3972,10 @@ window.JLPT_WORDS = [
     "japanese": "確かだ",
     "reading": "たしかだ",
     "meaning": "확실하다",
-    "kanji_note": "確=굳을 확(石); 단단하고 확실함",
+    "kanji_note": "確=굳을 확(石); 단단하고 확실함; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-167",
@@ -3984,11 +3984,11 @@ window.JLPT_WORDS = [
     "number": "167",
     "japanese": "怪しい",
     "reading": "あやしい",
-    "meaning": "수상하다, 의심스럽다",
-    "kanji_note": "怪=괴이할 괴(忄); 마음에 이상함을 느낌",
+    "meaning": "수상하다",
+    "kanji_note": "怪=괴이할 괴(忄); 마음에 이상함을 느낌; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-168",
@@ -3998,10 +3998,10 @@ window.JLPT_WORDS = [
     "japanese": "嬉しい",
     "reading": "うれしい",
     "meaning": "기쁘다",
-    "kanji_note": "嬉=기쁠 희(女+喜); 기쁨의 감정",
+    "kanji_note": "嬉=기쁠 희(女+喜); 기쁨의 감정; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-169",
@@ -4011,10 +4011,10 @@ window.JLPT_WORDS = [
     "japanese": "寂しい",
     "reading": "さびしい",
     "meaning": "쓸쓸하다, 외롭다",
-    "kanji_note": "寂=고요할 적(宀); 조용하고 외로운 느낌",
+    "kanji_note": "寂=고요할 적(宀); 조용하고 외로운 느낌; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-170",
@@ -4024,10 +4024,10 @@ window.JLPT_WORDS = [
     "japanese": "素直だ",
     "reading": "すなおだ",
     "meaning": "솔직하다, 순하다",
-    "kanji_note": "素=본디 소(糸), 直=곧을 직; 꾸밈없이 곧음",
+    "kanji_note": "素=본디 소(糸), 直=곧을 직; 꾸밈없이 곧음; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-171",
@@ -4037,10 +4037,10 @@ window.JLPT_WORDS = [
     "japanese": "裏",
     "reading": "うら",
     "meaning": "뒤, 뒷면, 속",
-    "kanji_note": "裏=속 리(衣 계열); 겉의 반대, 안쪽",
+    "kanji_note": "裏=속 리(衣 계열); 겉의 반대, 안쪽; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-172",
@@ -4050,10 +4050,10 @@ window.JLPT_WORDS = [
     "japanese": "小型",
     "reading": "こがた",
     "meaning": "소형",
-    "kanji_note": "小=작을 소, 型=틀 형(土); 작은 형태",
+    "kanji_note": "小=작을 소, 型=틀 형(土); 작은 형태; [최근] 품사: 명사/な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-173",
@@ -4063,10 +4063,10 @@ window.JLPT_WORDS = [
     "japanese": "荷物",
     "reading": "にもつ",
     "meaning": "짐",
-    "kanji_note": "荷=짐 하(艹), 物=물건 물(牛); 들고 가는 물건",
+    "kanji_note": "荷=짐 하(艹), 物=물건 물(牛); 들고 가는 물건; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-174",
@@ -4075,11 +4075,11 @@ window.JLPT_WORDS = [
     "number": "174",
     "japanese": "残り",
     "reading": "のこり",
-    "meaning": "나머지, 남은 것",
-    "kanji_note": "残=남을 잔(歹); 끝난 뒤 남음",
+    "meaning": "나머지",
+    "kanji_note": "残=남을 잔(歹); 끝난 뒤 남음; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-175",
@@ -4089,10 +4089,10 @@ window.JLPT_WORDS = [
     "japanese": "包丁",
     "reading": "ほうちょう",
     "meaning": "식칼",
-    "kanji_note": "包=쌀 포, 丁=정; 통째로 식칼로 암기",
+    "kanji_note": "包=쌀 포, 丁=정; 통째로 식칼로 암기; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-176",
@@ -4102,10 +4102,10 @@ window.JLPT_WORDS = [
     "japanese": "横",
     "reading": "よこ",
     "meaning": "옆, 가로",
-    "kanji_note": "横=가로 횡(木); 옆으로 뻗은 방향",
+    "kanji_note": "横=가로 횡(木); 옆으로 뻗은 방향; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-177",
@@ -4114,11 +4114,11 @@ window.JLPT_WORDS = [
     "number": "177",
     "japanese": "角",
     "reading": "かど",
-    "meaning": "모서리, 모퉁이",
-    "kanji_note": "角=뿔 각; 뾰족한 부분",
+    "meaning": "모서리",
+    "kanji_note": "角=뿔 각; 뾰족한 부분; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-178",
@@ -4128,10 +4128,10 @@ window.JLPT_WORDS = [
     "japanese": "石油",
     "reading": "せきゆ",
     "meaning": "석유",
-    "kanji_note": "石=돌 석, 油=기름 유(氵); 땅속 기름",
+    "kanji_note": "石=돌 석, 油=기름 유(氵); 땅속 기름; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-179",
@@ -4141,10 +4141,10 @@ window.JLPT_WORDS = [
     "japanese": "値段",
     "reading": "ねだん",
     "meaning": "가격",
-    "kanji_note": "値=값 치(亻+直), 段=단계 단; 물건의 값",
+    "kanji_note": "値=값 치(亻+直), 段=단계 단; 물건의 값; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-180",
@@ -4154,10 +4154,10 @@ window.JLPT_WORDS = [
     "japanese": "広場",
     "reading": "ひろば",
     "meaning": "광장",
-    "kanji_note": "広=넓을 광, 場=장소 장(土); 넓은 장소",
+    "kanji_note": "広=넓을 광, 場=장소 장(土); 넓은 장소; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-181",
@@ -4167,10 +4167,10 @@ window.JLPT_WORDS = [
     "japanese": "申し込み",
     "reading": "もうしこみ",
     "meaning": "신청",
-    "kanji_note": "申=아뢸 신, 込=들어갈 입(辶); 의사를 넣음",
+    "kanji_note": "申=아뢸 신, 込=들어갈 입(辶); 의사를 넣음; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-182",
@@ -4180,10 +4180,10 @@ window.JLPT_WORDS = [
     "japanese": "庭",
     "reading": "にわ",
     "meaning": "정원, 마당",
-    "kanji_note": "庭=뜰 정(广); 집에 딸린 공간",
+    "kanji_note": "庭=뜰 정(广); 집에 딸린 공간; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-183",
@@ -4193,10 +4193,10 @@ window.JLPT_WORDS = [
     "japanese": "池",
     "reading": "いけ",
     "meaning": "연못",
-    "kanji_note": "池=못 지(氵); 물이 고인 곳",
+    "kanji_note": "池=못 지(氵); 물이 고인 곳; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-184",
@@ -4206,10 +4206,10 @@ window.JLPT_WORDS = [
     "japanese": "砂",
     "reading": "すな",
     "meaning": "모래",
-    "kanji_note": "砂=모래 사(石+少); 작은 돌 알갱이",
+    "kanji_note": "砂=모래 사(石+少); 작은 돌 알갱이; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-185",
@@ -4219,10 +4219,10 @@ window.JLPT_WORDS = [
     "japanese": "波",
     "reading": "なみ",
     "meaning": "파도",
-    "kanji_note": "波=물결 파(氵); 물의 움직임",
+    "kanji_note": "波=물결 파(氵); 물의 움직임; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-186",
@@ -4232,10 +4232,10 @@ window.JLPT_WORDS = [
     "japanese": "湖",
     "reading": "みずうみ",
     "meaning": "호수",
-    "kanji_note": "湖=호수 호(氵); 큰 물이 고인 곳",
+    "kanji_note": "湖=호수 호(氵); 큰 물이 고인 곳; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-187",
@@ -4244,11 +4244,11 @@ window.JLPT_WORDS = [
     "number": "187",
     "japanese": "夕日／夕陽",
     "reading": "ゆうひ",
-    "meaning": "석양, 저녁 해",
-    "kanji_note": "夕=저녁 석, 日=해 일, 陽=볕 양; 저녁의 해",
+    "meaning": "석양",
+    "kanji_note": "夕=저녁 석, 日=해 일, 陽=볕 양; 저녁의 해; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-188",
@@ -4258,10 +4258,10 @@ window.JLPT_WORDS = [
     "japanese": "裏切り者",
     "reading": "うらぎりもの",
     "meaning": "배신자",
-    "kanji_note": "裏=뒤/속 + 切=끊을 절 + 者=사람; 뒤에서 관계를 끊은 사람",
+    "kanji_note": "裏=뒤/속 + 切=끊을 절 + 者=사람; 뒤에서 관계를 끊은 사람; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-189",
@@ -4284,10 +4284,10 @@ window.JLPT_WORDS = [
     "japanese": "型",
     "reading": "かた／がた",
     "meaning": "형, 틀, 타입",
-    "kanji_note": "型=틀 형(土); 복합어에서는 がた로 연탁 가능",
+    "kanji_note": "型=틀 형(土); 복합어에서는 がた로 연탁 가능; [최근] 품사: 명사 · 血液型은 けつえきがた",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-191",
@@ -4297,10 +4297,10 @@ window.JLPT_WORDS = [
     "japanese": "娘",
     "reading": "むすめ",
     "meaning": "딸",
-    "kanji_note": "娘=계집 낭(女+良); 여자아이",
+    "kanji_note": "娘=계집 낭(女+良); 여자아이; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-192",
@@ -4310,10 +4310,10 @@ window.JLPT_WORDS = [
     "japanese": "貝",
     "reading": "かい",
     "meaning": "조개",
-    "kanji_note": "貝=조개 패; 조개 모양에서 온 글자",
+    "kanji_note": "貝=조개 패; 조개 모양에서 온 글자; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-193",
@@ -4323,10 +4323,10 @@ window.JLPT_WORDS = [
     "japanese": "緑",
     "reading": "みどり",
     "meaning": "초록",
-    "kanji_note": "緑=푸를 록(糸); 색이 든 실 이미지",
+    "kanji_note": "緑=푸를 록(糸); 색이 든 실 이미지; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-194",
@@ -4335,11 +4335,11 @@ window.JLPT_WORDS = [
     "number": "194",
     "japanese": "芋",
     "reading": "いも",
-    "meaning": "감자류, 고구마류",
-    "kanji_note": "芋=토란 우(艹); 땅에서 나는 덩이 식물",
+    "meaning": "덩이줄기류",
+    "kanji_note": "芋=토란 우(艹); 땅에서 나는 덩이 식물; [최근] 품사: 명사 · じゃがいも/さつまいも",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-195",
@@ -4349,10 +4349,10 @@ window.JLPT_WORDS = [
     "japanese": "粉",
     "reading": "こな",
     "meaning": "가루",
-    "kanji_note": "粉=가루 분(米+分); 곡식을 잘게 나눔",
+    "kanji_note": "粉=가루 분(米+分); 곡식을 잘게 나눔; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-196",
@@ -4362,10 +4362,10 @@ window.JLPT_WORDS = [
     "japanese": "肩",
     "reading": "かた",
     "meaning": "어깨",
-    "kanji_note": "肩=어깨 견(月 육달월); 몸 부위",
+    "kanji_note": "肩=어깨 견(月 육달월); 몸 부위; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-197",
@@ -4375,10 +4375,10 @@ window.JLPT_WORDS = [
     "japanese": "首",
     "reading": "くび",
     "meaning": "목",
-    "kanji_note": "首=머리 수; 머리와 몸을 잇는 부분",
+    "kanji_note": "首=머리 수; 머리와 몸을 잇는 부분; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-198",
@@ -4388,10 +4388,10 @@ window.JLPT_WORDS = [
     "japanese": "腰",
     "reading": "こし",
     "meaning": "허리",
-    "kanji_note": "腰=허리 요(月+要); 몸의 중심",
+    "kanji_note": "腰=허리 요(月+要); 몸의 중심; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-199",
@@ -4401,10 +4401,10 @@ window.JLPT_WORDS = [
     "japanese": "胸",
     "reading": "むね",
     "meaning": "가슴",
-    "kanji_note": "胸=가슴 흉(月); 몸 앞쪽 가슴",
+    "kanji_note": "胸=가슴 흉(月); 몸 앞쪽 가슴; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-200",
@@ -4414,10 +4414,10 @@ window.JLPT_WORDS = [
     "japanese": "息子",
     "reading": "むすこ",
     "meaning": "아들",
-    "kanji_note": "息=숨 식, 子=아들 자; 자식 중 남자아이",
+    "kanji_note": "息=숨 식, 子=아들 자; 자식 중 남자아이; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-201",
@@ -4426,11 +4426,11 @@ window.JLPT_WORDS = [
     "number": "201",
     "japanese": "枝",
     "reading": "えだ",
-    "meaning": "가지, 나뭇가지",
-    "kanji_note": "枝=가지 지(木+支); 나무에서 뻗은 부분",
+    "meaning": "나뭇가지",
+    "kanji_note": "枝=가지 지(木+支); 나무에서 뻗은 부분; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-202",
@@ -4453,10 +4453,10 @@ window.JLPT_WORDS = [
     "japanese": "居間",
     "reading": "いま",
     "meaning": "거실",
-    "kanji_note": "居=있을 거, 間=사이 간; 사람이 머무는 공간",
+    "kanji_note": "居=있을 거, 間=사이 간; 사람이 머무는 공간; [최근] 품사: 명사 · 今 いまと 발음 같음",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-204",
@@ -4479,10 +4479,10 @@ window.JLPT_WORDS = [
     "japanese": "常識",
     "reading": "じょうしき",
     "meaning": "상식",
-    "kanji_note": "常=항상 상, 識=알 식(言); 보통 알고 있는 지식",
+    "kanji_note": "常=항상 상, 識=알 식(言); 보통 알고 있는 지식; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-206",
@@ -4530,11 +4530,11 @@ window.JLPT_WORDS = [
     "number": "209",
     "japanese": "家庭",
     "reading": "かてい",
-    "meaning": "가정, 집안",
-    "kanji_note": "家=집 가(宀), 庭=뜰 정(广); 가족 생활 공간",
+    "meaning": "가정, household",
+    "kanji_note": "家=집 가(宀), 庭=뜰 정(广); 가족 생활 공간; [최근] 품사: 명사 · 仮定과 구분",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-210",
@@ -4544,10 +4544,10 @@ window.JLPT_WORDS = [
     "japanese": "仮定",
     "reading": "かてい",
     "meaning": "가정, assumption",
-    "kanji_note": "仮=거짓 가(亻), 定=정할 정(宀); 임시로 정한 조건",
+    "kanji_note": "仮=거짓 가(亻), 定=정할 정(宀); 임시로 정한 조건; [최근] 품사: 명사/する · 家庭과 구분",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-211",
@@ -4556,11 +4556,11 @@ window.JLPT_WORDS = [
     "number": "211",
     "japanese": "高価",
     "reading": "こうか",
-    "meaning": "고가, 비쌈",
-    "kanji_note": "高=높을 고, 価=값 가(亻); 값이 높음",
+    "meaning": "고가",
+    "kanji_note": "高=높을 고, 価=값 가(亻); 값이 높음; [최근] 품사: 名사/な형용사 · 効果와 구분",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-212",
@@ -4569,11 +4569,11 @@ window.JLPT_WORDS = [
     "number": "212",
     "japanese": "改札",
     "reading": "かいさつ",
-    "meaning": "개찰, 개찰구",
-    "kanji_note": "改=고칠 개(攵), 札=패 찰(木); 표를 처리하는 곳",
+    "meaning": "개찰",
+    "kanji_note": "改=고칠 개(攵), 札=패 찰(木); 표를 처리하는 곳; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-213",
@@ -4583,10 +4583,10 @@ window.JLPT_WORDS = [
     "japanese": "正解",
     "reading": "せいかい",
     "meaning": "정답",
-    "kanji_note": "正=바를 정, 解=풀 해(角+刀+牛); 올바르게 푼 답",
+    "kanji_note": "正=바를 정, 解=풀 해(角+刀+牛); 올바르게 푼 답; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-214",
@@ -4609,10 +4609,10 @@ window.JLPT_WORDS = [
     "japanese": "関心",
     "reading": "かんしん",
     "meaning": "관심",
-    "kanji_note": "関=관계할 관(門), 心=마음 심; 마음이 연결됨",
+    "kanji_note": "関=관계할 관(門), 心=마음 심; 마음이 연결됨; [최근] 품사: 명사 · 感心과 구분",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-216",
@@ -4622,10 +4622,10 @@ window.JLPT_WORDS = [
     "japanese": "感覚",
     "reading": "かんかく",
     "meaning": "감각",
-    "kanji_note": "感=느낄 감(心), 覚=깨달을 각(見); 느끼고 알아차림",
+    "kanji_note": "感=느낄 감(心), 覚=깨달을 각(見); 느끼고 알아차림; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-217",
@@ -4648,10 +4648,10 @@ window.JLPT_WORDS = [
     "japanese": "規則",
     "reading": "きそく",
     "meaning": "규칙",
-    "kanji_note": "規=법 규(見), 則=법칙 칙(刂); 정해진 기준",
+    "kanji_note": "規=법 규(見), 則=법칙 칙(刂); 정해진 기준; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-219",
@@ -4661,10 +4661,10 @@ window.JLPT_WORDS = [
     "japanese": "基本",
     "reading": "きほん",
     "meaning": "기본",
-    "kanji_note": "基=터 기(土), 本=근본 본(木); 기초와 뿌리",
+    "kanji_note": "基=터 기(土), 本=근본 본(木); 기초와 뿌리; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-220",
@@ -4687,10 +4687,10 @@ window.JLPT_WORDS = [
     "japanese": "結果",
     "reading": "けっか",
     "meaning": "결과",
-    "kanji_note": "結=맺을 결(糸), 果=열매 과; 일이 맺은 열매",
+    "kanji_note": "結=맺을 결(糸), 果=열매 과; 일이 맺은 열매; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-222",
@@ -4739,10 +4739,10 @@ window.JLPT_WORDS = [
     "japanese": "増減",
     "reading": "ぞうげん",
     "meaning": "증감",
-    "kanji_note": "増=더할 증(土), 減=줄 감(氵); 늘고 줄어듦",
+    "kanji_note": "増=더할 증(土), 減=줄 감(氵); 늘고 줄어듦; [최근] 품사: 명사/する",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-226",
@@ -4752,10 +4752,10 @@ window.JLPT_WORDS = [
     "japanese": "最初",
     "reading": "さいしょ",
     "meaning": "최초, 처음",
-    "kanji_note": "最=가장 최, 初=처음 초(衤+刀); 처음 시작",
+    "kanji_note": "最=가장 최, 初=처음 초(衤+刀); 처음 시작; [최근] 품사: 명사/부사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-227",
@@ -4765,10 +4765,10 @@ window.JLPT_WORDS = [
     "japanese": "雑誌",
     "reading": "ざっし",
     "meaning": "잡지",
-    "kanji_note": "雑=섞일 잡, 誌=기록할 지(言); 여러 내용의 기록",
+    "kanji_note": "雑=섞일 잡, 誌=기록할 지(言); 여러 내용의 기록; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-228",
@@ -4778,10 +4778,10 @@ window.JLPT_WORDS = [
     "japanese": "週刊誌",
     "reading": "しゅうかんし",
     "meaning": "주간지",
-    "kanji_note": "週=주일 주(辶), 刊=간행할 간(刂), 誌=기록 지",
+    "kanji_note": "週=주일 주(辶), 刊=간행할 간(刂), 誌=기록 지; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-229",
@@ -4817,10 +4817,10 @@ window.JLPT_WORDS = [
     "japanese": "感想",
     "reading": "かんそう",
     "meaning": "감상, 소감",
-    "kanji_note": "感=느낄 감(心), 想=생각 상(心); 느낀 생각",
+    "kanji_note": "感=느낄 감(心), 想=생각 상(心); 느낀 생각; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-232",
@@ -4829,11 +4829,11 @@ window.JLPT_WORDS = [
     "number": "232",
     "japanese": "欠点",
     "reading": "けってん",
-    "meaning": "결점, 단점",
-    "kanji_note": "欠=빠질 결, 点=점 점(灬); 부족한 점",
+    "meaning": "결점",
+    "kanji_note": "欠=빠질 결, 点=점 점(灬); 부족한 점; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-233",
@@ -4869,10 +4869,10 @@ window.JLPT_WORDS = [
     "japanese": "点数",
     "reading": "てんすう",
     "meaning": "점수",
-    "kanji_note": "点=점 점(灬), 数=셀 수; 점을 세어 낸 수",
+    "kanji_note": "点=점 점(灬), 数=셀 수; 점을 세어 낸 수; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-236",
@@ -4882,10 +4882,10 @@ window.JLPT_WORDS = [
     "japanese": "情報",
     "reading": "じょうほう",
     "meaning": "정보",
-    "kanji_note": "情=뜻 정(忄), 報=알릴 보; 상황을 알리는 내용",
+    "kanji_note": "情=뜻 정(忄), 報=알릴 보; 상황을 알리는 내용; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-237",
@@ -4895,10 +4895,10 @@ window.JLPT_WORDS = [
     "japanese": "規律",
     "reading": "きりつ",
     "meaning": "규율",
-    "kanji_note": "規=법 규(見), 律=법 률(彳); 행동 기준",
+    "kanji_note": "規=법 규(見), 律=법 률(彳); 행동 기준; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-238",
@@ -4908,10 +4908,10 @@ window.JLPT_WORDS = [
     "japanese": "疲れ",
     "reading": "つかれ",
     "meaning": "피로",
-    "kanji_note": "疲=피곤할 피(疒); 몸 상태가 힘듦",
+    "kanji_note": "疲=피곤할 피(疒); 몸 상태가 힘듦; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-239",
@@ -4934,10 +4934,10 @@ window.JLPT_WORDS = [
     "japanese": "健康",
     "reading": "けんこう",
     "meaning": "건강",
-    "kanji_note": "健=굳셀 건(亻), 康=편안할 강(广); 튼튼하고 편안함",
+    "kanji_note": "健=굳셀 건(亻), 康=편안할 강(广); 튼튼하고 편안함; [최근] 품사: 명사/な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-241",
@@ -4973,10 +4973,10 @@ window.JLPT_WORDS = [
     "japanese": "続き",
     "reading": "つづき",
     "meaning": "이어지는 부분, 다음 내용",
-    "kanji_note": "続=이을 속(糸); 끊기지 않고 이어짐",
+    "kanji_note": "続=이을 속(糸); 끊기지 않고 이어짐; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-244",
@@ -5011,11 +5011,11 @@ window.JLPT_WORDS = [
     "number": "246",
     "japanese": "複数",
     "reading": "ふくすう",
-    "meaning": "복수, 여러 개",
-    "kanji_note": "複=겹칠 복(衤), 数=셀 수; 여러 개",
+    "meaning": "복수, plural",
+    "kanji_note": "複=겹칠 복(衤), 数=셀 수; 여러 개; [최근] 품사: 명사 · 復讐과 구분",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-247",
@@ -5025,10 +5025,10 @@ window.JLPT_WORDS = [
     "japanese": "復讐",
     "reading": "ふくしゅう",
     "meaning": "복수, revenge",
-    "kanji_note": "復=돌아올 복(彳), 讐=원수 수(言); 원한을 갚음",
+    "kanji_note": "復=돌아올 복(彳), 讐=원수 수(言); 원한을 갚음; [최근] 품사: 명사/する · 複数과 구분",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-248",
@@ -5051,10 +5051,10 @@ window.JLPT_WORDS = [
     "japanese": "資源",
     "reading": "しげん",
     "meaning": "자원",
-    "kanji_note": "資=재물 자(貝), 源=근원 원(氵); 가치의 근원",
+    "kanji_note": "資=재물 자(貝), 源=근원 원(氵); 가치의 근원; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-250",
@@ -5116,10 +5116,10 @@ window.JLPT_WORDS = [
     "japanese": "区役所",
     "reading": "くやくしょ",
     "meaning": "구청",
-    "kanji_note": "区=구역 구, 役=역할 역(彳), 所=곳 소; 구의 공무 장소",
+    "kanji_note": "区=구역 구, 役=역할 역(彳), 所=곳 소; 구의 공무 장소; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-255",
@@ -5129,10 +5129,10 @@ window.JLPT_WORDS = [
     "japanese": "壁",
     "reading": "かべ",
     "meaning": "벽",
-    "kanji_note": "壁=벽 벽(土); 재료를 쌓아 막은 구조",
+    "kanji_note": "壁=벽 벽(土); 재료를 쌓아 막은 구조; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-256",
@@ -5142,10 +5142,10 @@ window.JLPT_WORDS = [
     "japanese": "経済",
     "reading": "けいざい",
     "meaning": "경제",
-    "kanji_note": "経=지날 경(糸), 済=건널 제(氵); 사회적 흐름과 처리",
+    "kanji_note": "経=지날 경(糸), 済=건널 제(氵); 사회적 흐름과 처리; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-257",
@@ -5168,10 +5168,10 @@ window.JLPT_WORDS = [
     "japanese": "ごめんください",
     "reading": "ごめんください",
     "meaning": "계세요?, 실례합니다",
-    "kanji_note": "御免ください; 御=공손함, 免=허락/면함; 실례를 구함",
+    "kanji_note": "御免ください; 御=공손함, 免=허락/면함; 실례를 구함; [최근] 품사: 표현",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-259",
@@ -5181,10 +5181,10 @@ window.JLPT_WORDS = [
     "japanese": "ぴったり",
     "reading": "ぴったり",
     "meaning": "딱, 꼭 맞게",
-    "kanji_note": "의성/의태어; 크기·시간·조건이 딱 맞음",
+    "kanji_note": "의성/의태어; 크기·시간·조건이 딱 맞음; [최근] 품사: 부사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-260",
@@ -5193,11 +5193,11 @@ window.JLPT_WORDS = [
     "number": "260",
     "japanese": "どんぴしゃり",
     "reading": "どんぴしゃり",
-    "meaning": "정확히, 딱 들어맞게",
-    "kanji_note": "구어체 표현; 예상/답이 정확히 적중",
+    "meaning": "정확히 들어맞게",
+    "kanji_note": "구어체 표현; 예상/답이 정확히 적중; [최근] 품사: 부사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-261",
@@ -5207,10 +5207,10 @@ window.JLPT_WORDS = [
     "japanese": "どっぷり",
     "reading": "どっぷり",
     "meaning": "푹, 흠뻑",
-    "kanji_note": "깊게 빠지거나 잠긴 느낌",
+    "kanji_note": "깊게 빠지거나 잠긴 느낌; [최근] 품사: 부사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-262",
@@ -5219,11 +5219,11 @@ window.JLPT_WORDS = [
     "number": "262",
     "japanese": "健康的だ",
     "reading": "けんこうてきだ",
-    "meaning": "건강한, healthy",
-    "kanji_note": "健康=건강, 的=~적; 건강한 성질",
+    "meaning": "건강한",
+    "kanji_note": "健康=건강, 的=~적; 건강한 성질; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-263",
@@ -5233,10 +5233,10 @@ window.JLPT_WORDS = [
     "japanese": "勧告的だ",
     "reading": "かんこくてきだ",
     "meaning": "권고적인",
-    "kanji_note": "勧=권할 권, 告=알릴 고, 的=~적; 권해 알림",
+    "kanji_note": "勧=권할 권, 告=알릴 고, 的=~적; 권해 알림; [최근] 품사: な형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-264",
@@ -5245,11 +5245,11 @@ window.JLPT_WORDS = [
     "number": "264",
     "japanese": "程度",
     "reading": "ていど",
-    "meaning": "정도, 수준",
-    "kanji_note": "程=한도 정(禾), 度=법도 도; 어느 만큼의 범위",
+    "meaning": "정도",
+    "kanji_note": "程=한도 정(禾), 度=법도 도; 어느 만큼의 범위; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-265",
@@ -5258,11 +5258,11 @@ window.JLPT_WORDS = [
     "number": "265",
     "japanese": "本当に",
     "reading": "ほんとうに",
-    "meaning": "진짜로, 정말로",
-    "kanji_note": "本=근본 본(木), 当=마땅할 당; 사실에 맞음",
+    "meaning": "진짜로",
+    "kanji_note": "本=근본 본(木), 当=마땅할 당; 사실에 맞음; [최근] 품사: 부사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-266",
@@ -5272,10 +5272,10 @@ window.JLPT_WORDS = [
     "japanese": "季節",
     "reading": "きせつ",
     "meaning": "계절",
-    "kanji_note": "季=계절 계(禾), 節=마디 절(竹); 시간의 마디",
+    "kanji_note": "季=계절 계(禾), 節=마디 절(竹); 시간의 마디; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-267",
@@ -5285,10 +5285,10 @@ window.JLPT_WORDS = [
     "japanese": "登録",
     "reading": "とうろく",
     "meaning": "등록",
-    "kanji_note": "登=오를 등, 録=기록할 록(金); 명단에 올려 기록",
+    "kanji_note": "登=오를 등, 録=기록할 록(金); 명단에 올려 기록; [최근] 품사: 명사/する",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-268",
@@ -5298,10 +5298,10 @@ window.JLPT_WORDS = [
     "japanese": "準備",
     "reading": "じゅんび",
     "meaning": "준비",
-    "kanji_note": "準=준할 준(氵), 備=갖출 비(亻); 필요한 것을 갖춤",
+    "kanji_note": "準=준할 준(氵), 備=갖출 비(亻); 필요한 것을 갖춤; [최근] 품사: 명사/する",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-269",
@@ -5311,10 +5311,10 @@ window.JLPT_WORDS = [
     "japanese": "深い",
     "reading": "ふかい",
     "meaning": "깊다",
-    "kanji_note": "深=깊을 심(氵); 물 깊이가 깊음",
+    "kanji_note": "深=깊을 심(氵); 물 깊이가 깊음; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-270",
@@ -5324,10 +5324,10 @@ window.JLPT_WORDS = [
     "japanese": "泥棒",
     "reading": "どろぼう",
     "meaning": "도둑",
-    "kanji_note": "泥=진흙 니(氵), 棒=몽둥이 봉(木); 통째로 도둑 암기",
+    "kanji_note": "泥=진흙 니(氵), 棒=몽둥이 봉(木); 통째로 도둑 암기; [최근] 품사: 명사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-271",
@@ -5336,11 +5336,11 @@ window.JLPT_WORDS = [
     "number": "271",
     "japanese": "面白い",
     "reading": "おもしろい",
-    "meaning": "재미있다, 웃기다",
-    "kanji_note": "面=낯 면, 白=흰 백; 눈앞이 밝아지는 흥미",
+    "meaning": "재미있다, 흥미롭다, 웃기다",
+    "kanji_note": "面=낯 면, 白=흰 백; 눈앞이 밝아지는 흥미; [최근] 품사: い형용사",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-272",
@@ -5350,10 +5350,10 @@ window.JLPT_WORDS = [
     "japanese": "掃除",
     "reading": "そうじ",
     "meaning": "청소",
-    "kanji_note": "掃=쓸 소(扌), 除=제거할 제(阝); 쓸고 제거함",
+    "kanji_note": "掃=쓸 소(扌), 除=제거할 제(阝); 쓸고 제거함; [최근] 품사: 명사/する · 동사 파일에도 掃除する 포함",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-273",
@@ -5375,11 +5375,11 @@ window.JLPT_WORDS = [
     "number": "274",
     "japanese": "飴",
     "reading": "あめ",
-    "meaning": "사탕, 엿",
-    "kanji_note": "飴=엿 이(食); 먹는 달콤한 것",
+    "meaning": "사탕",
+    "kanji_note": "飴=엿 이(食); 먹는 달콤한 것; [최근] 품사: 명사 · 雨와 구분",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-275",
@@ -5389,10 +5389,10 @@ window.JLPT_WORDS = [
     "japanese": "ちょうどいい",
     "reading": "ちょうどいい",
     "meaning": "딱 좋다",
-    "kanji_note": "丁度=정확히/딱, いい=좋다; 정도가 맞음",
+    "kanji_note": "丁度=정확히/딱, いい=좋다; 정도가 맞음; [최근] 품사: 표현",
     "example": "",
     "example_ko": "",
-    "source": "JLPT_after_MD_vocab_collection_7_1.md"
+    "source": "JLPT_after_MD_vocab_collection_7_1.md; JLPT_after_recent_md_nonverbs.md"
   },
   {
     "id": "EXTRA-276",
@@ -5445,5 +5445,1045 @@ window.JLPT_WORDS = [
     "example": "",
     "example_ko": "",
     "source": "JLPT_after_MD_vocab_collection_7_1.md"
+  },
+  {
+    "id": "EXTRA-280",
+    "level": "추가",
+    "deck": "6",
+    "number": "280",
+    "japanese": "事前",
+    "reading": "じぜん",
+    "meaning": "사전, beforehand",
+    "kanji_note": "[최근] 품사: 명사 · 自然 しぜん과 구분",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-281",
+    "level": "추가",
+    "deck": "6",
+    "number": "281",
+    "japanese": "善戦",
+    "reading": "ぜんせん",
+    "meaning": "잘 싸움, 선전",
+    "kanji_note": "[최근] 품사: 명사 · 宣伝 せんでん과 구분",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-282",
+    "level": "추가",
+    "deck": "6",
+    "number": "282",
+    "japanese": "暑い",
+    "reading": "あつい",
+    "meaning": "덥다",
+    "kanji_note": "[최근] 품사: い형용사 · 厚い/熱い와 구분",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-283",
+    "level": "추가",
+    "deck": "6",
+    "number": "283",
+    "japanese": "熱い",
+    "reading": "あつい",
+    "meaning": "뜨겁다",
+    "kanji_note": "[최근] 품사: い형용사 · 厚い/暑い와 구분",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-284",
+    "level": "추가",
+    "deck": "6",
+    "number": "284",
+    "japanese": "血液型",
+    "reading": "けつえきがた",
+    "meaning": "혈액형",
+    "kanji_note": "[최근] 품사: 명사 · 連濁: かた→がた",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-285",
+    "level": "추가",
+    "deck": "6",
+    "number": "285",
+    "japanese": "今",
+    "reading": "いま",
+    "meaning": "지금",
+    "kanji_note": "[최근] 품사: 명사/부사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-286",
+    "level": "추가",
+    "deck": "6",
+    "number": "286",
+    "japanese": "効果",
+    "reading": "こうか",
+    "meaning": "효과",
+    "kanji_note": "[최근] 품사: 명사 · 高価와 구분",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-287",
+    "level": "추가",
+    "deck": "6",
+    "number": "287",
+    "japanese": "上限",
+    "reading": "じょうげん",
+    "meaning": "상한",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-288",
+    "level": "추가",
+    "deck": "6",
+    "number": "288",
+    "japanese": "市役所",
+    "reading": "しやくしょ",
+    "meaning": "시청",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-289",
+    "level": "추가",
+    "deck": "6",
+    "number": "289",
+    "japanese": "役所",
+    "reading": "やくしょ",
+    "meaning": "관공서",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-290",
+    "level": "추가",
+    "deck": "6",
+    "number": "290",
+    "japanese": "ごめんなさい",
+    "reading": "ごめんなさい",
+    "meaning": "미안합니다",
+    "kanji_note": "[최근] 품사: 표현",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-291",
+    "level": "추가",
+    "deck": "6",
+    "number": "291",
+    "japanese": "雨",
+    "reading": "あめ",
+    "meaning": "비",
+    "kanji_note": "[최근] 품사: 명사 · 飴와 구분",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-292",
+    "level": "추가",
+    "deck": "6",
+    "number": "292",
+    "japanese": "性格",
+    "reading": "せいかく",
+    "meaning": "성격",
+    "kanji_note": "[최근] 품사: 명사 · 正確과 구분",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-293",
+    "level": "추가",
+    "deck": "6",
+    "number": "293",
+    "japanese": "正確",
+    "reading": "せいかく",
+    "meaning": "정확함",
+    "kanji_note": "[최근] 품사: 명사/な형용사 · 性格과 구분",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-294",
+    "level": "추가",
+    "deck": "6",
+    "number": "294",
+    "japanese": "暇だ",
+    "reading": "ひまだ",
+    "meaning": "한가하다",
+    "kanji_note": "[최근] 품사: な형용사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-295",
+    "level": "추가",
+    "deck": "6",
+    "number": "295",
+    "japanese": "不思議だ",
+    "reading": "ふしぎだ",
+    "meaning": "이상하다, 신기하다",
+    "kanji_note": "[최근] 품사: な형용사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-296",
+    "level": "추가",
+    "deck": "6",
+    "number": "296",
+    "japanese": "退屈だ",
+    "reading": "たいくつだ",
+    "meaning": "심심하다, 지루하다",
+    "kanji_note": "[최근] 품사: な형용사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-297",
+    "level": "추가",
+    "deck": "6",
+    "number": "297",
+    "japanese": "詳しい",
+    "reading": "くわしい",
+    "meaning": "잘 알다, 자세하다",
+    "kanji_note": "[최근] 품사: い형용사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-298",
+    "level": "추가",
+    "deck": "6",
+    "number": "298",
+    "japanese": "苦手だ",
+    "reading": "にがてだ",
+    "meaning": "다루기 어렵다, 서툴다",
+    "kanji_note": "[최근] 품사: な형용사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-299",
+    "level": "추가",
+    "deck": "6",
+    "number": "299",
+    "japanese": "険しい",
+    "reading": "けわしい",
+    "meaning": "험하다",
+    "kanji_note": "[최근] 품사: い형용사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-300",
+    "level": "추가",
+    "deck": "6",
+    "number": "300",
+    "japanese": "小麦粉",
+    "reading": "こむぎこ",
+    "meaning": "밀가루",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-301",
+    "level": "추가",
+    "deck": "7",
+    "number": "301",
+    "japanese": "派手だ",
+    "reading": "はでだ",
+    "meaning": "화려하다",
+    "kanji_note": "[최근] 품사: な형용사 · 전에 물어본 단어",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-302",
+    "level": "추가",
+    "deck": "7",
+    "number": "302",
+    "japanese": "目立っている",
+    "reading": "めだっている",
+    "meaning": "눈에 띄고 있다",
+    "kanji_note": "[최근] 품사: 표현",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-303",
+    "level": "추가",
+    "deck": "7",
+    "number": "303",
+    "japanese": "故郷",
+    "reading": "ふるさと",
+    "meaning": "고향",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-304",
+    "level": "추가",
+    "deck": "7",
+    "number": "304",
+    "japanese": "じっとする",
+    "reading": "じっとする",
+    "meaning": "가만히 있다",
+    "kanji_note": "[최근] 품사: 표현/する",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-305",
+    "level": "추가",
+    "deck": "7",
+    "number": "305",
+    "japanese": "格好",
+    "reading": "かっこう",
+    "meaning": "모습, 모양, 차림새",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-306",
+    "level": "추가",
+    "deck": "7",
+    "number": "306",
+    "japanese": "状態",
+    "reading": "じょうたい",
+    "meaning": "상태",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-307",
+    "level": "추가",
+    "deck": "7",
+    "number": "307",
+    "japanese": "状況",
+    "reading": "じょうきょう",
+    "meaning": "상황",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-308",
+    "level": "추가",
+    "deck": "7",
+    "number": "308",
+    "japanese": "貧しい",
+    "reading": "まずしい",
+    "meaning": "가난하다",
+    "kanji_note": "[최근] 품사: い형용사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-309",
+    "level": "추가",
+    "deck": "7",
+    "number": "309",
+    "japanese": "片付け",
+    "reading": "かたづけ",
+    "meaning": "정리, 치우기",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-310",
+    "level": "추가",
+    "deck": "7",
+    "number": "310",
+    "japanese": "おかしい／可笑しい",
+    "reading": "おかしい",
+    "meaning": "이상하다, 웃기다",
+    "kanji_note": "[최근] 품사: い형용사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-311",
+    "level": "추가",
+    "deck": "7",
+    "number": "311",
+    "japanese": "汗",
+    "reading": "あせ",
+    "meaning": "땀",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-312",
+    "level": "추가",
+    "deck": "7",
+    "number": "312",
+    "japanese": "〜とは限らない",
+    "reading": "〜とはかぎらない",
+    "meaning": "꼭 ~인 것은 아니다",
+    "kanji_note": "[최근] 품사: 표현",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-313",
+    "level": "추가",
+    "deck": "7",
+    "number": "313",
+    "japanese": "邪魔するな",
+    "reading": "じゃまするな",
+    "meaning": "방해하지 마",
+    "kanji_note": "[최근] 품사: 표현",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-314",
+    "level": "추가",
+    "deck": "7",
+    "number": "314",
+    "japanese": "邪魔しないでください",
+    "reading": "じゃましないでください",
+    "meaning": "방해하지 말아 주세요",
+    "kanji_note": "[최근] 품사: 표현",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-315",
+    "level": "추가",
+    "deck": "7",
+    "number": "315",
+    "japanese": "口",
+    "reading": "くち",
+    "meaning": "입",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-316",
+    "level": "추가",
+    "deck": "7",
+    "number": "316",
+    "japanese": "草",
+    "reading": "くさ",
+    "meaning": "풀",
+    "kanji_note": "[최근] 품사: 명사 · 腐る와 구분",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-317",
+    "level": "추가",
+    "deck": "7",
+    "number": "317",
+    "japanese": "糊",
+    "reading": "のり",
+    "meaning": "풀, 접착제",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-318",
+    "level": "추가",
+    "deck": "7",
+    "number": "318",
+    "japanese": "いただきます",
+    "reading": "いただきます",
+    "meaning": "잘 먹겠습니다",
+    "kanji_note": "[최근] 품사: 표현",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-319",
+    "level": "추가",
+    "deck": "7",
+    "number": "319",
+    "japanese": "ごちそうさまでした",
+    "reading": "ごちそうさまでした",
+    "meaning": "잘 먹었습니다",
+    "kanji_note": "[최근] 품사: 표현",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-320",
+    "level": "추가",
+    "deck": "7",
+    "number": "320",
+    "japanese": "醤油",
+    "reading": "しょうゆ",
+    "meaning": "간장",
+    "kanji_note": "[최근] 품사: 명사 · shouu 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-321",
+    "level": "추가",
+    "deck": "7",
+    "number": "321",
+    "japanese": "簡単だ",
+    "reading": "かんたんだ",
+    "meaning": "간단하다, 쉽다",
+    "kanji_note": "[최근] 품사: な형용사 · 전에 물어본 단어",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-322",
+    "level": "추가",
+    "deck": "7",
+    "number": "322",
+    "japanese": "背広",
+    "reading": "せびろ",
+    "meaning": "신사복, 정장",
+    "kanji_note": "[최근] 품사: 명사 · sebiru 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-323",
+    "level": "추가",
+    "deck": "7",
+    "number": "323",
+    "japanese": "咳",
+    "reading": "せき",
+    "meaning": "기침",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-324",
+    "level": "추가",
+    "deck": "7",
+    "number": "324",
+    "japanese": "底",
+    "reading": "そこ",
+    "meaning": "바닥, 밑",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-325",
+    "level": "추가",
+    "deck": "7",
+    "number": "325",
+    "japanese": "中古",
+    "reading": "ちゅうこ",
+    "meaning": "중고",
+    "kanji_note": "[최근] 품사: 명사/な형용사 · chugo 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-326",
+    "level": "추가",
+    "deck": "7",
+    "number": "326",
+    "japanese": "通知",
+    "reading": "つうち",
+    "meaning": "통지, 알림",
+    "kanji_note": "[최근] 품사: 명사/する · chuchi 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-327",
+    "level": "추가",
+    "deck": "7",
+    "number": "327",
+    "japanese": "動作",
+    "reading": "どうさ",
+    "meaning": "동작",
+    "kanji_note": "[최근] 품사: 명사/する",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-328",
+    "level": "추가",
+    "deck": "7",
+    "number": "328",
+    "japanese": "登場",
+    "reading": "とうじょう",
+    "meaning": "등장",
+    "kanji_note": "[최근] 품사: 명사/する",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-329",
+    "level": "추가",
+    "deck": "7",
+    "number": "329",
+    "japanese": "泥",
+    "reading": "どろ",
+    "meaning": "진흙",
+    "kanji_note": "[최근] 품사: 명사 · dori 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-330",
+    "level": "추가",
+    "deck": "7",
+    "number": "330",
+    "japanese": "中",
+    "reading": "なか",
+    "meaning": "안, 가운데, 사이",
+    "kanji_note": "[최근] 품사: 명사 · A와 B 사이는 間 あいだ가 자연스러움",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-331",
+    "level": "추가",
+    "deck": "7",
+    "number": "331",
+    "japanese": "発展",
+    "reading": "はってん",
+    "meaning": "발전",
+    "kanji_note": "[최근] 품사: 명사/する",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-332",
+    "level": "추가",
+    "deck": "7",
+    "number": "332",
+    "japanese": "平気",
+    "reading": "へいき",
+    "meaning": "태연함, 괜찮음",
+    "kanji_note": "[최근] 품사: な형용사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-333",
+    "level": "추가",
+    "deck": "7",
+    "number": "333",
+    "japanese": "目標",
+    "reading": "もくひょう",
+    "meaning": "목표",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-334",
+    "level": "추가",
+    "deck": "7",
+    "number": "334",
+    "japanese": "文句",
+    "reading": "もんく",
+    "meaning": "불평, 문구",
+    "kanji_note": "[최근] 품사: 명사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-335",
+    "level": "추가",
+    "deck": "7",
+    "number": "335",
+    "japanese": "翌日",
+    "reading": "よくじつ",
+    "meaning": "다음날, 익일",
+    "kanji_note": "[최근] 품사: 명사/부사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-336",
+    "level": "추가",
+    "deck": "7",
+    "number": "336",
+    "japanese": "きつい",
+    "reading": "きつい",
+    "meaning": "꼭 끼다, 심하다, 힘들다",
+    "kanji_note": "[최근] 품사: い형용사 · 히라가나 중심",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-337",
+    "level": "추가",
+    "deck": "7",
+    "number": "337",
+    "japanese": "ぬるい／温い",
+    "reading": "ぬるい",
+    "meaning": "미지근하다",
+    "kanji_note": "[최근] 품사: い형용사 · merui 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-338",
+    "level": "추가",
+    "deck": "7",
+    "number": "338",
+    "japanese": "ゆるい",
+    "reading": "ゆるい",
+    "meaning": "느슨하다, 헐겁다",
+    "kanji_note": "[최근] 품사: い형용사 · yourui 아님, 히라가나 중심",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-339",
+    "level": "추가",
+    "deck": "7",
+    "number": "339",
+    "japanese": "盛んだ",
+    "reading": "さかんだ",
+    "meaning": "활발하다, 성하다",
+    "kanji_note": "[최근] 품사: な형용사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-340",
+    "level": "추가",
+    "deck": "7",
+    "number": "340",
+    "japanese": "清潔だ",
+    "reading": "せいけつだ",
+    "meaning": "청결하다",
+    "kanji_note": "[최근] 품사: な형용사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-341",
+    "level": "추가",
+    "deck": "7",
+    "number": "341",
+    "japanese": "そっくりだ",
+    "reading": "そっくりだ",
+    "meaning": "꼭 닮았다, 똑같다",
+    "kanji_note": "[최근] 품사: な형용사 · sotkuri 아님, 히라가나 중심",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-342",
+    "level": "추가",
+    "deck": "7",
+    "number": "342",
+    "japanese": "複雑だ",
+    "reading": "ふくざつだ",
+    "meaning": "복잡하다",
+    "kanji_note": "[최근] 품사: な형용사 · hukujatsu 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-343",
+    "level": "추가",
+    "deck": "7",
+    "number": "343",
+    "japanese": "無駄だ",
+    "reading": "むだだ",
+    "meaning": "헛되다, 쓸데없다, 낭비다",
+    "kanji_note": "[최근] 품사: な형용사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-344",
+    "level": "추가",
+    "deck": "7",
+    "number": "344",
+    "japanese": "いちおう／一応",
+    "reading": "いちおう",
+    "meaning": "일단, 우선, 혹시 모르니",
+    "kanji_note": "[최근] 품사: 부사 · ichou 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-345",
+    "level": "추가",
+    "deck": "7",
+    "number": "345",
+    "japanese": "一度に",
+    "reading": "いちどに",
+    "meaning": "한 번에",
+    "kanji_note": "[최근] 품사: 부사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-346",
+    "level": "추가",
+    "deck": "7",
+    "number": "346",
+    "japanese": "うっかり",
+    "reading": "うっかり",
+    "meaning": "깜빡, 무심코, 실수로",
+    "kanji_note": "[최근] 품사: 부사 · utkari 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-347",
+    "level": "추가",
+    "deck": "7",
+    "number": "347",
+    "japanese": "うろうろ",
+    "reading": "うろうろ",
+    "meaning": "우왕좌왕, 어슬렁어슬렁",
+    "kanji_note": "[최근] 품사: 부사 · uruuru 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-348",
+    "level": "추가",
+    "deck": "7",
+    "number": "348",
+    "japanese": "お互いに",
+    "reading": "おたがいに",
+    "meaning": "서로",
+    "kanji_note": "[최근] 품사: 부사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-349",
+    "level": "추가",
+    "deck": "7",
+    "number": "349",
+    "japanese": "きちんと",
+    "reading": "きちんと",
+    "meaning": "정확히, 제대로, 단정하게",
+    "kanji_note": "[최근] 품사: 부사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-350",
+    "level": "추가",
+    "deck": "7",
+    "number": "350",
+    "japanese": "ぐっすり",
+    "reading": "ぐっすり",
+    "meaning": "푹, 깊이",
+    "kanji_note": "[최근] 품사: 부사 · gutsuri 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-351",
+    "level": "추가",
+    "deck": "8",
+    "number": "351",
+    "japanese": "早速",
+    "reading": "さっそく",
+    "meaning": "즉시, 바로",
+    "kanji_note": "[최근] 품사: 부사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-352",
+    "level": "추가",
+    "deck": "8",
+    "number": "352",
+    "japanese": "しっかり",
+    "reading": "しっかり",
+    "meaning": "확실히, 단단히, 제대로",
+    "kanji_note": "[최근] 품사: 부사 · sitkari 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-353",
+    "level": "추가",
+    "deck": "8",
+    "number": "353",
+    "japanese": "随分",
+    "reading": "ずいぶん",
+    "meaning": "상당히, 꽤, 대단히",
+    "kanji_note": "[최근] 품사: 부사 · jiibun 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-354",
+    "level": "추가",
+    "deck": "8",
+    "number": "354",
+    "japanese": "ずきずき",
+    "reading": "ずきずき",
+    "meaning": "욱신욱신",
+    "kanji_note": "[최근] 품사: 부사 · zugizugi 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-355",
+    "level": "추가",
+    "deck": "8",
+    "number": "355",
+    "japanese": "絶対に",
+    "reading": "ぜったいに",
+    "meaning": "절대로",
+    "kanji_note": "[최근] 품사: 부사 · 絶対는 전에 물어본 단어",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-356",
+    "level": "추가",
+    "deck": "8",
+    "number": "356",
+    "japanese": "突然",
+    "reading": "とつぜん",
+    "meaning": "돌연, 갑자기",
+    "kanji_note": "[최근] 품사: 부사 · tozgeni 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-357",
+    "level": "추가",
+    "deck": "8",
+    "number": "357",
+    "japanese": "はっきり",
+    "reading": "はっきり",
+    "meaning": "명확히, 뚜렷이",
+    "kanji_note": "[최근] 품사: 부사 · hatkiri 아님",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-358",
+    "level": "추가",
+    "deck": "8",
+    "number": "358",
+    "japanese": "無理に",
+    "reading": "むりに",
+    "meaning": "무리하게, 억지로",
+    "kanji_note": "[최근] 품사: 부사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
+  },
+  {
+    "id": "EXTRA-359",
+    "level": "추가",
+    "deck": "8",
+    "number": "359",
+    "japanese": "ぺらぺら",
+    "reading": "ぺらぺら",
+    "meaning": "술술, 유창하게",
+    "kanji_note": "[최근] 품사: 부사",
+    "example": "",
+    "example_ko": "",
+    "source": "JLPT_after_recent_md_nonverbs.md"
   }
 ];

@@ -340,6 +340,91 @@ h1 {
   gap: 10px;
 }
 
+.special-chapter-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(220px, 0.45fr);
+  gap: 22px;
+  align-items: center;
+  margin-bottom: 22px;
+  padding: 22px;
+  border: 2px solid rgba(198, 83, 50, 0.45);
+  border-radius: 10px;
+  background: linear-gradient(135deg, #fff7f1 0%, #ffffff 70%);
+  box-shadow: var(--shadow);
+}
+
+.special-chapter-card.running {
+  border-color: var(--info);
+  background: linear-gradient(135deg, var(--info-soft) 0%, #ffffff 70%);
+}
+
+.special-chapter-card.completed {
+  border-color: var(--good);
+  background: linear-gradient(135deg, var(--good-soft) 0%, #ffffff 70%);
+}
+
+.special-chapter-card.running .status-pill {
+  color: #fff;
+  background: var(--info);
+}
+
+.special-chapter-card.completed .status-pill {
+  color: #fff;
+  background: var(--good);
+}
+
+.special-chapter-copy {
+  display: grid;
+  gap: 12px;
+}
+
+.special-chapter-copy h2,
+.standard-deck-heading h2 {
+  margin: 0;
+  font-size: 26px;
+}
+
+.special-chapter-copy p:not(.eyebrow),
+.standard-deck-heading > p:last-child {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.special-chapter-stats {
+  min-width: 92px;
+  padding: 14px;
+  border-left: 1px solid rgba(198, 83, 50, 0.25);
+  text-align: center;
+}
+
+.special-chapter-stats strong,
+.special-chapter-stats span {
+  display: block;
+}
+
+.special-chapter-stats strong {
+  color: var(--accent-dark);
+  font-size: 34px;
+}
+
+.special-chapter-stats span {
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.special-chapter-actions {
+  grid-template-columns: 1fr;
+}
+
+.standard-deck-heading {
+  display: grid;
+  gap: 5px;
+  margin: 0 0 12px;
+}
+
 .stage-card {
   box-shadow: none;
 }
@@ -1071,6 +1156,21 @@ h1 {
   .level-grid,
   .stage-grid {
     grid-template-columns: 1fr;
+  }
+
+  .special-chapter-card {
+    grid-template-columns: 1fr auto;
+    gap: 14px;
+    padding: 17px;
+  }
+
+  .special-chapter-actions {
+    grid-column: 1 / -1;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .special-chapter-stats {
+    padding: 8px 0 8px 12px;
   }
 
   .review-strip,

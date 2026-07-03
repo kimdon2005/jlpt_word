@@ -1,0 +1,140 @@
+﻿id,level,deck,number,japanese,reading,meaning,kanji_note,example,example_ko,source,chapter,word_class,memo
+VERB-001,동사,1,1,疑う,うたがう,의심하다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-002,동사,1,2,拾う,ひろう,줍다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-003,동사,1,3,払う,はらう,지불하다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-004,동사,1,4,怖がる,こわがる,무서워하다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-005,동사,1,5,回す,まわす,돌리다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-006,동사,1,6,汚す,よごす,더럽히다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-007,동사,1,7,転ぶ,ころぶ,넘어지다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-008,동사,1,8,運ぶ,はこぶ,옮기다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-009,동사,1,9,結ぶ,むすぶ,"묶다, 맺다",[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-010,동사,1,10,編む,あむ,"뜨다, 엮다, 짜다",[최근] 품사: 五段 · 전에 물어본 단어,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,전에 물어본 단어
+VERB-011,동사,1,11,包む,つつむ,"싸다, 포장하다",[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-012,동사,1,12,組む,くむ,"짜다, 조립하다, 팀을 이루다",[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-013,동사,1,13,配る,くばる,나누어 주다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-014,동사,1,14,叱る,しかる,야단치다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-015,동사,1,15,黙る,だまる,"말하지 않다, 침묵하다",[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-016,동사,1,16,割る,わる,"깨다, 나누다",[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-017,동사,1,17,覚える,おぼえる,"기억하다, 외우다",[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-018,동사,1,18,換える／替える,かえる,"교환하다, 바꾸다",[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-019,동사,1,19,加える,くわえる,"더하다, 추가하다",[최근] 품사: 一段 · 전에 물어본 단어,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,전에 물어본 단어
+VERB-020,동사,1,20,伝える,つたえる,전하다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-021,동사,1,21,冷える,ひえる,차가워지다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-022,동사,1,22,燃える,もえる,타다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-023,동사,1,23,預ける,あずける,맡기다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-024,동사,1,24,助ける,たすける,"돕다, 구조하다",[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-025,동사,1,25,比べる,くらべる,비교하다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-026,동사,1,26,冷める,さめる,식다,[최근] 품사: 一段 · 覚める와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,覚める와 구분
+VERB-027,동사,1,27,覚める,さめる,"깨다, 정신이 들다",[최근] 품사: 一段 · 冷める와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,冷める와 구분
+VERB-028,동사,1,28,現れる,あらわれる,나타나다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-029,동사,1,29,折れる,おれる,부러지다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-030,동사,1,30,倒れる,たおれる,쓰러지다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-031,동사,1,31,泊まる,とまる,묵다,[최근] 품사: 五段 · 止まる/留まる와 발음 같음,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,止まる/留まる와 발음 같음
+VERB-032,동사,1,32,止まる,とまる,멈추다,[최근] 품사: 五段 · 泊まる/留まる와 발음 같음,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,泊まる/留まる와 발음 같음
+VERB-033,동사,1,33,留まる,とまる,머무르다,[최근] 품사: 五段 · 泊まる/止まる와 발음 같음,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,泊まる/止まる와 발음 같음
+VERB-034,동사,1,34,確かめる,たしかめる,확인하다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-035,동사,1,35,裏切る,うらぎる,배신하다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-036,동사,1,36,伸びる,のびる,"길어지다, 자라다",[최근] 품사: 一段 · 延びる와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,延びる와 구분
+VERB-037,동사,1,37,延びる,のびる,기간이 연장되다,[최근] 품사: 一段 · 伸びる와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,伸びる와 구분
+VERB-038,동사,1,38,受かる,うかる,합격하다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-039,동사,1,39,受ける,うける,"받다, 시험을 보다",[최근] 품사: 一段 · 試験を受ける,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,試験を受ける
+VERB-040,동사,1,40,落ちる,おちる,떨어지다,[최근] 품사: 一段 · 試験に落ちる,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,試験に落ちる
+VERB-041,동사,1,41,経つ,たつ,시간이 지나다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-042,동사,1,42,泣く,なく,울다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-043,동사,1,43,磨く,みがく,"닦다, 갈다",[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-044,동사,1,44,祈る,いのる,"기도하다, 빌다",[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-045,동사,1,45,謝る,あやまる,사과하다,[최근] 품사: 五段 · 誤る와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,誤る와 구분
+VERB-046,동사,1,46,誤る,あやまる,"실수하다, 잘못하다",[최근] 품사: 五段 · 謝る와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,謝る와 구분
+VERB-047,동사,1,47,壊れる,こわれる,"부서지다, 고장나다",[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-048,동사,1,48,壊す,こわす,부수다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-049,동사,1,49,繰り返す,くりかえす,반복하다,[최근] 품사: 五段 · 전에 물어본 단어,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,전에 물어본 단어
+VERB-050,동사,1,50,名付ける,なづける,이름 붙이다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-051,동사,1,51,取り消す,とりけす,취소하다,[최근] 품사: 五段 · 전에 물어본 단어,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,전에 물어본 단어
+VERB-052,동사,1,52,育てる,そだてる,키우다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-053,동사,1,53,飼う,かう,동물을 키우다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-054,동사,1,54,怒る,おこる,화내다,[최근] 품사: 五段 · 起こる와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,起こる와 구분
+VERB-055,동사,1,55,起こる,おこる,"일어나다, 발생하다",[최근] 품사: 五段 · 怒る와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,怒る와 구분
+VERB-056,동사,1,56,真似る,まねる,따라하다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-057,동사,1,57,片付ける,かたづける,"정리하다, 치우다",[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-058,동사,1,58,限る,かぎる,"한정하다, 제한하다",[최근] 품사: 五段 · 〜とは限らない,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,〜とは限らない
+VERB-059,동사,1,59,決めつける,きめつける,단정짓다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-060,동사,1,60,腐る,くさる,썩다,[최근] 품사: 五段 · 쿠사리 관련 어원 설명에서 등장,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,쿠사리 관련 어원 설명에서 등장
+VERB-061,동사,1,61,頂く,いただく,"공손히 받다, 먹다/마시다",[최근] 품사: 五段 · いただきます,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,いただきます
+VERB-062,동사,1,62,飾る,かざる,"장식하다, 꾸미다",[최근] 품사: 五段 · kajaru 아님,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,kajaru 아님
+VERB-063,동사,1,63,抜く,ぬく,"빼다, 뽑다, 제거하다",[최근] 품사: 五段 · nukiru 아님,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,nukiru 아님
+VERB-064,동사,1,64,抜ける,ぬける,"빠지다, 빠져나가다",[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-065,동사,1,65,済ませる,すませる,"끝내다, 처리하다",[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-066,동사,1,66,済む,すむ,"끝나다, 해결되다",[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-067,동사,1,67,終わる,おわる,끝나다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-068,동사,1,68,終える,おえる,"끝내다, 마치다",[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-069,동사,1,69,溢れる,あふれる,넘치다,[최근] 품사: 一段 · ohureru 아님,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,ohureru 아님
+VERB-070,동사,1,70,溺れる,おぼれる,물에 빠지다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-071,동사,1,71,重ねる,かさねる,"포개다, 겹치다, 쌓다",[최근] 품사: 一段 · kasareru 아님,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,kasareru 아님
+VERB-072,동사,1,72,絞る,しぼる,"짜다, 좁히다",[최근] 품사: 五段 · 수건/범위,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,수건/범위
+VERB-073,동사,1,73,搾る,しぼる,짜내다,[최근] 품사: 五段 · 과일즙/우유,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,과일즙/우유
+VERB-074,동사,1,74,しまう／仕舞う,しまう,"넣다, 치우다, 끝내다",[최근] 품사: 五段 · sjimau 아님,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,sjimau 아님
+VERB-075,동사,1,75,信じる,しんじる,믿다,[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-076,동사,1,76,叩く,たたく,"두드리다, 치다",[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-077,동사,1,77,畳む,たたむ,"접다, 개다",[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-078,동사,1,78,付き合う,つきあう,"사귀다, 교제하다, 어울리다",[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-079,동사,1,79,溶ける,とける,녹다,[최근] 품사: 一段 · 解ける와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,解ける와 구분
+VERB-080,동사,1,80,解ける,とける,"풀리다, 해결되다",[최근] 품사: 一段 · 溶ける와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,溶ける와 구분
+VERB-081,동사,1,81,取り出す,とりだす,꺼내다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-082,동사,1,82,舐める,なめる,"핥다, 얕보다",[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-083,동사,1,83,話し合う,はなしあう,"서로 이야기하다, 의논하다",[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-084,동사,1,84,引き受ける,ひきうける,"맡다, 떠맡다",[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-085,동사,1,85,引き落とす,ひきおとす,자동이체로 빠져나가게 하다,[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-086,동사,1,86,ぶつける,ぶつける,"부딪치다, 부딪히게 하다",[최근] 품사: 一段 · 히라가나 중심,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,히라가나 중심
+VERB-087,동사,1,87,ぶつかる,ぶつかる,부딪히다,[최근] 품사: 五段 · 참고,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,참고
+VERB-088,동사,1,88,ほえる,ほえる,짖다,[최근] 품사: 一段 · 히라가나 중심,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,히라가나 중심
+VERB-089,동사,1,89,干す,ほす,"말리다, 널다",[최근] 품사: 五段 · hasu 아님,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,hasu 아님
+VERB-090,동사,1,90,混じる,まじる,섞이다,[최근] 품사: 五段 · 混ぜる와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,混ぜる와 구분
+VERB-091,동사,1,91,混ぜる,まぜる,섞다,[최근] 품사: 一段 · 混じる와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,混じる와 구분
+VERB-092,동사,1,92,待ち合わせる,まちあわせる,"만나기로 하다, 약속해서 만나다",[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-093,동사,1,93,迷う,まよう,"망설이다, 길을 헤매다",[최근] 품사: 五段,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,
+VERB-094,동사,1,94,破れる,やぶれる,찢어지다,[최근] 품사: 一段 · 破る와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,破る와 구분
+VERB-095,동사,1,95,破る,やぶる,찢다,[최근] 품사: 五段 · 破れる와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,破れる와 구분
+VERB-096,동사,1,96,許す,ゆるす,"용서하다, 허락하다",[최근] 품사: 五段 · yourusu 아님,,,JLPT_after_recent_md_verbs_only.md,verbs,五段,yourusu 아님
+VERB-097,동사,1,97,呼びかける,よびかける,"말을 걸다, 호소하다, 요청하다",[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-098,동사,1,98,分ける,わける,"나누다, 구분하다",[최근] 품사: 一段,,,JLPT_after_recent_md_verbs_only.md,verbs,一段,
+VERB-099,동사,1,99,交換する,こうかんする,교환하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-100,동사,1,100,加熱する,かねつする,가열하다,[최근] 품사: する동사 · 過熱와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,過熱와 구분
+VERB-101,동사,1,101,参加する,さんかする,참가하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-102,동사,1,102,支給する,しきゅうする,지급하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-103,동사,1,103,卒業する,そつぎょうする,졸업하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-104,동사,1,104,検査する,けんさする,검사하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-105,동사,1,105,調査する,ちょうさする,조사하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-106,동사,1,106,返事する,へんじする,"대답하다, 답장하다",[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-107,동사,1,107,選択する,せんたくする,선택하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-108,동사,1,108,相談する,そうだんする,"상담하다, 상의하다",[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-109,동사,1,109,宣伝する,せんでんする,"선전하다, 홍보하다",[최근] 품사: する동사 · 善戦 ぜんせん과 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,善戦 ぜんせん과 구분
+VERB-110,동사,1,110,商売する,しょうばいする,장사하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-111,동사,1,111,輸出する,ゆしゅつする,수출하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-112,동사,1,112,退院する,たいいんする,퇴원하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-113,동사,1,113,入院する,にゅういんする,입원하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-114,동사,1,114,観察する,かんさつする,관찰하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-115,동사,1,115,感心する,かんしんする,감탄하다,[최근] 품사: する동사 · 関心과 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,関心과 구분
+VERB-116,동사,1,116,期待する,きたいする,기대하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-117,동사,1,117,決心する,けっしんする,결심하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-118,동사,1,118,欠席する,けっせきする,결석하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-119,동사,1,119,制限する,せいげんする,제한하다,[최근] 품사: する동사 · 전에 물어본 단어,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,전에 물어본 단어
+VERB-120,동사,1,120,減少する,げんしょうする,감소하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-121,동사,1,121,競争する,きょうそうする,경쟁하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-122,동사,1,122,満足する,まんぞくする,만족하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-123,동사,1,123,反対する,はんたいする,반대하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-124,동사,1,124,維持する,いじする,유지하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-125,동사,1,125,建設する,けんせつする,건설하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-126,동사,1,126,経由する,けいゆする,경유하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-127,동사,1,127,検討する,けんとうする,검토하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-128,동사,1,128,滞在する,たいざいする,"체재하다, 체류하다",[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-129,동사,1,129,報告する,ほうこくする,보고하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-130,동사,1,130,比較する,ひかくする,비교하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-131,동사,1,131,注射する,ちゅうしゃする,주사하다,[최근] 품사: する동사 · 駐車와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,駐車와 구분
+VERB-132,동사,1,132,駐車する,ちゅうしゃする,주차하다,[최근] 품사: する동사 · 注射와 구분,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,注射와 구분
+VERB-133,동사,1,133,募集する,ぼしゅうする,모집하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-134,동사,1,134,表示する,ひょうじする,표시하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-135,동사,1,135,掃除する,そうじする,청소하다,[최근] 품사: する동사 · 전에 물어본 단어,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,전에 물어본 단어
+VERB-136,동사,1,136,処理する,しょりする,처리하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-137,동사,1,137,移動する,いどうする,이동하다,[최근] 품사: する동사,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,
+VERB-138,동사,1,138,邪魔する,じゃまする,방해하다,[최근] 품사: する동사 · 邪魔するな,,,JLPT_after_recent_md_verbs_only.md,verbs,する동사,邪魔するな
+VERB-139,동사,1,139,真似をする,まねをする,따라하다,[최근] 품사: 표현 · 真似る와 같은 의미,,,JLPT_after_recent_md_verbs_only.md,verbs,표현,真似る와 같은 의미
