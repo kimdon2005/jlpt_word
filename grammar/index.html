@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>N3 문법 회독 | JLPT 회독</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="site-header">
+      <a class="brand" href="../">JLPT 회독</a>
+      <nav class="site-nav" aria-label="학습 영역 이동">
+        <a href="../N5/">N5</a><a href="../N4/">N4</a><a href="../N3/">N3</a><a class="active" href="./">문법</a><a href="../review/">모르는 단어</a>
+      </nav>
+    </header>
+
+    <main aria-live="polite">
+      <section class="page-intro level-intro grammar-intro">
+        <div>
+          <p class="eyebrow">N3 GRAMMAR PATTERNS</p>
+          <h1>문법 회독</h1>
+          <p class="intro-copy">보기에서 헷갈리는 문형부터 · 접속과 구별 포인트 중심</p>
+        </div>
+        <div class="stats stats-four">
+          <div><strong id="grammarCount">0</strong><span>핵심 문형</span></div>
+          <div><strong id="grammarDeckCount">0</strong><span>전체 장</span></div>
+          <div><strong id="grammarCompletedCount">0</strong><span>완료</span></div>
+          <div><strong id="grammarReviewCount">0</strong><span>헷갈림</span></div>
+        </div>
+      </section>
+
+      <section id="deckView">
+        <div class="grammar-action-bar">
+          <div>
+            <p class="eyebrow">PRIORITY REVIEW</p>
+            <h2>우선순위 회독</h2>
+          </div>
+          <div class="grammar-header-actions">
+            <button id="reviewGrammarBtn" class="secondary-action" type="button">헷갈린 문형</button>
+            <button id="randomGrammarBtn" class="test-button" type="button">랜덤 회독 20개</button>
+          </div>
+        </div>
+        <p class="grammar-guide">1장부터 난도가 높은 것이 아니라, 실제 보기에서 충돌하기 쉬운 순서입니다. 먼저 뜻을 떠올린 뒤 접속을 확인하세요.</p>
+        <div id="grammarDeckGrid" class="stage-grid grammar-deck-grid"></div>
+
+        <details class="source-note">
+          <summary>선정 기준과 참고 자료</summary>
+          <p>로컬 N3 문법 PDF 2개의 문형을 합친 뒤, N5 수준의 기본 조사·활용은 제외했습니다. JLPT는 공식 고정 문법 목록을 공개하지 않으므로 N3 문법형 선택, 문장 조립, 글 흐름 판단에 맞춰 유사 문형 판별을 우선했습니다. 예문과 설명은 학습용으로 새로 작성했습니다.</p>
+          <ul>
+            <li><a href="https://samplequestions.jlpt.jp/e/guideline/pdf/n3_e.pdf" target="_blank" rel="noreferrer">JLPT N3 출제 문항 구성</a></li>
+            <li><a href="https://www.mlcjapanese.co.jp/n3_04_12.html" target="_blank" rel="noreferrer">MLC N3 わけではない</a></li>
+            <li><a href="https://www.japanistry.com/conditionals/" target="_blank" rel="noreferrer">Japanistry 조건 표현 비교</a></li>
+            <li><a href="https://nihongokyoshi-net.com/2018/07/18/jlptn3-grammar-wakedewanai/" target="_blank" rel="noreferrer">日本語NET N3 문형 자료</a></li>
+          </ul>
+        </details>
+      </section>
+
+      <section id="grammarListView" class="word-list-view hidden">
+        <div class="view-header">
+          <button id="backGrammarDeckBtn" class="text-btn" type="button">단계 목록</button>
+          <div><p id="grammarListMeta" class="eyebrow"></p><h2 id="grammarListTitle"></h2></div>
+          <button id="startGrammarListBtn" class="header-action" type="button">이 장 회독</button>
+        </div>
+        <div id="grammarList" class="grammar-list"></div>
+      </section>
+
+      <section id="grammarStudyView" class="card-panel hidden">
+        <div class="study-topbar">
+          <a class="text-btn link-btn" href="../">홈</a>
+          <button id="studyGrammarBackBtn" class="text-btn" type="button">단계 목록</button>
+        </div>
+        <div id="grammarCompleteView" class="complete hidden"></div>
+        <article id="grammarCardView" class="word-card grammar-card">
+          <div class="card-top">
+            <span id="grammarCardMeta" class="badge"></span>
+            <span id="grammarFamilyBadge" class="badge count-badge"></span>
+            <span id="grammarSavedBadge" class="badge saved hidden">헷갈림</span>
+          </div>
+          <div class="progress-wrap">
+            <div class="progress-bar"><span id="grammarProgressFill"></span></div>
+            <p id="grammarProgressText"></p>
+          </div>
+          <section class="front grammar-front">
+            <p class="front-label">뜻과 접속을 먼저 떠올리기</p>
+            <h2 id="grammarPattern"></h2>
+            <p id="grammarType" class="grammar-front-type"></p>
+          </section>
+          <button id="revealGrammarBtn" class="grammar-reveal-button" type="button">뜻 · 접속 보기</button>
+          <section id="grammarAnswer" class="grammar-answer hidden">
+            <div class="grammar-answer-main">
+              <div><span>핵심 뜻</span><strong id="grammarMeaning"></strong></div>
+              <div><span>접속</span><strong id="grammarConnection"></strong></div>
+            </div>
+            <div class="grammar-point"><span>쓰는 감각</span><p id="grammarNuance"></p></div>
+            <div class="grammar-point contrast"><span>보기 구별</span><p id="grammarContrast"></p></div>
+            <div class="grammar-example">
+              <span>예문</span><strong id="grammarExample"></strong>
+              <p id="grammarExampleReading"></p>
+              <p id="grammarExampleKo"></p>
+            </div>
+          </section>
+          <div class="decision-actions grammar-decisions">
+            <button id="confusingGrammarBtn" class="study" type="button">헷갈림</button>
+            <button id="knownGrammarBtn" class="known" type="button">알고있음</button>
+          </div>
+          <div class="nav-actions">
+            <button id="prevGrammarBtn" type="button">이전</button>
+            <button id="resetGrammarBtn" type="button">처음부터</button>
+            <button id="nextGrammarBtn" type="button">다음</button>
+          </div>
+          <p class="keyboard-help">Space 정답 · S 헷갈림 · Enter 알고있음 · ← → 이동</p>
+        </article>
+      </section>
+    </main>
+
+    <footer class="footer">문형별 헷갈림 기록은 이 브라우저에 저장됩니다.</footer>
+  </div>
+
+  <script src="../data/jlpt_grammar_data.js"></script>
+  <script src="../scripts/grammar.js"></script>
+</body>
+</html>
