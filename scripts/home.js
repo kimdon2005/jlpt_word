@@ -24,6 +24,7 @@
     $("#studyClicks").textContent = window.JLPT.totalStudyCount();
     $("#reviewCount").textContent = `${window.JLPT.reviewIds.size}개`;
     $("#grammarPatternCount").textContent = `${(window.JLPT_GRAMMAR || []).length}개`;
+    $("#finalSessionCount").textContent = `${(window.JLPT_FINAL?.words || []).length}개`;
 
     const grid = $("#levelCards");
     grid.replaceChildren();

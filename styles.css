@@ -301,6 +301,17 @@ h1 {
   background: var(--surface);
 }
 
+.final-strip {
+  border-color: rgba(198, 83, 50, 0.45);
+  background: linear-gradient(135deg, #fff0e9 0%, #fffaf6 100%);
+}
+
+.final-strip p:not(.eyebrow) {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
 .review-strip h2,
 .grammar-strip h2 {
   margin: 0;
@@ -915,6 +926,85 @@ h1 {
   min-height: 250px;
 }
 
+.final-deck-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.final-deck-card {
+  min-height: 278px;
+}
+
+.final-stage-actions {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.final-stage-actions button:first-child {
+  grid-column: 1 / -1;
+}
+
+.final-list {
+  border-top: 1px solid var(--line);
+  background: var(--surface);
+}
+
+.final-list-row {
+  display: grid;
+  grid-template-columns: minmax(190px, 0.75fr) minmax(180px, 0.75fr) minmax(280px, 1.4fr);
+  gap: 18px;
+  padding: 15px 16px;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  border-left: 1px solid var(--line);
+}
+
+.final-list-row > div {
+  display: grid;
+  align-content: start;
+  gap: 5px;
+  min-width: 0;
+}
+
+.final-list-row strong {
+  font-size: 19px;
+  line-height: 1.4;
+}
+
+.final-list-row span,
+.final-list-row p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.final-list-source {
+  color: var(--info) !important;
+  font-size: 11px !important;
+  font-weight: 900;
+}
+
+.final-frequency-badge {
+  color: var(--info);
+  background: var(--info-soft);
+}
+
+.final-frequency-badge.top {
+  color: #fff;
+  background: var(--accent);
+}
+
+.final-source-line {
+  margin: 0;
+  color: var(--info);
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.source-note code {
+  color: var(--ink);
+  font-size: 12px;
+}
+
 .grammar-tags {
   display: flex;
   flex-wrap: wrap;
@@ -1117,7 +1207,7 @@ h1 {
 
   .site-nav {
     display: grid;
-    grid-template-columns: repeat(5, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 4px;
   }
 
@@ -1145,6 +1235,10 @@ h1 {
     justify-self: stretch;
   }
 
+  .stats-four {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .stats div {
     padding: 11px 8px;
   }
@@ -1154,7 +1248,8 @@ h1 {
   }
 
   .level-grid,
-  .stage-grid {
+  .stage-grid,
+  .final-deck-grid {
     grid-template-columns: 1fr;
   }
 
@@ -1202,6 +1297,11 @@ h1 {
   }
 
   .grammar-list-row {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .final-list-row {
     grid-template-columns: 1fr;
     gap: 10px;
   }

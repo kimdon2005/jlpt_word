@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>최종 벼락치기 | JLPT 회독</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="site-header">
+      <a class="brand" href="../">JLPT 회독</a>
+      <nav class="site-nav" aria-label="학습 영역 이동">
+        <a href="../N5/">N5</a><a href="../N4/">N4</a><a href="../N3/">N3</a><a href="../grammar/">문법</a><a class="active" href="./">최종</a><a href="../review/">모르는 단어</a>
+      </nav>
+    </header>
+
+    <main aria-live="polite">
+      <section class="page-intro level-intro final-intro">
+        <div>
+          <p class="eyebrow">FINAL CRAM SESSION</p>
+          <h1>최종 벼락치기</h1>
+          <p class="intro-copy">영상 3개에 실제 등장한 항목만 · 영상 간 반복 노출 우선</p>
+        </div>
+        <div class="stats stats-four">
+          <div><strong id="finalWordCount">0</strong><span>최빈출 단어</span></div>
+          <div><strong id="finalKanjiCount">0</strong><span>한자 점검</span></div>
+          <div><strong id="finalGrammarCount">0</strong><span>문법 문형</span></div>
+          <div><strong id="finalReviewCount">0</strong><span>다시 볼 것</span></div>
+        </div>
+      </section>
+
+      <section id="finalDeckView">
+        <div class="grammar-action-bar">
+          <div><p class="eyebrow">SOURCE FREQUENCY</p><h2>특별 세션</h2></div>
+          <button id="finalAllReviewBtn" class="test-button" type="button">다시 볼 것 전체</button>
+        </div>
+        <p class="grammar-guide">같은 영상 안의 반복은 제외하고, 서로 다른 영상에서 나온 횟수로 정렬했습니다. 단어 회독은 2개 이상 영상에 공통으로 나온 항목만 담았습니다.</p>
+        <div id="finalDeckGrid" class="stage-grid final-deck-grid"></div>
+
+        <details class="source-note">
+          <summary>자료 범위와 정리 기준</summary>
+          <p><code>파고다.rtf</code>, <code>신정원_파고다.rtf</code>, <code>이지민_시원스쿨.rtf</code>의 자동 자막을 분석했습니다. 강사가 뜻·읽기·용법을 직접 설명한 항목만 넣었고, 중복 저장된 자막은 한 번만 계산했습니다. 음성 인식만으로 원형을 확정할 수 없는 항목과 시험 안내 문장은 제외했습니다.</p>
+        </details>
+      </section>
+
+      <section id="finalListView" class="word-list-view hidden">
+        <div class="view-header">
+          <button id="finalListBackBtn" class="text-btn" type="button">세션 목록</button>
+          <div><p id="finalListMeta" class="eyebrow"></p><h2 id="finalListTitle"></h2></div>
+          <button id="finalListStartBtn" class="header-action" type="button">이 세션 회독</button>
+        </div>
+        <div id="finalList" class="final-list"></div>
+      </section>
+
+      <section id="finalStudyView" class="card-panel hidden">
+        <div class="study-topbar">
+          <a class="text-btn link-btn" href="../">홈</a>
+          <button id="finalStudyBackBtn" class="text-btn" type="button">세션 목록</button>
+        </div>
+        <div id="finalCompleteView" class="complete hidden"></div>
+        <article id="finalCardView" class="word-card grammar-card">
+          <div class="card-top">
+            <span id="finalCardMeta" class="badge"></span>
+            <span id="finalTypeBadge" class="badge count-badge"></span>
+            <span id="finalFrequencyBadge" class="badge final-frequency-badge"></span>
+            <span id="finalSavedBadge" class="badge saved hidden">다시 볼 것</span>
+          </div>
+          <div class="progress-wrap">
+            <div class="progress-bar"><span id="finalProgressFill"></span></div>
+            <p id="finalProgressText"></p>
+          </div>
+          <section class="front grammar-front">
+            <p id="finalFrontLabel" class="front-label"></p>
+            <h2 id="finalTerm"></h2>
+          </section>
+          <button id="finalRevealBtn" class="grammar-reveal-button" type="button">정답 보기</button>
+          <section id="finalAnswer" class="grammar-answer hidden">
+            <div class="grammar-answer-main">
+              <div><span id="finalAnswerALabel">읽기</span><strong id="finalAnswerA"></strong></div>
+              <div><span id="finalAnswerBLabel">뜻</span><strong id="finalAnswerB"></strong></div>
+            </div>
+            <div id="finalNoteBox" class="grammar-point contrast"><span id="finalNoteLabel">암기 포인트</span><p id="finalNote"></p></div>
+            <div id="finalExtraBox" class="grammar-point hidden"><span id="finalExtraLabel"></span><p id="finalExtra"></p></div>
+            <div id="finalExampleBox" class="grammar-example hidden">
+              <span>예문</span><strong id="finalExample"></strong>
+              <p id="finalExampleReading"></p><p id="finalExampleKo"></p>
+            </div>
+            <p id="finalSourceLine" class="final-source-line"></p>
+          </section>
+          <div class="decision-actions grammar-decisions">
+            <button id="finalSaveBtn" class="study" type="button">다시 볼 것</button>
+            <button id="finalKnownBtn" class="known" type="button">알고 있음</button>
+          </div>
+          <div class="nav-actions">
+            <button id="finalPrevBtn" type="button">이전</button>
+            <button id="finalResetBtn" type="button">처음부터</button>
+            <button id="finalNextBtn" type="button">다음</button>
+          </div>
+          <p class="keyboard-help">Space 정답 · S 다시 볼 것 · Enter 알고 있음 · ← → 이동</p>
+        </article>
+      </section>
+    </main>
+
+    <footer class="footer">특별 세션의 기록은 이 브라우저에 따로 저장됩니다.</footer>
+  </div>
+
+  <script src="../data/jlpt_grammar_data.js"></script>
+  <script src="../data/jlpt_final_data.js"></script>
+  <script src="../scripts/final.js"></script>
+</body>
+</html>
